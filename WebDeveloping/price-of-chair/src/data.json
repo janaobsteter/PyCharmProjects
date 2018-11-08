@@ -1,0 +1,17 @@
+{
+  "students": [
+    {
+      "name": "Ana",
+      "mark": 100
+      "id": "SI89712"
+    },{
+      "name": "Luka",
+      "mark": 80
+      "id": "SI82222"
+    },{
+      "name": "Mark",
+      "mark": 103
+      "id": "SI37894"
+    }
+  ]
+}
