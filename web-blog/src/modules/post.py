@@ -1,16 +1,16 @@
 import uuid
-from database import Database
+from src.common.database import Database
 import datetime
 
 
 class Post(object):
-    def __init__(self, blog_id, title, content, author, date=datetime.datetime.utcnow(), id=None):
+    def __init__(self, blog_id, title, content, author, date=datetime.datetime.utcnow()):
         self.blog_id = blog_id
         self.title = title
         self.content = content
         self.author = author
         # self.id = id
-        self.id = uuid.uuid4().hex if id is None else id
+        self._id = uuid.uuid4().hex if blog_id is None else blog_id
         #uuid = universly unique identifier, uiid4 generates id, #4 is random id, .hex = 32bit character hexadecimal string
         self.date = date
 
@@ -19,7 +19,7 @@ class Post(object):
 
     def json(self): #creates a json representation of the post
         return {
-            "id": self.id,
+            "_id": self._id,
             "blog_id": self.blog_id,
             "date": self.date,
             "title": self.title,
@@ -29,13 +29,8 @@ class Post(object):
 
     @classmethod
     def from_mongo(cls, id): #Post.from_mongo(posdID) returns the post from mongo
-       post_data = Database.find_one(collection="posts", query={"id": id})
-       return cls(blog_id=post_data["blog_id"],
-                  title=post_data["title"],
-                  content=post_data["content"],
-                  author=post_data["author"],
-                  date=post_data["date"],
-                  id=post_data["id"])
+       post_data = Database.find_one(collection="posts", query={"_id": id})
+       return cls(**post_data)
 
     @staticmethod
     #return all posts belonging to a blog
