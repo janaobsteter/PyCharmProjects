@@ -1,9 +1,27 @@
 {% extends "base.html" %}
 {% block content %}
-    <form id="login-form">
-        <input type="text" id="email" name="email">
-        <input type="password" id="password" name="password">
-
-        <input type="submit" id="submit-button">
+<ul class="nav justify-content-end">
+    <li class="nav-item">
+        <a class="nav-link" href="/login">Login</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="/register">Register</a>
+    </li>
+</ul>
+<div class="container page-form p-3 mb-2 bg-secondary text-white">
+    <p class="font-weight-bold">Enter your login details:</p>
+    <form id="login-form" action="/auth/login" method="post">
+        <div class="form-group">
+            <label for="email">Email</label>
+        <input type="text" id="email" class="form-control" name="email" placeholder="Enter username">
+        </div>
+        <div class="form-group">
+            <label for="password">Password</label>
+        <input type="password" id="password" class="form-control" name="password" placeholder="Enter password">
+        </div>
+        <div class="d-flex justify-content-end">
+         <button type="submit" class="btn btn-info">Log in</button>
+        </div>
     </form>
+</div>
 {% endblock %}

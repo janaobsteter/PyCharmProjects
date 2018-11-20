@@ -16,12 +16,12 @@ import datetime
 #4) change the inputs since thy will be coming from the browser
 
 class Blog(object):
-    def __init__(self, author, author_id, title, description, blog_id = None):
+    def __init__(self, author, author_id, title, description, _id = None):
         self.author = author
         self.author_id = author_id
         self.title = title
         self.description = description
-        self._id = uuid.uuid4().hex if blog_id is None else blog_id
+        self._id = uuid.uuid4().hex if _id is None else _id
 
     def new_post(self, title, content, date=datetime.datetime.utcnow()):
         post = Post(blog_id= self._id,
@@ -54,5 +54,5 @@ class Blog(object):
 
     @classmethod
     def find_by_author_id(cls, author_id):
-        return [cls(blog) for blog in  Database.find(collection="blogs", query={"author_id": author_id})]
+        return [cls(**blog) for blog in  Database.find(collection="blogs", query={"author_id": author_id})]
     #this is returning list of Blog objects
