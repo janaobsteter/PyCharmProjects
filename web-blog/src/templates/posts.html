@@ -1,19 +1,23 @@
 {% extends "base.html" %}
 {% block content %}
-<div class="container p-3 mb-2 bg-info text-white">
-   <div class="space"></div>
-<div class="container p-3 mb-2 bg-secondary text-white">
     <div class="space"></div>
-    <font face="Arial" size=18 color="white">{{ blog_title }}</font>
-    <div class="space"></div>
-</div>
+    <div class="container p-3 mb-2 bg-secondary text-white">
+        <div class="space"></div>
+        <font face="Arial" size=18 color="white">{{ blog_title }}</font>
+        <div class="space"></div>
+        <a href="/posts/new/{{ blog_id }}"><button class="btn btn-info">New post</button></a>
+        <div class="space"></div>
     <div class="p-3 mb-2 bg-white text-dark">
-    {% for post in posts %}
-        <h3>{{ post.title }}</h3>
-        <p>{{ post.content }}</p>
-        <p>{{ post.author }}</p>
-        <hr>
-    {% endfor %}
+            {% if posts|length > 0 %}
+                {% for post in posts %}
+                    <h3>{{ post.title }}</h3>
+                    <p>{{ post.content }}</p>
+                    <p>{{ post.author }}</p>
+                    <hr>
+                {% endfor %}
+            {% else %}
+                <h4>There are no posts yet.</h4>
+            {% endif %}
     </div>
-</div>
+    <a href="/blogs"><button class="btn btn-info">Back to blog</button></a>
 {% endblock %}

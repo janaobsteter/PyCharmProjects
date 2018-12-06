@@ -4,13 +4,13 @@ import datetime
 
 
 class Post(object):
-    def __init__(self, blog_id, title, content, author, date=datetime.datetime.utcnow()):
+    def __init__(self, blog_id, title, content, author, date=datetime.datetime.utcnow(), _id=None):
         self.blog_id = blog_id
         self.title = title
         self.content = content
         self.author = author
         # self.id = id
-        self._id = uuid.uuid4().hex if blog_id is None else blog_id
+        self._id = uuid.uuid4().hex if _id is None else _id
         #uuid = universly unique identifier, uiid4 generates id, #4 is random id, .hex = 32bit character hexadecimal string
         self.date = date
 
