@@ -2,9 +2,11 @@ from flask import Flask
 
 from src.common.database import Database
 
+__author__ = "janao"
+
 app = Flask(__name__)
 app.config.from_object('config')
-app.secret_key = "0123" #this is the key to secure the cookie
+app.secret_key = '123'  #this is the key to secure the cookie
 
 
 @app.before_first_request
