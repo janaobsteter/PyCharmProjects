@@ -1,0 +1,1971 @@
+
+<!DOCTYPE html>
+
+<!--[if lt IE 7 ]> <html lang="en" id="top" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" id="top" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" id="top" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" id="top" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js" id="top" lang="en"> <!--<![endif]-->
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Ležišče Imemory Silver</title>
+<meta content="Obračljivo ležišče iMemory Silver iz inovativnih materialov za kvaliteten spanec in popolno sprostitev, brez bolečin in potenja." name="description"/>
+<meta content="Ležišče iMemory Silver" name="keywords"/>
+<meta content="INDEX,FOLLOW" name="robots"/>
+<link href="http://dormeosi.azureedge.net/skin/frontend/sm/dormeo/favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="http://dormeosi.azureedge.net/skin/frontend/sm/dormeo/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'http://dormeosi.azureedge.net/js/blank.html';
+    var BLANK_IMG = 'http://dormeosi.azureedge.net/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+<link href="http://dormeosi.azureedge.net/skin/frontend/sm/dormeo/css/A.fonts-latin.css,qq=20181106.pagespeed.cf.MY2luyO30h.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://dormeosi.azureedge.net/skin/frontend/sm/default/css/A.styles.min.css,qq=20181106.pagespeed.cf.gTxJReuzHj.css" media="all" rel="stylesheet" type="text/css"/>
+<style media="all">.snowcreditagricoleraty-notenought{}.snowcreditagricoleraty-tomuch{}.snowcreditagricoleraty-product{}.snowcreditagricoleraty-payment-notice{}.snowcreditagricoleraty-excluded{}.snowcreditagricoleraty-infobox{text-align:center}.snowcreditagricoleraty-wrongamount{}#service-calculate-installment button{background:none;border:0;cursor:pointer}</style>
+<link href="http://dormeosi.azureedge.net/skin/frontend/sm/dormeo/css/A.theme.css,qq=20181106.pagespeed.cf.4IOga8wYC7.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://dormeosi.azureedge.net/skin/frontend/sm/default/css/A.lib.min.css,qq=20181106.pagespeed.cf.fCv1QdJdVO.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://dormeosi.azureedge.net/skin/frontend/sm/default/css/A.sm-main.css,qq=20181106.pagespeed.cf.uz5jKC5uG-.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://dormeosi.azureedge.net/skin/frontend/sm/dormeo/css/A.sm-theme.css,qq=20181106.pagespeed.cf.31lflMr9E8.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://dormeosi.azureedge.net/skin/frontend/base/default/js/amasty/amconf/css/A.amconf.css,qq=20181106.pagespeed.cf.Cqb_5BvefW.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://dormeosi.azureedge.net/skin/frontend/sm/default/css/A.giftpromo.css,qq=20181106.pagespeed.cf.-lJnVfXquJ.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://dormeosi.azureedge.net/skin/frontend/base/default/css/click-and-collect/A.click_and_collect.css,qq=20181106.pagespeed.cf.CkqcUxvfEO.css" media="all" rel="stylesheet" type="text/css"/>
+<script src="http://dormeosi.azureedge.net/js/sm/magento.js,qq=20181106.pagespeed.jm.K1V9aGgv9o.js" type="text/javascript"></script>
+<script src="http://dormeosi.azureedge.net/skin/frontend/sm/default/js/product.min.js?q=20181106" type="text/javascript"></script>
+<link href="http://www.dormeo.net/lezisce-imemory-silver-dormeo/" rel="canonical"/>
+<!--[if  (lte IE 8) & (!IEMobile)]>
+<link rel="stylesheet" type="text/css" href="http://dormeosi.azureedge.net/skin/frontend/sm/default/css/styles-ie8.css?q=20181106" media="all" />
+<![endif]-->
+<script type="text/javascript">Mage.Cookies.path='/';Mage.Cookies.domain='.www.dormeo.net';</script>
+<meta content="initial-scale=1.0, width=device-width" name="viewport"/>
+<script type="text/javascript">optionalZipCountries=["HK","IE","MO","PA","RO"];</script>
+<meta content="www.pages04.net,bidifit.com.mk,delimano-ks.com,delimano.al,delimano.ba,delimano.bg,delimano.com.mk,delimano.com.tr,delimano.com.ua,delimano.cz,delimano.ee,delimano.hr,delimano.hu,delimano.lt,delimano.lv,delimano.md,delimano.me,delimano.pl,delimano.ro,delimano.rs,delimano.ru,delimano.si,delimano.sk,dormeo-ks.com,dormeo.al,dormeo.ba,dormeo.bg,dormeo.com.hr,dormeo.com.mk,dormeo.com.tr,dormeo.com.ua,dormeo.cz,dormeo.ee,dormeo.hu,dormeo.lt,dormeo.lv,dormeo.md,dormeo.me,dormeo.net,dormeo.pl,dormeo.ro,dormeo.rs,dormeo.ru,dormeo.sk,kosmodisk-ks.com,kosmodisk.al,kosmodisk.ba,kosmodisk.bg,kosmodisk.com.hr,kosmodisk.com.mk,kosmodisk.com.tr,kosmodisk.com.ua,kosmodisk.ee,kosmodisk.hu,kosmodisk.lt,kosmodisk.lv,kosmodisk.md,kosmodisk.me,kosmodisk.pl,kosmodisk.ro,kosmodisk.rs,kosmodisk.si,kosmodisk.sk,live-active.ee,live-active.me,liveactive.ba,liveactive.cz,liveactive.hu,liveactive.lt,liveactive.lv,liveactive.pl,liveactive.ro,liveactive.rs,liveactive.si,liveactive.sk,ru.delimano.com.ua,ru.delimano.ee,ru.delimano.lv,ru.delimano.md,ru.dormeo.com.ua,ru.dormeo.ee,ru.dormeo.lv,ru.dormeo.md,ru.kosmodisk.lv,ru.kosmodisk.md,ru.live-active.ee,ru.liveactive.lv,ru.sharkclean.ee,ru.top-shop.ee,ru.top-shop.lv,ru.top-shop.md,ru.topshop.ee,ru.topshoptv.com.ua,ru.walkmaxx.com.ua,ru.walkmaxx.ee,ru.walkmaxx.lv,ru.walkmaxx.md,shark.al,shark.co.me,shark.com.hr,shark.com.mk,shark.md,shark.rs,sharkclean.ba,sharkclean.bg,sharkclean.ee,sharkclean.lt,sharkclean.lv,sharkclean.pl,sharkclean.ro,sharkclean.si,sharkclean.sk,sharkoriginal.cz,top-shop.lv,top-shop.md,top-shop.me,top-shop.ro,top-shop.rs,top-shop.ru,topshop-ks.com,topshop.al,topshop.ba,topshop.bg,topshop.com.hr,topshop.com.mk,topshop.com.tr,topshop.cz,topshop.ee,topshop.hu,topshop.lt,topshop.pl,topshop.si,topshop.sk,topshoptv.com.ua,walkmaxx.ba,walkmaxx.bg,walkmaxx.com.mk,walkmaxx.com.tr,walkmaxx.com.ua,walkmaxx.ee,walkmaxx.hr,walkmaxx.hu,walkmaxx.lt,walkmaxx.lv,walkmaxx.md,walkmaxx.me,walkmaxx.pl,walkmaxx.ro,walkmaxx.rs,walkmaxx.si,walkmaxx.sk,wellneo.ba,wellneo.cz,wellneo.ee,ru.wellneo.ee,wellneo.hu,wellneo.lv,ru.wellneo.lv,wellneo.lt,wellneo.com.mk,wellneo.me,wellneo.ro,wellneo.rs,wellneo.sk,wellneo.si,napsie.si,napsie.cz,napsie.ee,ru.napsie.ee,napsie.lv,ru.napsie.lv,napsie.lt,napsie.ro,napsie.hu,www.delimano.ru,www.dormeo.ru,www.top-shop.ru" name="com.silverpop.brandeddomains"/>
+<!-- Optionally uncomment the following code between your HTML document head tags if you use Engage Conversion Tracking (COT). -->
+<meta content="pod4.ibmmarketingcloud.com" name="com.silverpop.cothost"/><script type="text/javascript">var Translator=new Translate({"Please select an option.":"Izberite mo\u017enost.","This is a required field.":"To je zahtevano polje.","Please enter a valid number in this field.":"V to polje vnesite veljavno \u0161tevilko.","Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.":"V to polje vnesite samo \u0161tevilko. Ne uporabljajte presledkov ali drugih znakov, kot pik ali vejic.","Please enter a valid email address. For example johndoe@domain.com.":"Vnesite veljaven e-po\u0161tni naslov. Na primer janeznovak@domena.com.","Please enter 6 or more characters. Leading or trailing spaces will be ignored.":"Vnesite 6 ali ve\u010d znakov. Za\u010detni in kon\u010dni presledki bodo ignorirani.","Please make sure your passwords match.":"Prosimo, prepri\u010dajte se, da se gesla ujemajo.","Please enter a valid zip code. For example 90602 or 90602-1234.":"Vnesite veljavno po\u0161tno \u0161tevilko. Na primer 1000 ali 2270.","Please select one of the options.":"Prosimo, izberite eno od mo\u017enosti.","Text length does not satisfy specified text range.":"Dol\u017eina ne ustreza dolo\u010denem besedilnem obsegu.","Please wait, loading...":"Prosimo, po\u010dakajte, se nalaga ...","Complete":"Dokon\u010dano","Add Products By SKU":"Dodaj izdelke po skladi\u0161\u010dni \u0161tevilki","Please specify payment method.":"Izberite na\u010din pla\u010dila.","Add to Cart":"Dodaj v ko\u0161arico","In Stock":"Na zalogi","Out of Stock":"Ni na zalogi","Wishlist Name":"Ime seznama \u017eelja","Save":"Shrani","Cancel":"Prekli\u010di","Make This Wishlist Public":"Objavi seznam \u017eelja","Error happened during wishlist creation. Try again later":"Med ustvarjanjem seznama \u017eelja je pri\u0161lo do napake. Poskusite ponovno pozneje","Create New Wishlist":"Ustvari nov seznam \u017eelja","Edit Wishlist":"Uredi seznam \u017eelja","Select items to move":"Izberite izdelke za premikanje","Select items to copy":"Izberite izdelke za kopiranje","Add to:":"Dodaj v:","Add to Wishlist":"Dodaj na seznam \u017eelja","Remove":"Odstrani","Loading...":"Nalaganje ...","View More":"Prika\u017ei ve\u010d","View Less":"Prika\u017ei manj","Continue to confirmation":"Nadaljuj na potrditev","Continue to online payment":"Nadaljuj na spletno pla\u010dilo","Finish your order":"Zaklju\u010di nakup","Continue to online application":"Nadaljuj na spletno aplikacijo","Continue":"Nadaljuj","Please select color.":"Izberite barvo.","Please select size \/ dimension.":"Prosimo, izberite velikost.","days":"dni","hours":"ur","sec":"sek","Offers are valid till:":"Akcija velja samo \u0161e:","Offers Expired!":"Akcija je kon\u010dana!","For comparison you have to choose at least 2 products.":"Za primerjavo morate izbrati vsaj dva izdelka","day-short":"d","hour-short":"h","min-short":"m","sec-short":"s","Inappropriate field content":"Neprimerna vsebina, prosimo popravite","Please select one of each of the ratings above":"Prosimo, izberite po eno zgornjo oceno"});</script><meta content="LOwfbu4urkejgwXHsgyF9RbnSbbPTz8jH-WfHxqHV7w" name="google-site-verification"/>
+<!-- Facebook product meta -->
+<meta content="Ležišče iMemory Silver" property="og:title"/>
+<meta content="product" property="og:type"/>
+<meta content="http://dormeosi.azureedge.net/media/catalog/product/cache/37/small_image/200x200/9df78eab33525d08d6e5fb8d27136e95/i/m/imemory_silver_mattress_4.jpg" property="og:image"/>
+<meta content="http://www.dormeo.net/lezisce-imemory-silver-dormeo" property="og:url"/>
+<meta content="Hipoalergeno 3-consko ležišče je visoko 18 cm. Obračljivo jedro s čvrsto in mehkejšo stranjo nudi 4 različne možnosti trdote ležišča: od mehke do čvrste. Ležišče je popolna izbira za vse spalne položaje in oblike telesa. Prevleka iz spominske pene je pralna. Ima 30 noči testnega obdobja in 15 let podaljšane garancije. Izdelamo ga tudi po meri." property="og:description"/>
+<meta content="si_dormeo_si" property="og:site_name"/>
+</head>
+<body class=" catalog-product-view dormeo si-si showinventoryonproduct catalog-product-view product-lezisce-imemory-silver-dormeo categorypath-mattresses category-mattresses">
+<!-- FPC Cache Id -->
+<!-- REQEST_940F34898AA48D85C9077C803B666721 -->
+<!-- FPC Metadata Cache Id -->
+<!-- REQEST_11DE6D1F2930FD490BF78E2ACFB07E60 -->
+<!-- Google Tag Manager -->
+<script>dataLayer=[{"visitorLoginState":"Logged out","visitorType":"NOT LOGGED IN","visitorLifetimeValue":0,"visitorExistingCustomer":"No","PageType":"ProductPage","PageName":"DORMEO IMEMORY SILVER","IpType":"external"}];</script>
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-5B3BRS" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5B3BRS');</script>
+<!-- End Google Tag Manager -->
+<script type="text/javascript">var _toq=_toq||[];_toq.push(['_setSite','1081','12',],['_trackEvent','','']);(function(){var jstc=document.createElement('script');jstc.type='text/javascript';jstc.async=true;jstc.src=('https:'==document.location.protocol?'https://':'http://')+'smcommon.azureedge.net/javascripts/Tracking.min.js';var jss=document.getElementsByTagName('script')[0];jss.parentNode.insertBefore(jstc,jss);})();</script>
+<div class="wrapper">
+<noscript>
+<div class="global-site-notice noscript">
+<div class="notice-inner">
+<p>
+<strong>JavaScript seems to be disabled in your browser.</strong><br/>
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+</div>
+</div>
+</noscript>
+<div class="page">
+<div class="header-full-width">
+<div class="brand-bg"></div>
+<div class="header-container">
+<div class="header-brands-wrapper">
+<div class="header-brand large-7 medium-6 columns">
+<ul class="brand-hor-topmenu">
+<li class="tab-2"><a data-location="dormeo" data-target="topshop" href="http://www.topshop.si/?SID=" target="_self"><div class="topshop "></div></a></li><li class="tab-3"><a data-location="dormeo" data-target="dormeo" href="http://www.dormeo.net/" target="_self"><div class="dormeo active"></div></a></li><li class="tab-4"><a data-location="dormeo" data-target="delimano" href="http://www.delimano.si/?SID=" target="_self"><div class="delimano "></div></a></li><li class="tab-6"><a data-location="dormeo" data-target="walkmaxx" href="http://www.walkmaxx.si/?SID=" target="_self"><div class="walkmaxx "></div></a></li><li class="tab-7"><a data-location="dormeo" data-target="wellneo" href="http://www.wellneo.si/?SID=" target="_self"><div class="wellneo "></div></a></li> </ul>
+</div>
+<div class="top-right-nav">
+<!-- Account -->
+<div class="header-minicart top-nav-shadow">
+<!--{MINICART_12972ad094648f67549349aebd17ba57}--><a class="skip-link skip-cart no-count" href="#header-cart-header">
+<div class="mini-cart-left">
+<span class="icon"></span>
+<span class="count"></span>
+<div class="total"><span class="price">0,00 €</span></div>
+</div>
+<div class="mini-cart-right">
+<div class="mini-cart-button">Košarica</div>
+</div>
+</a>
+<div class="block block-cart skip-content" id="header-cart">
+<!--{CART_SIDEBAR_e1f852d9da152ad6057a8287c3ca7679}--><div class="minicart-message" id="minicart-error-message"></div>
+<div class="minicart-message" id="minicart-success-message"></div>
+<div class="minicart-wrapper">
+<p class="empty">V košarici nimate izdelkov.</p>
+</div>
+<!--/{CART_SIDEBAR_e1f852d9da152ad6057a8287c3ca7679}--></div><!--/{MINICART_12972ad094648f67549349aebd17ba57}--> </div>
+<div class="sign-in header-over-block top-nav-shadow ">
+<div class="header-sign-in">
+                    Prijava v
+                    <div class="your-account">
+                        Vaš račun                        <span class="arrow icon"></span>
+</div>
+</div>
+<div class="" id="header-account">
+<div class="links">
+<ul>
+<li class="first"><a href="https://www.dormeo.net/customer/account/login/" title="Prijava">Prijava</a></li>
+<li class=" last" rel="nofollow">Nova stranka?<a href="https://www.dormeo.net/customer/account/create/" title="Register ">Registrirajte se</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="try-club5 header-over-block top-nav-shadow">
+<div class="header-try-club5">
+                    Poskusi                    <div class="your-account">Klub 5*<span class="icon"></span><span class="arrow icon"></span></div>
+</div>
+<div class="club5-popup">
+<ul>
+<li>Ali želite raziskati čarobni svet izjemnih popustov?</li>
+<li><a class="header-club5-register" href="http://www.dormeo.net/klub5">Prijavite se v Klub 5*</a></li>
+<li><div class="not-member">Ste že član?</div></li>
+<li><a class="header-club5-login" href="https://www.dormeo.net/customer/account/login/">Kliknite tukaj</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<header class="page-header" id="header">
+<div class="page-header-container">
+<div class="row top-row sticky-header">
+<div class="skip-links">
+<a class="skip-nav" href="#mob-header-nav">
+<span class="nav-icon">
+<span class="nav-icon-box">
+<span class="nav-icon-inner"></span>
+</span>
+</span>
+</a>
+</div>
+<div class="logo-container">
+<a class="logo large-2 medium-4" href="http://www.dormeo.net/">
+<img alt="Dormeo" class="large" src="http://dormeosi.azureedge.net/skin/frontend/sm/dormeo/images/xlogo.png.pagespeed.ic.6JkO-TS5rL.png"/>
+<img alt="Dormeo" class="small" src="http://dormeosi.azureedge.net/skin/frontend/sm/dormeo/images/xlogo_small.png.pagespeed.ic.6JkO-TS5rL.png"/>
+</a>
+</div>
+<div class="header-middle clone large-6 medium-6 columns"></div>
+<div class="header-middle primary large-6 medium-6 columns">
+<div class="contact-info large-5 medium-5 columns ">
+<!--{topPhoneNumber_31d18c47bf2af6f66644f09decc4413f}--><p>
+<strong>
+                    Brezplačna pomoč in svetovanje            </strong>
+<br/>
+<span class="orderPhone">
+        080 10 15            </span>
+</p><!--/{topPhoneNumber_31d18c47bf2af6f66644f09decc4413f}--> </div>
+<!-- Search -->
+<div class="skip-content large-7 medium-7 columns sticky-search" id="header-search">
+<form action="http://www.dormeo.net/catalogsearch/result/" id="search_mini_form" method="get">
+<div class="input-box">
+<label for="search">Search:</label>
+<input class="input-text required-entry" id="search" maxlength="128" name="q" placeholder="Iščite po celotni trgovini ..." type="search" value=""/>
+<button class="button search-button" title="Išči" type="submit"><span><span>Išči</span></span></button>
+</div>
+<div class="search-autocomplete" id="search_autocomplete"></div>
+<script type="text/javascript">var searchForm=new Varien.searchForm('search_mini_form','search','');searchForm.initAutocomplete('http://www.dormeo.net/catalogsearch/ajax/suggest/','search_autocomplete');</script>
+</form>
+</div>
+</div>
+<div class="header-right large-4 medium-3 columns">
+<div class="header-right-move">
+<!-- Skip Links -->
+<div class="skip-links">
+<a href="http://www.dormeo.net/checkout/cart/">
+<div class="skip-basket">
+<div class="icon"></div>
+<div class="cart_count">0</div></div> </a>
+<div class="skip-search">
+<div class="icon"></div>
+</div>
+</div>
+<div class="header-nav-right">
+<span class="header-ourstores"><span class="arrow icon"></span><a href="https://www.dormeo.net/prodajna-mesta/">Prodajna mesta</a></span>
+</div>
+</div>
+<div class="secure-payment clearfix">
+<div class="secure-payment-row">
+<div class="secure-payment-cell"><div class="padlock"></div></div>
+<div class="secure-payment-cell text">Varen nakup</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row header-mobile-extra">
+<div class="phone-mobile column xsmall-6 small-8 medium-8 alpha">
+<div class="phone-mobile-box ">
+<span class="txt">                                                             
+                            	                                
+                                    Brezplačna pomoč in svetovanje                                                              
+                            </span>
+<span class="phonesBox">
+<a class="orderPhone" href="tel:0801015">080 10 15</a>
+</span>
+</div>
+</div>
+<div class="header-ourstores-mobile column xsmall-6 small-4 medium-4 omega">
+<span class="header-ourstores-mobile-inner"><span class="arrow icon"></span><a href="https://www.dormeo.net/prodajna-mesta/">Prodajna mesta</a></span>
+</div>
+</div>
+<!-- close <div class="row">-->
+<!-- Navigation push down -->
+<div id="header-nav-wrap">
+<div class="skip-content" id="header-nav">
+<div id="nav">
+<ol class="nav-primary">
+<li class="level0 nav-0 first mobileHome">
+<a class="level-top" href="http://www.dormeo.net/">
+<span>Domov</span>
+</a>
+</li>
+<li class="level0 nav-1 active first parent"><a class=" level0 has-children" href="http://www.dormeo.net/lezisca"><span class="text-top-has-children">Ležišča</span><i class="fa fa-angle-down"></i></a><div class="nav-dropdown-container"><ul class="level0"><li class="cat_sb 4 position1"><ul><li>Nakupuj po kategoriji</li><li><a class=" level1 " href="http://www.dormeo.net/lezisca/lezisca-spominska-pena">Ležišča iz spominske pene</a></li><li><a class=" level1 " href="http://www.dormeo.net/lezisca/lezisca-ecocell-pene">Ležišča Ecocell®</a></li><li><a class=" level1 " href="http://www.dormeo.net/lezisca/lezisca-penaste-vzmeti">Ležišča s penastimi vzmetmi</a></li><li><a class=" level1 " href="http://www.dormeo.net/lezisca/lezisca-naravni-materiali">Ležišča z naravnimi materiali</a></li></ul><li class="cat_sb 4 position4 recommended-4"><p class="title">Priporočeni izdelki</p><ul class="products-grid--max-4-col"><li class="item rp99-1000077330 recProduct"><div class="list-image-box"><div class="txt-out-of-stock ous44462"><span>Razprodano!</span></div><div class="txt-only-10-left pcs44462">Samo še 0</div><a class="product-image" href="http://www.dormeo.net/lezisca/dormeo-lezisce-fresh-prima"><img src="http://dormeosi.azureedge.net/media/catalog/product/cache/37/thumbnail/184x138/9df78eab33525d08d6e5fb8d27136e95/f/r/xfresh_prima_mattress_5.jpg.pagespeed.ic.CmXi9vKwyY.jpg"/></a></div><div class="product-details"><a class="header-product-link" href="http://www.dormeo.net/lezisca/dormeo-lezisce-fresh-prima"><p class="product-name js-gtm-data" data-cpr="1000077330" data-engname="DORMEO FRESH PRIMA MATTRESS II" data-navision="" data-productid="44462" data-sku="99-1000077330">Ležišče Fresh Prima</p><span class="recPrices"><p class="special-price"><span class="price">299,90 €</span></p></span></a></div></li><li class="item rp99-1000077253 recProduct"><div class="list-image-box"><div class="txt-out-of-stock ous44534"><span>Razprodano!</span></div><div class="txt-only-10-left pcs44534">Samo še 0</div><a class="product-image" href="http://www.dormeo.net/lezisca/dormeo-imemory-s-plus-mattress-ii"><img src="http://dormeosi.azureedge.net/media/catalog/product/cache/37/thumbnail/184x138/9df78eab33525d08d6e5fb8d27136e95/i/m/ximemory_s_plus_mattress_01_2.jpg.pagespeed.ic.0O0m6qLj9d.jpg"/></a></div><div class="product-details"><a class="header-product-link" href="http://www.dormeo.net/lezisca/dormeo-imemory-s-plus-mattress-ii"><p class="product-name js-gtm-data" data-cpr="1000077253" data-engname="DORMEO IMEMORY S PLUS MATTRESS II" data-navision="" data-productid="44534" data-sku="99-1000077253">Ležišče iMemory S Plus</p><span class="recPrices"><p class="special-price"><span class="price">349,90 €</span></p></span></a></div></li><li class="item rp99-1000000688 recProduct"><div class="list-image-box"><div class="txt-out-of-stock ous4180"><span>Razprodano!</span></div><div class="txt-only-10-left pcs4180">Samo še 0</div><a class="product-image" href="http://www.dormeo.net/lezisca/lezisce-imemory-silver-dormeo"><img src="http://dormeosi.azureedge.net/media/catalog/product/cache/37/thumbnail/184x138/9df78eab33525d08d6e5fb8d27136e95/i/m/ximemory_silver_mattress_4.jpg.pagespeed.ic.eKBnGR7W0k.jpg"/></a></div><div class="product-details"><a class="header-product-link" href="http://www.dormeo.net/lezisca/lezisce-imemory-silver-dormeo"><p class="product-name js-gtm-data" data-cpr="1000000688" data-engname="DORMEO IMEMORY SILVER" data-navision="" data-productid="4180" data-sku="99-1000000688">Ležišče iMemory Silver</p><span class="recPrices"><p class="special-price"><span class="price">319,90 €</span></p></span></a></div></li><li class="item rp99-1000026465 recProduct"><div class="list-image-box"><div class="txt-out-of-stock ous1299"><span>Razprodano!</span></div><div class="txt-only-10-left pcs1299">Samo še 0</div><a class="product-image" href="http://www.dormeo.net/lezisca/otrosko-lezisce-baby-dormeo"><img src="http://dormeosi.azureedge.net/media/catalog/product/cache/37/thumbnail/184x138/9df78eab33525d08d6e5fb8d27136e95/b/a/xbaby_pedic_mattress.jpg.pagespeed.ic.HxFcGw_Q9P.jpg"/></a></div><div class="product-details"><a class="header-product-link" href="http://www.dormeo.net/lezisca/otrosko-lezisce-baby-dormeo"><p class="product-name js-gtm-data" data-cpr="1000026465" data-engname="DORMEO BABY MATTRESS" data-navision="" data-productid="1299" data-sku="99-1000026465">Otroško ležišče Baby</p><span class="recPrices"><p class="special-price"><span class="price">109,90 €</span></p></span></a></div></li></ul></li><li class="push-up-nav"><div class="push-up-button"><div class="icon"></div></div></li></li></ul></div></li><li class="level0 nav-2"><a class=" level0 " href="http://www.dormeo.net/nadvlozki">Nadvložki</a></li><li class="level0 nav-3 parent"><a class=" level0 " href="http://www.dormeo.net/vzglavniki">Vzglavniki</a></li><li class="level0 nav-4 parent"><a class=" level0 " href="http://www.dormeo.net/odeje">Odeje</a></li><li class="level0 nav-5"><a class=" level0 " href="http://www.dormeo.net/posteljnina">Posteljnina</a></li><li class="level0 nav-6"><a class=" level0 " href="http://www.dormeo.net/letvice">Letvene podlage</a></li><li class="level0 nav-7"><a class=" level0 " href="http://www.dormeo.net/za-otroke">Otroški program</a></li><li class="level0 nav-8"><a class=" level0 " href="http://www.dormeo.net/pohistvo">Pohištvo</a></li><li class="level0 nav-9"><a class=" level0 " href="http://www.dormeo.net/kopalnica">Kopalnica</a></li><li class="level0 nav-10"><a class=" level0 " href="http://www.dormeo.net/dodatki">Dodatki</a></li><li class="level0 nav-11 last promo"><a class="promo level0 " href="http://www.dormeo.net/posebne-ponudbe">Akcija</a></li> </ol>
+</div>
+</div>
+</div>
+<div class="mob-header-nav" id="mob-header-nav">
+<div id="nav">
+<ol class="nav-primary">
+<li class="level0 nav-0 first mobileHome">
+<a class="level-top" href="http://www.dormeo.net/">
+<span>Domov</span>
+</a>
+</li>
+<li class="level0 nav-1 first active parent"><a class=" level0 has-children" href="http://www.dormeo.net/lezisca">Ležišča</a><ul class="level0"><li class="level1 active"><a class="level1" href="http://www.dormeo.net/lezisca">Ogled vseh</a></li><li class="level1 nav-1-1 first"><a class=" level1 " href="http://www.dormeo.net/lezisca/lezisca-spominska-pena">Ležišča iz spominske pene</a></li><li class="level1 nav-1-2"><a class=" level1 " href="http://www.dormeo.net/lezisca/lezisca-ecocell-pene">Ležišča Ecocell®</a></li><li class="level1 nav-1-3"><a class=" level1 " href="http://www.dormeo.net/lezisca/lezisca-penaste-vzmeti">Ležišča s penastimi vzmetmi</a></li><li class="level1 nav-1-4 last"><a class=" level1 " href="http://www.dormeo.net/lezisca/lezisca-naravni-materiali">Ležišča z naravnimi materiali</a></li></ul></li><li class="level0 nav-2"><a class=" level0 " href="http://www.dormeo.net/nadvlozki">Nadvložki</a></li><li class="level0 nav-3 parent"><a class=" level0 " href="http://www.dormeo.net/vzglavniki">Vzglavniki</a></li><li class="level0 nav-4 parent"><a class=" level0 " href="http://www.dormeo.net/odeje">Odeje</a></li><li class="level0 nav-5"><a class=" level0 " href="http://www.dormeo.net/posteljnina">Posteljnina</a></li><li class="level0 nav-6"><a class=" level0 " href="http://www.dormeo.net/letvice">Letvene podlage</a></li><li class="level0 nav-7"><a class=" level0 " href="http://www.dormeo.net/za-otroke">Otroški program</a></li><li class="level0 nav-8"><a class=" level0 " href="http://www.dormeo.net/pohistvo">Pohištvo</a></li><li class="level0 nav-9"><a class=" level0 " href="http://www.dormeo.net/kopalnica">Kopalnica</a></li><li class="level0 nav-10"><a class=" level0 " href="http://www.dormeo.net/dodatki">Dodatki</a></li><li class="level0 nav-11 last"><a class="promo level0 " href="http://www.dormeo.net/posebne-ponudbe">Akcija</a></li> </ol>
+</div>
+<ol class="header-brand">
+<li>
+<a class="title has-children">Naše blagovne znamke</a>
+<ul class="brand-mobile-menu">
+<li class="tab-2"><a data-location="dormeo" data-target="topshop" href="http://www.topshop.si/?SID=" target="_self"><div class="topshop "></div></a></li><li class="tab-3"><a data-location="dormeo" data-target="dormeo" href="http://www.dormeo.net/" target="_self"><div class="dormeo active"></div></a></li><li class="tab-4"><a data-location="dormeo" data-target="delimano" href="http://www.delimano.si/?SID=" target="_self"><div class="delimano "></div></a></li><li class="tab-6"><a data-location="dormeo" data-target="walkmaxx" href="http://www.walkmaxx.si/?SID=" target="_self"><div class="walkmaxx "></div></a></li><li class="tab-7"><a data-location="dormeo" data-target="wellneo" href="http://www.wellneo.si/?SID=" target="_self"><div class="wellneo "></div></a></li> </ul>
+</li>
+</ol>
+<ol class="user-menu">
+<li>
+<a class="title has-children">Račun</a>
+<ul class="header-user-menu">
+<li><a href="/customer/account/login/">Prijava</a></li>
+<li><a href="/customer/account/login/">Odpri nov račun</a></li>
+<li class="club5"><a href="http://www.dormeo.net/klub5">Prijavite se v Klub 5*</a></li>
+</ul>
+</li>
+</ol>
+</div>
+</div>
+</header>
+</div>
+</div>
+<div class="top-container"><!--{top_content_slimbanner_63f6cfe67d19fe25d3d4998391440ed6}--><!--/{top_content_slimbanner_63f6cfe67d19fe25d3d4998391440ed6}--><div class="widget widget-static-block"></div>
+<div class="widget widget-static-block"></div>
+<div class="widget widget-static-block"></div></div> <div class="main-container col1-layout">
+<div class="main">
+<div class="breadcrumbs">
+<ul class="clearer">
+<li class="home">
+<a href="http://www.dormeo.net/" title="Pojdi na domačo stran">Domov</a>
+<span><div class="breadcrumb-arrow"></div></span>
+</li>
+<li class="category4">
+<a href="http://www.dormeo.net/lezisca" title="">Ležišča</a>
+<span><div class="breadcrumb-arrow"></div></span>
+</li>
+<li class="product">
+<strong>Ležišče iMemory Silver</strong>
+</li>
+</ul>
+</div>
+<div class="top-content"></div>
+<div class="col-main">
+<script>ProductViewLog={saveViewLog:function(){var email=Mage.Cookies.get('email');var productId=4180;var url='http://www.dormeo.net/productview/log/view';new Ajax.Request(url,{method:'post',parameters:{email:email,productId:productId}});}};ProductViewLog.saveViewLog();</script>
+<script type="text/javascript">var optionsPrice=new Product.OptionsPrice({"productId":"4180","priceFormat":{"pattern":"%s\u00a0\u20ac","precision":2,"requiredPrecision":2,"decimalSymbol":",","groupSymbol":".","groupLength":3,"integerRequired":1},"includeTax":"true","showIncludeTax":true,"showBothPrices":false,"productPrice":319.9,"productOldPrice":319.9,"priceInclTax":319.9,"priceExclTax":319.9,"skipCalculate":1,"defaultTax":22,"currentTax":22,"idSuffix":"_clone","oldPlusDisposition":0,"plusDisposition":0,"plusDispositionTax":0,"oldMinusDisposition":0,"minusDisposition":0,"tierPrices":[],"tierPricesInclTax":[]});</script>
+<div id="messages_product_view"></div>
+<div class="product-view">
+<div class="widget widget-static-block"></div>
+<div class="product-essential row" itemscope="" itemtype="http://schema.org/Product">
+<div class="productTopTitle large-7 medium-6 small-12 columns">
+<div class="productTopTitleWrapper">
+<div class="product-table wide">
+<div class="product-row">
+<div class="product-cell top">
+<div class="product-name js-gtm-data" data-cpr="1000000688" data-engname="DORMEO IMEMORY SILVER" data-navision="" data-productid="4180" data-sku="99-1000000688">
+<h1 itemprop="name">Ležišče iMemory Silver</h1>
+</div>
+</div>
+<div class="product-cell top brand-logo">
+<img src="http://dormeosi.azureedge.net/media/brand/logo/xdormeo.png.pagespeed.ic.ZmDMZ2V-Ec.png"/>
+</div>
+</div>
+</div>
+<div class="product-table wide social">
+<div class="product-row">
+<div class="product-cell">
+<div class="product-table ratings" itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">
+<div class="product-row">
+<div class="product-cell mid">
+<span class="no-display" itemprop="bestRating">100</span>
+<span class="no-display" itemprop="ratingValue">98</span>
+<span class="no-display" itemprop="ratingCount">52</span>
+<div class="rating-box">
+<div class="rating" style="width:98%"></div>
+</div>
+</div>
+<div class="product-cell mid">
+<a href="#" id="goto-reviews">52 mnenje/-a</a>
+</div>
+</div>
+</div>
+<span class="product-ids">
+<span class="cpr-navision-id" data-default-value="" data-format="Št. ID: %s &lt;span&gt;|&lt;/span&gt;">
+</span>
+<span class="sku" data-default-value="SKU: 99-1000000688" data-format="SKU: %s" itemprop="sku">
+                                    SKU: 99-1000000688                                </span>
+</span>
+</div>
+<div class="product-cell top right cell-social">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="product-img-box large-5 medium-6 small-12">
+<div class="product-picto-holder">
+<div class="prod_info_holder clearfix" data-prod_id="4180" id="prod_info_4180">
+<div class="prod_img_box_holder clearfix">
+<div class="prod_img_box clearfix">
+<div class="prod_img_tabs clearfix">
+<div class="prod_img_tabs_inner clearfix">
+<!--{outofstock-banner_9aa465009d2a9476c4d9bbe479ecb9d3}-->
+<!--/{outofstock-banner_9aa465009d2a9476c4d9bbe479ecb9d3}-->
+<div class="prod_img_tab clearfix" id="prod_img_tab_videos_4180">
+<div class="video">
+<div class="loading_iframe" id="loading_iframe_4180"><i aria-hidden="true" class="fa fa-spinner fa-spin fa-3x fa-fw"></i></div>
+<iframe allowfullscreen="" frameborder="0" id="video-player" src=""></iframe>
+</div>
+</div>
+<div class="prod_img_tab clearfix current" id="prod_img_tab_images_4180">
+<div class="easyzoom easyzoom--overlay easyzoom--with-thumbnails clearfix">
+<a>
+<span class="prod_img_tab_zoom">Povečaj/pomanjšaj</span>
+<img/>
+</a>
+</div>
+</div>
+<div class="iframe_holder"></div>
+</div>
+<div class="prod-img-tabs-arrow-lft"><div class="prod-img-tabs-arrow-inner"></div></div>
+<div class="prod-img-tabs-arrow-rght"><div class="prod-img-tabs-arrow-inner"></div></div>
+</div>
+<div class="prod_img_thumb_thumbs_holder">
+<div class="prod_img_thumbs_switch active"><span>Photo</span></div>
+<div class="prod_vid_thumbs_switch"><span>Video</span></div>
+<div class="prod_img_thumbs" id="prod_img_thumbs_4180">
+<ul>
+<li class="isImage"><a class="zoomThumbActive" data-goto="0" data-media="0" data-standard="http://dormeosi.azureedge.net/media/catalog/product/cache/37/image/500x375/040ec09b1e35df139433887a97daa66f/i/m/imemory_silver_mattress_5.jpg" data-type="image" href="http://dormeosi.azureedge.net/media/catalog/product/cache/37/image/040ec09b1e35df139433887a97daa66f/i/m/imemory_silver_mattress_5.jpg" id="baseimage" title=""><span><link href="http://dormeosi.azureedge.net/media/catalog/product/cache/37/image/500x375/040ec09b1e35df139433887a97daa66f/i/m/imemory_silver_mattress_5.jpg" itemprop="image"/><img src="http://dormeosi.azureedge.net/media/catalog/product/cache/37/image/98x94/040ec09b1e35df139433887a97daa66f/i/m/ximemory_silver_mattress_5.jpg.pagespeed.ic.g4w1PlrhGo.jpg"/></span></a></li><li class="isImage"><a class="" data-goto="1" data-media="1" data-standard="http://dormeosi.azureedge.net/media/catalog/product/cache/37/image/500x375/040ec09b1e35df139433887a97daa66f/i/m/imemory_silver_mattress_1_16.jpg" data-type="image" href="http://dormeosi.azureedge.net/media/catalog/product/cache/37/image/040ec09b1e35df139433887a97daa66f/i/m/imemory_silver_mattress_1_16.jpg" title=""><span><img src="http://dormeosi.azureedge.net/media/catalog/product/cache/37/image/98x94/040ec09b1e35df139433887a97daa66f/i/m/ximemory_silver_mattress_1_16.jpg.pagespeed.ic.bXZk_YuCAO.jpg"/></span></a></li><li class="isImage"><a class="" data-goto="2" data-media="2" data-standard="http://dormeosi.azureedge.net/media/catalog/product/cache/37/image/500x375/040ec09b1e35df139433887a97daa66f/i/m/imemory_silver_mattress_4.jpg" data-type="image" href="http://dormeosi.azureedge.net/media/catalog/product/cache/37/image/040ec09b1e35df139433887a97daa66f/i/m/imemory_silver_mattress_4.jpg" title=""><span><img src="http://dormeosi.azureedge.net/media/catalog/product/cache/37/image/98x94/040ec09b1e35df139433887a97daa66f/i/m/ximemory_silver_mattress_4.jpg.pagespeed.ic.6u_-DvXs6w.jpg"/></span></a></li><li class="isImage"><a class="" data-goto="3" data-media="3" data-standard="http://dormeosi.azureedge.net/media/catalog/product/cache/37/image/500x375/040ec09b1e35df139433887a97daa66f/i/m/imemory_silver_mattress_3_1.jpg" data-type="image" href="http://dormeosi.azureedge.net/media/catalog/product/cache/37/image/040ec09b1e35df139433887a97daa66f/i/m/imemory_silver_mattress_3_1.jpg" title=""><span><img src="http://dormeosi.azureedge.net/media/catalog/product/cache/37/image/98x94/040ec09b1e35df139433887a97daa66f/i/m/ximemory_silver_mattress_3_1.jpg.pagespeed.ic.FfbHDrqdFM.jpg"/></span></a></li><li class="isImage"><a class="" data-goto="4" data-media="4" data-standard="http://dormeosi.azureedge.net/media/catalog/product/cache/37/image/500x375/040ec09b1e35df139433887a97daa66f/i/m/imemory_silver_mattress_4_1.jpg" data-type="image" href="http://dormeosi.azureedge.net/media/catalog/product/cache/37/image/040ec09b1e35df139433887a97daa66f/i/m/imemory_silver_mattress_4_1.jpg" title=""><span><img src="http://dormeosi.azureedge.net/media/catalog/product/cache/37/image/98x94/040ec09b1e35df139433887a97daa66f/i/m/ximemory_silver_mattress_4_1.jpg.pagespeed.ic.7rnRQpRnbD.jpg"/></span></a></li><li class="isImage"><a class="" data-goto="5" data-media="5" data-standard="http://dormeosi.azureedge.net/media/catalog/product/cache/37/image/500x375/040ec09b1e35df139433887a97daa66f/i/m/imemory_silver_mattress_2_1.jpg" data-type="image" href="http://dormeosi.azureedge.net/media/catalog/product/cache/37/image/040ec09b1e35df139433887a97daa66f/i/m/imemory_silver_mattress_2_1.jpg" title=""><span><img src="http://dormeosi.azureedge.net/media/catalog/product/cache/37/image/98x94/040ec09b1e35df139433887a97daa66f/i/m/ximemory_silver_mattress_2_1.jpg.pagespeed.ic.QGbtxD-t9i.jpg"/></span></a></li> </ul>
+<div class="prod_img_thumbs_prev_holder">
+<span class="thumbs_prev"></span>
+</div>
+<div class="prod_img_thumbs_next_holder">
+<span class="thumbs_next"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--{product.info.picto_f499b54205e5218436d3e99498299e6d}--><!--/{product.info.picto_f499b54205e5218436d3e99498299e6d}--> </div>
+</div>
+<div class="product-shop large-7 medium-6 small-12 columns">
+<div class="short-description" itemprop="description">
+<div class="std"><p>Hipoalergeno 3-consko ležišče je visoko 18 cm. Obračljivo jedro s čvrsto in mehkejšo stranjo nudi 4 različne možnosti trdote ležišča: od mehke do čvrste. Ležišče je popolna izbira za vse spalne položaje in oblike telesa. Prevleka iz spominske pene je pralna. Ima 30 noči testnega obdobja in 15 let podaljšane garancije. Izdelamo ga tudi po meri.</p></div>
+</div>
+<div class="block block-gifts">
+<div class="block-content">
+<div class="product-gift-table quickview-link " data-href="http://www.dormeo.net/quickview/index/giftview/rule_id/5957/">
+<div class="product-gift-row">
+<div class="product-gift-cell gift"><div class="magnifier"><i aria-hidden="true" class="fa fa-search-plus"></i></div><i aria-hidden="true" class="fa fa-gift"></i></div>
+<div class="product-gift-cell desc">
+                                Ob nakupu ležišča prejmete brezplačno električni grelnik Dormeo v vrednosti 69,90€.                             </div>
+</div>
+</div>
+</div>
+</div>
+<!--{product_timer_151cdf6ef881c252e8aa091686ed9e0d}--><!--/{product_timer_151cdf6ef881c252e8aa091686ed9e0d}-->
+<div id="top-product-buy">
+<div class="pricesUpdate-JS" id="move-me">
+<form action="http://www.dormeo.net/checkout/cart/add/uenc/aHR0cDovL3d3dy5kb3JtZW8ubmV0L2xlemlzY2UtaW1lbW9yeS1zaWx2ZXItZG9ybWVv/product/4180/form_key/BwNscGpzqVRoDlHK/" autocomplete="off" id="product_addtocart_form" method="post">
+<input name="form_key" type="hidden" value="BwNscGpzqVRoDlHK"/>
+<div class="no-display">
+<input name="product" type="hidden" value="4180"/>
+<input id="related-products-field" name="related_product" type="hidden" value=""/>
+</div>
+<div class="product-buybox clearfix">
+<div class="buybox-name">Ležišče iMemory Silver</div>
+<div class="product-buybox-table">
+<!--{product_price_23889d60691ba945282d6f22b460b0b1}--><div class="product-prices">
+<div class="price-box">
+<span class="regular-price" id="product-price-4180">
+<span class="price-label price-label-before">Od</span>
+<span class="price">319,90 €</span> <span class="price-label price-label-after">Navzgor od</span>
+</span>
+</div>
+<div class="club-five product-club">
+<span class="club5-price">
+            303,91 €    </span>
+<span class="club5-label">
+    Klub 5*<span class="icon"></span>
+</span> <div class="popup-clubfive">
+<div class="popup-clubfive-inner">
+<p>Člani<span class="icon"></span> Kluba 5* <span class="red">prihranijo 16,00 € </span>pri tem izdelku.</p>
+<p><a href="/klub5" target="_blank">Kliknite tukaj za več informacij</a></p>
+</div>
+</div>
+</div>
+<!-- if price is bigger than minPrice -->
+<!-- calculator popup -->
+<!-- ./ calculator popup -->
+</div><!--/{product_price_23889d60691ba945282d6f22b460b0b1}-->
+<!--{product_quantity_c4c44a7bb8419db04746cdfbda9e6279}--> <div class="counter_qty_wrapper clearer">
+<div class="qty-wrapper">
+<div class="add-to-cart">
+<div class="container-qty">
+<label for="qty">Količina:</label>
+<div class="quantity">
+<input class="input-text qty" id="qty" maxlength="12" name="qty" tabindex="3" title="Količina" type="tel" value="1"/>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--/{product_quantity_c4c44a7bb8419db04746cdfbda9e6279}-->
+<div class="product-options-box">
+<div class="product-options-title open">Izberite možnost</div>
+<div class="product-options" id="product-options-wrapper">
+<script type="text/javascript">var amConfAutoSelectAttribute=1;confData=new AmConfigurableData({"157":{"name":"Mattress, 90X190 iMemory Silver","description":"<h2>O saltea mai ferma sau mai moale?<\/h2>\r\n<h3>Cu iMemory Silver aceasta nu mai este o problema!<\/h3>\r\n<p><strong>15 ANI Garantie pentru forma Saltelei!<\/strong><\/p>\r\n<p>Alegerea unei saltele nu este o decizie usoara . Ce este mai potrivita &amp;ndash; o saltea mai moale sau una mai tare? Cu inovatoare saltea iMemory Silver, iti poti lua ramas bun de la grijile tale.<\/p>\r\n<p>Aceasta saltea cu doua fete are un mijloc din spuma Ecocell&amp;reg;, moale pe o parte si tare pe cealalta. Astfel, pur si simplu intorcand salteaua ii poti adapta fermitatea la nevoile tale. Daca dupa o vreme te razgandesti, trebuie doar sa o intorci!<\/p>\r\n<h3>Solutia perfecta pentru un pat dublu!<\/h3>\r\n<p>Saltelele pentru paturi duble sunt formate dintr-o singura husa si 2 mijloace separate, astfel incat partenerii care impart patul sa ii poata regla fermitatea asa cum doresc.<\/p>\r\n<p><strong>Daca te hotarasti pentru salteaua iMemory Silver, decizia ta nu are cum sa fie gresita.<\/strong><\/p>\r\n<p><strong>Principalele avantaje:<\/strong><\/p>\r\n<ul>\r\n    <p>&amp;bull; un strat comod de spuma cu memorie, care confera confort de neegalat<\/p>\r\n    <p>&amp;bull; capsulele termo-regulatoare reduc transpiratia excesiva<\/p>\r\n    <p>&amp;bull; mijloc cu 3 zone, care ofera corpului sustinere optima<\/p>\r\n    <p>&amp;bull; husa de saltea Climalite elimina surplusul de umezeala<\/p>\r\n    <p>&amp;bull; fibrele de argint protejeaza impotriva bacteriilor si a alergenilor<\/p>\r\n    <p>&amp;bull; husa detasabila pentru intretinere usoara <\/p>\r\n    <p><strong>O saltea inovatoare cu mijloc ce se poate intoarce usor, pentru fermitate diferita<\/strong><\/p>\r\n<\/ul>\r\n<p>Salteaua iMemory Silver este formata din doua nuclee din spuma Ecocell&amp;reg;:<\/p>\r\n<p><strong><\/strong>Nucleul albastru ofera o sustinere mai ferma si se adapteaza mai bine la greutatea corpului.<\/p>\r\n<p>Mijlocul portocaliu ofera corpului o sustinere mai delicata si se adapteaza mai putin la greutatea corpului.<\/p>\r\n<p>In plus, saltelele mai mari de 140 cm latime au un mijloc din doua parti separate, ceea ce inseamna ca fiecare partener isi poate adapta jumatatea la stilul sau de dormit.<\/p>\r\n<h3>Gata cu problemele legate de alegerea saltelei &amp;ndash; decizia este simpla<\/h3>\r\n<p>Salteaua iti permite sa o intorci dupa cum vrei &amp;ndash; pe partea moale sau pe partea tare. Acest lucru este posibil datorita mijlocului dublu al saltelei, cu niveluri diferite de confort pe fiecare parte. Daca partea tare nu iti place, poti sa o intorci cu partea moale.<\/p>\r\n<p>De aceea, in acest caz nu ai de ce sa te temi ca poate ai ales salteaua gresita. Cu iMemory Silver alegerea ta este intotdeauna cea corecta.<\/p>\r\n<h3>Un mijloc cu 3 zone, pentru sustinerea exemplara a tuturor partilor corpului.<\/h3>\r\n<p>Datorita numarului crescut de zone, greutatea corpului tau se distribuie uniform pe suprafata saltelei si proprietatile anatomice si ortopedice ale saltelei au o influenta benefica asupra corpului tau. Zonele au fermitate diferita, in functie de greutatea partilor corpului pe care le sustin: cap, corp si picioare:<\/p>\r\n<ul>\r\n    <li>Zona 1 sustine capul, gatul si umerii,<\/li>\r\n    <li>Zona 2 sustine coloana, bazinul si soldurile,<\/li>\r\n    <li>Zona 3 sustine picioarele, gleznele si calcaiele.<\/li>\r\n<\/ul>\r\n<p>Pentru ca aceste zone ofera corpului o sustinere optima, coloana este relaxata si<strong> nu este supusa niciunei presiuni in timpul somnului.<\/strong><\/p>\r\n<p><\/p>\r\n\r\n<p>Te simti confortabil si beneficiezi de un somn placut, relaxant si odihnitor!<\/p>\r\n\r\n\r\n<h3>Spuma cu memorie ce regleaza temperatura.<\/h3>\r\n<p>Spuma cu memorie se adapteaza la forma si temperatura corpului. In momentul in care este aplicata presiune, spuma cu memorie isi modifica forma dar revine la starea initiala imediat ce presiunea este indepartata. iMemory este realizata cu micro capsule de parafina (PCP) ce au proprietatea de a-si schimba starea in functie de temperatura de pe saltea. Astfel, spre deosebire de spuma cu memorie normala, spuma iMemory regleaza temperatura&amp;ndash; in momentul in care corpul se incalzeste, energia este captata de capsulele de parafina astfel corpul se raceste. In momentul in care utilizatorul se raceste, energia este eliminata catre exterior. Astfel se creaza un mediu optim pentru un somn confortabil.<\/p>\r\n<h3>Reglarea umezelii<\/h3>\r\n\r\n<p>Structura celulara deschisa si husa Climalite, al carui material are proprietatea exceptionala de a se usca si de a evapora umezeala, iti garanteaza un mediu de somn uscat si igienic.<\/p>","not_is_in_stock":false,"sku":"1000002405","cpr_navision_id":"100020082","price_clubfive":"303,91\u00a0\u20ac","price_clubfive_popup_html":"<div class='popup-clubfive-inner'><p>\u010clani<span class=\"icon\"><\/span> Kluba 5* <span class=\"red\">prihranijo 16,00\u00a0\u20ac <\/span>pri tem izdelku.<\/p><p><a href='\/klub5'>Kliknite tukaj za ve\u010d informacij<\/a><\/p><\/div>","hasFreeDelivery":false,"price_html":"\n        <div class=\"price-box\">\n                                                        <span class=\"regular-price\" id=\"product-price-4180\">\n                                                                            <span class=\"price\">319,90\u00a0\u20ac<\/span>                                                                    <\/span>\n                                    \n            <\/div>\n\n\n","price_clone_html":"\n        <div class=\"price-box\">\n                                                        <span class=\"regular-price\" id=\"product-price-4180_clone\">\n                                                                            <span class=\"price\">319,90\u00a0\u20ac<\/span>                                                                    <\/span>\n                                    \n            <\/div>\n\n\n","price":319.9,"price_discount_value":"0"},"121":{"name":"Mattress, 180X190 iMemory Silver","description":"<h2>O saltea mai ferma sau mai moale?<\/h2>\r\n<h3>Cu iMemory Silver aceasta nu mai este o problema!<\/h3>\r\n<p><strong>15 ANI Garantie pentru forma Saltelei!<\/strong><\/p>\r\n<p>Alegerea unei saltele nu este o decizie usoara . Ce este mai potrivita &amp;ndash; o saltea mai moale sau una mai tare? Cu inovatoare saltea iMemory Silver, iti poti lua ramas bun de la grijile tale.<\/p>\r\n<p>Aceasta saltea cu doua fete are un mijloc din spuma Ecocell&amp;reg;, moale pe o parte si tare pe cealalta. Astfel, pur si simplu intorcand salteaua ii poti adapta fermitatea la nevoile tale. Daca dupa o vreme te razgandesti, trebuie doar sa o intorci!<\/p>\r\n<h3>Solutia perfecta pentru un pat dublu!<\/h3>\r\n<p>Saltelele pentru paturi duble sunt formate dintr-o singura husa si 2 mijloace separate, astfel incat partenerii care impart patul sa ii poata regla fermitatea asa cum doresc.<\/p>\r\n<p><strong>Daca te hotarasti pentru salteaua iMemory Silver, decizia ta nu are cum sa fie gresita.<\/strong><\/p>\r\n<p><strong>Principalele avantaje:<\/strong><\/p>\r\n<ul>\r\n    <p>&amp;bull; un strat comod de spuma cu memorie, care confera confort de neegalat<\/p>\r\n    <p>&amp;bull; capsulele termo-regulatoare reduc transpiratia excesiva<\/p>\r\n    <p>&amp;bull; mijloc cu 3 zone, care ofera corpului sustinere optima<\/p>\r\n    <p>&amp;bull; husa de saltea Climalite elimina surplusul de umezeala<\/p>\r\n    <p>&amp;bull; fibrele de argint protejeaza impotriva bacteriilor si a alergenilor<\/p>\r\n    <p>&amp;bull; husa detasabila pentru intretinere usoara <\/p>\r\n    <p><strong>O saltea inovatoare cu mijloc ce se poate intoarce usor, pentru fermitate diferita<\/strong><\/p>\r\n<\/ul>\r\n<p>Salteaua iMemory Silver este formata din doua nuclee din spuma Ecocell&amp;reg;:<\/p>\r\n<p><strong><\/strong>Nucleul albastru ofera o sustinere mai ferma si se adapteaza mai bine la greutatea corpului.<\/p>\r\n<p>Mijlocul portocaliu ofera corpului o sustinere mai delicata si se adapteaza mai putin la greutatea corpului.<\/p>\r\n<p>In plus, saltelele mai mari de 140 cm latime au un mijloc din doua parti separate, ceea ce inseamna ca fiecare partener isi poate adapta jumatatea la stilul sau de dormit.<\/p>\r\n<h3>Gata cu problemele legate de alegerea saltelei &amp;ndash; decizia este simpla<\/h3>\r\n<p>Salteaua iti permite sa o intorci dupa cum vrei &amp;ndash; pe partea moale sau pe partea tare. Acest lucru este posibil datorita mijlocului dublu al saltelei, cu niveluri diferite de confort pe fiecare parte. Daca partea tare nu iti place, poti sa o intorci cu partea moale.<\/p>\r\n<p>De aceea, in acest caz nu ai de ce sa te temi ca poate ai ales salteaua gresita. Cu iMemory Silver alegerea ta este intotdeauna cea corecta.<\/p>\r\n<h3>Un mijloc cu 3 zone, pentru sustinerea exemplara a tuturor partilor corpului.<\/h3>\r\n<p>Datorita numarului crescut de zone, greutatea corpului tau se distribuie uniform pe suprafata saltelei si proprietatile anatomice si ortopedice ale saltelei au o influenta benefica asupra corpului tau. Zonele au fermitate diferita, in functie de greutatea partilor corpului pe care le sustin: cap, corp si picioare:<\/p>\r\n<ul>\r\n    <li>Zona 1 sustine capul, gatul si umerii,<\/li>\r\n    <li>Zona 2 sustine coloana, bazinul si soldurile,<\/li>\r\n    <li>Zona 3 sustine picioarele, gleznele si calcaiele.<\/li>\r\n<\/ul>\r\n<p>Pentru ca aceste zone ofera corpului o sustinere optima, coloana este relaxata si<strong> nu este supusa niciunei presiuni in timpul somnului.<\/strong><\/p>\r\n<p><\/p>\r\n\r\n<p>Te simti confortabil si beneficiezi de un somn placut, relaxant si odihnitor!<\/p>\r\n\r\n\r\n<h3>Spuma cu memorie ce regleaza temperatura.<\/h3>\r\n<p>Spuma cu memorie se adapteaza la forma si temperatura corpului. In momentul in care este aplicata presiune, spuma cu memorie isi modifica forma dar revine la starea initiala imediat ce presiunea este indepartata. iMemory este realizata cu micro capsule de parafina (PCP) ce au proprietatea de a-si schimba starea in functie de temperatura de pe saltea. Astfel, spre deosebire de spuma cu memorie normala, spuma iMemory regleaza temperatura&amp;ndash; in momentul in care corpul se incalzeste, energia este captata de capsulele de parafina astfel corpul se raceste. In momentul in care utilizatorul se raceste, energia este eliminata catre exterior. Astfel se creaza un mediu optim pentru un somn confortabil.<\/p>\r\n<h3>Reglarea umezelii<\/h3>\r\n\r\n<p>Structura celulara deschisa si husa Climalite, al carui material are proprietatea exceptionala de a se usca si de a evapora umezeala, iti garanteaza un mediu de somn uscat si igienic.<\/p>","not_is_in_stock":false,"sku":"1000002409","cpr_navision_id":"100041943","price_clubfive":"550,91\u00a0\u20ac","price_clubfive_popup_html":"<div class='popup-clubfive-inner'><p>\u010clani<span class=\"icon\"><\/span> Kluba 5* <span class=\"red\">prihranijo 29,00\u00a0\u20ac <\/span>pri tem izdelku.<\/p><p><a href='\/klub5'>Kliknite tukaj za ve\u010d informacij<\/a><\/p><\/div>","hasFreeDelivery":false,"price_html":"\n        <div class=\"price-box\">\n                                                        <span class=\"regular-price\" id=\"product-price-4180\">\n                                                                            <span class=\"price\">579,90\u00a0\u20ac<\/span>                                                                    <\/span>\n                                    \n            <\/div>\n\n\n","price_clone_html":"\n        <div class=\"price-box\">\n                                                        <span class=\"regular-price\" id=\"product-price-4180_clone\">\n                                                                            <span class=\"price\">579,90\u00a0\u20ac<\/span>                                                                    <\/span>\n                                    \n            <\/div>\n\n\n","price":579.9,"price_discount_value":"0"},"43":{"name":"Mattress, 200X200 iMemory Silver","description":"<h2>O saltea mai ferma sau mai moale?<\/h2>\n<h3>Cu iMemory Silver aceasta nu mai este o problema!<\/h3>\n<p><strong>15 ANI Garantie pentru forma Saltelei!<\/strong><\/p>\n<p>Alegerea unei saltele nu este o decizie usoara . Ce este mai potrivita &amp;ndash; o saltea mai moale sau una mai tare? Cu inovatoare saltea iMemory Silver, iti poti lua ramas bun de la grijile tale.<\/p>\n<p>Aceasta saltea cu doua fete are un mijloc din spuma Ecocell&amp;reg;, moale pe o parte si tare pe cealalta. Astfel, pur si simplu intorcand salteaua ii poti adapta fermitatea la nevoile tale. Daca dupa o vreme te razgandesti, trebuie doar sa o intorci!<\/p>\n<h3>Solutia perfecta pentru un pat dublu!<\/h3>\n<p>Saltelele pentru paturi duble sunt formate dintr-o singura husa si 2 mijloace separate, astfel incat partenerii care impart patul sa ii poata regla fermitatea asa cum doresc.<\/p>\n<p><strong>Daca te hotarasti pentru salteaua iMemory Silver, decizia ta nu are cum sa fie gresita.<\/strong><\/p>\n<p><strong>Principalele avantaje:<\/strong><\/p>\n<ul>\n    <p>&amp;bull; un strat comod de spuma cu memorie, care confera confort de neegalat<\/p>\n    <p>&amp;bull; capsulele termo-regulatoare reduc transpiratia excesiva<\/p>\n    <p>&amp;bull; mijloc cu 3 zone, care ofera corpului sustinere optima<\/p>\n    <p>&amp;bull; husa de saltea Climalite elimina surplusul de umezeala<\/p>\n    <p>&amp;bull; fibrele de argint protejeaza impotriva bacteriilor si a alergenilor<\/p>\n    <p>&amp;bull; husa detasabila pentru intretinere usoara <\/p>\n    <p><strong>O saltea inovatoare cu mijloc ce se poate intoarce usor, pentru fermitate diferita<\/strong><\/p>\n<\/ul>\n<p>Salteaua iMemory Silver este formata din doua nuclee din spuma Ecocell&amp;reg;:<\/p>\n<p><strong><\/strong>Nucleul albastru ofera o sustinere mai ferma si se adapteaza mai bine la greutatea corpului.<\/p>\n<p>Mijlocul portocaliu ofera corpului o sustinere mai delicata si se adapteaza mai putin la greutatea corpului.<\/p>\n<p>In plus, saltelele mai mari de 140 cm latime au un mijloc din doua parti separate, ceea ce inseamna ca fiecare partener isi poate adapta jumatatea la stilul sau de dormit.<\/p>\n<h3>Gata cu problemele legate de alegerea saltelei &amp;ndash; decizia este simpla<\/h3>\n<p>Salteaua iti permite sa o intorci dupa cum vrei &amp;ndash; pe partea moale sau pe partea tare. Acest lucru este posibil datorita mijlocului dublu al saltelei, cu niveluri diferite de confort pe fiecare parte. Daca partea tare nu iti place, poti sa o intorci cu partea moale.<\/p>\n<p>De aceea, in acest caz nu ai de ce sa te temi ca poate ai ales salteaua gresita. Cu iMemory Silver alegerea ta este intotdeauna cea corecta.<\/p>\n<h3>Un mijloc cu 3 zone, pentru sustinerea exemplara a tuturor partilor corpului.<\/h3>\n<p>Datorita numarului crescut de zone, greutatea corpului tau se distribuie uniform pe suprafata saltelei si proprietatile anatomice si ortopedice ale saltelei au o influenta benefica asupra corpului tau. Zonele au fermitate diferita, in functie de greutatea partilor corpului pe care le sustin: cap, corp si picioare:<\/p>\n<ul>\n    <li>Zona 1 sustine capul, gatul si umerii,<\/li>\n    <li>Zona 2 sustine coloana, bazinul si soldurile,<\/li>\n    <li>Zona 3 sustine picioarele, gleznele si calcaiele.<\/li>\n<\/ul>\n<p>Pentru ca aceste zone ofera corpului o sustinere optima, coloana este relaxata si<strong> nu este supusa niciunei presiuni in timpul somnului.<\/strong><\/p>\n<p><\/p>\n\n<p>Te simti confortabil si beneficiezi de un somn placut, relaxant si odihnitor!<\/p>\n\n\n<h3>Spuma cu memorie ce regleaza temperatura.<\/h3>\n<p>Spuma cu memorie se adapteaza la forma si temperatura corpului. In momentul in care este aplicata presiune, spuma cu memorie isi modifica forma dar revine la starea initiala imediat ce presiunea este indepartata. iMemory este realizata cu micro capsule de parafina (PCP) ce au proprietatea de a-si schimba starea in functie de temperatura de pe saltea. Astfel, spre deosebire de spuma cu memorie normala, spuma iMemory regleaza temperatura&amp;ndash; in momentul in care corpul se incalzeste, energia este captata de capsulele de parafina astfel corpul se raceste. In momentul in care utilizatorul se raceste, energia este eliminata catre exterior. Astfel se creaza un mediu optim pentru un somn confortabil.<\/p>\n<h3>Reglarea umezelii<\/h3>\n\n<p>Structura celulara deschisa si husa Climalite, al carui material are proprietatea exceptionala de a se usca si de a evapora umezeala, iti garanteaza un mediu de somn uscat si igienic.<\/p>","not_is_in_stock":false,"sku":"1000002414","cpr_navision_id":"100043755","price_clubfive":"617,41\u00a0\u20ac","price_clubfive_popup_html":"<div class='popup-clubfive-inner'><p>\u010clani<span class=\"icon\"><\/span> Kluba 5* <span class=\"red\">prihranijo 32,50\u00a0\u20ac <\/span>pri tem izdelku.<\/p><p><a href='\/klub5'>Kliknite tukaj za ve\u010d informacij<\/a><\/p><\/div>","hasFreeDelivery":false,"price_html":"\n        <div class=\"price-box\">\n                                                        <span class=\"regular-price\" id=\"product-price-4180\">\n                                                                            <span class=\"price\">649,90\u00a0\u20ac<\/span>                                                                    <\/span>\n                                    \n            <\/div>\n\n\n","price_clone_html":"\n        <div class=\"price-box\">\n                                                        <span class=\"regular-price\" id=\"product-price-4180_clone\">\n                                                                            <span class=\"price\">649,90\u00a0\u20ac<\/span>                                                                    <\/span>\n                                    \n            <\/div>\n\n\n","price":649.9,"price_discount_value":"0"}});confData.textNotAvailable="Prosimo, izberite barvo.";confData.mediaUrlMain="http://www.dormeo.net/amconf/media/index/id/4180/";confData.oneAttributeReload="";confData.imageContainer=".product-img-box";confData.useSimplePrice="1";confData.hidePriceDecimals="0";</script>
+<div class="select-box-holder" id="dd_attribute175">
+<div class="input-box">
+<select class="validate-select-175 super-attribute-select" data-label="Velikost" data-text="Izberite velikost" id="attribute175" name="super_attribute[175]" tabindex="1">
+<option>Izberite velikost</option>
+</select>
+<a class="venobox vbox-item popup-measure-bed-size-lnk product-tooltip" data-vbtype="inline" href="#inline-popup-measure-bed-size" title="Kako izmerimo velikost postelje"></a> </div>
+</div>
+<!--{configurable_options_loader_d0c34b33575c3de16a7ce73c8b8adbf2}--><script type="text/javascript">var amConfAutoSelectAttribute=1;confData=new AmConfigurableData({"157":{"name":"Mattress, 90X190 iMemory Silver","description":"<h2>O saltea mai ferma sau mai moale?<\/h2>\r\n<h3>Cu iMemory Silver aceasta nu mai este o problema!<\/h3>\r\n<p><strong>15 ANI Garantie pentru forma Saltelei!<\/strong><\/p>\r\n<p>Alegerea unei saltele nu este o decizie usoara . Ce este mai potrivita &amp;ndash; o saltea mai moale sau una mai tare? Cu inovatoare saltea iMemory Silver, iti poti lua ramas bun de la grijile tale.<\/p>\r\n<p>Aceasta saltea cu doua fete are un mijloc din spuma Ecocell&amp;reg;, moale pe o parte si tare pe cealalta. Astfel, pur si simplu intorcand salteaua ii poti adapta fermitatea la nevoile tale. Daca dupa o vreme te razgandesti, trebuie doar sa o intorci!<\/p>\r\n<h3>Solutia perfecta pentru un pat dublu!<\/h3>\r\n<p>Saltelele pentru paturi duble sunt formate dintr-o singura husa si 2 mijloace separate, astfel incat partenerii care impart patul sa ii poata regla fermitatea asa cum doresc.<\/p>\r\n<p><strong>Daca te hotarasti pentru salteaua iMemory Silver, decizia ta nu are cum sa fie gresita.<\/strong><\/p>\r\n<p><strong>Principalele avantaje:<\/strong><\/p>\r\n<ul>\r\n    <p>&amp;bull; un strat comod de spuma cu memorie, care confera confort de neegalat<\/p>\r\n    <p>&amp;bull; capsulele termo-regulatoare reduc transpiratia excesiva<\/p>\r\n    <p>&amp;bull; mijloc cu 3 zone, care ofera corpului sustinere optima<\/p>\r\n    <p>&amp;bull; husa de saltea Climalite elimina surplusul de umezeala<\/p>\r\n    <p>&amp;bull; fibrele de argint protejeaza impotriva bacteriilor si a alergenilor<\/p>\r\n    <p>&amp;bull; husa detasabila pentru intretinere usoara <\/p>\r\n    <p><strong>O saltea inovatoare cu mijloc ce se poate intoarce usor, pentru fermitate diferita<\/strong><\/p>\r\n<\/ul>\r\n<p>Salteaua iMemory Silver este formata din doua nuclee din spuma Ecocell&amp;reg;:<\/p>\r\n<p><strong><\/strong>Nucleul albastru ofera o sustinere mai ferma si se adapteaza mai bine la greutatea corpului.<\/p>\r\n<p>Mijlocul portocaliu ofera corpului o sustinere mai delicata si se adapteaza mai putin la greutatea corpului.<\/p>\r\n<p>In plus, saltelele mai mari de 140 cm latime au un mijloc din doua parti separate, ceea ce inseamna ca fiecare partener isi poate adapta jumatatea la stilul sau de dormit.<\/p>\r\n<h3>Gata cu problemele legate de alegerea saltelei &amp;ndash; decizia este simpla<\/h3>\r\n<p>Salteaua iti permite sa o intorci dupa cum vrei &amp;ndash; pe partea moale sau pe partea tare. Acest lucru este posibil datorita mijlocului dublu al saltelei, cu niveluri diferite de confort pe fiecare parte. Daca partea tare nu iti place, poti sa o intorci cu partea moale.<\/p>\r\n<p>De aceea, in acest caz nu ai de ce sa te temi ca poate ai ales salteaua gresita. Cu iMemory Silver alegerea ta este intotdeauna cea corecta.<\/p>\r\n<h3>Un mijloc cu 3 zone, pentru sustinerea exemplara a tuturor partilor corpului.<\/h3>\r\n<p>Datorita numarului crescut de zone, greutatea corpului tau se distribuie uniform pe suprafata saltelei si proprietatile anatomice si ortopedice ale saltelei au o influenta benefica asupra corpului tau. Zonele au fermitate diferita, in functie de greutatea partilor corpului pe care le sustin: cap, corp si picioare:<\/p>\r\n<ul>\r\n    <li>Zona 1 sustine capul, gatul si umerii,<\/li>\r\n    <li>Zona 2 sustine coloana, bazinul si soldurile,<\/li>\r\n    <li>Zona 3 sustine picioarele, gleznele si calcaiele.<\/li>\r\n<\/ul>\r\n<p>Pentru ca aceste zone ofera corpului o sustinere optima, coloana este relaxata si<strong> nu este supusa niciunei presiuni in timpul somnului.<\/strong><\/p>\r\n<p><\/p>\r\n\r\n<p>Te simti confortabil si beneficiezi de un somn placut, relaxant si odihnitor!<\/p>\r\n\r\n\r\n<h3>Spuma cu memorie ce regleaza temperatura.<\/h3>\r\n<p>Spuma cu memorie se adapteaza la forma si temperatura corpului. In momentul in care este aplicata presiune, spuma cu memorie isi modifica forma dar revine la starea initiala imediat ce presiunea este indepartata. iMemory este realizata cu micro capsule de parafina (PCP) ce au proprietatea de a-si schimba starea in functie de temperatura de pe saltea. Astfel, spre deosebire de spuma cu memorie normala, spuma iMemory regleaza temperatura&amp;ndash; in momentul in care corpul se incalzeste, energia este captata de capsulele de parafina astfel corpul se raceste. In momentul in care utilizatorul se raceste, energia este eliminata catre exterior. Astfel se creaza un mediu optim pentru un somn confortabil.<\/p>\r\n<h3>Reglarea umezelii<\/h3>\r\n\r\n<p>Structura celulara deschisa si husa Climalite, al carui material are proprietatea exceptionala de a se usca si de a evapora umezeala, iti garanteaza un mediu de somn uscat si igienic.<\/p>","not_is_in_stock":false,"sku":"1000002405","cpr_navision_id":"100020082","price_clubfive":"303,91\u00a0\u20ac","price_clubfive_popup_html":"<div class='popup-clubfive-inner'><p>\u010clani<span class=\"icon\"><\/span> Kluba 5* <span class=\"red\">prihranijo 16,00\u00a0\u20ac <\/span>pri tem izdelku.<\/p><p><a href='\/klub5'>Kliknite tukaj za ve\u010d informacij<\/a><\/p><\/div>","hasFreeDelivery":false,"price_html":"\n        <div class=\"price-box\">\n                                                        <span class=\"regular-price\" id=\"product-price-4180\">\n                                                                            <span class=\"price\">319,90\u00a0\u20ac<\/span>                                                                    <\/span>\n                                    \n            <\/div>\n\n\n","price_clone_html":"\n        <div class=\"price-box\">\n                                                        <span class=\"regular-price\" id=\"product-price-4180_clone\">\n                                                                            <span class=\"price\">319,90\u00a0\u20ac<\/span>                                                                    <\/span>\n                                    \n            <\/div>\n\n\n","price":319.9,"price_discount_value":"0"},"121":{"name":"Mattress, 180X190 iMemory Silver","description":"<h2>O saltea mai ferma sau mai moale?<\/h2>\r\n<h3>Cu iMemory Silver aceasta nu mai este o problema!<\/h3>\r\n<p><strong>15 ANI Garantie pentru forma Saltelei!<\/strong><\/p>\r\n<p>Alegerea unei saltele nu este o decizie usoara . Ce este mai potrivita &amp;ndash; o saltea mai moale sau una mai tare? Cu inovatoare saltea iMemory Silver, iti poti lua ramas bun de la grijile tale.<\/p>\r\n<p>Aceasta saltea cu doua fete are un mijloc din spuma Ecocell&amp;reg;, moale pe o parte si tare pe cealalta. Astfel, pur si simplu intorcand salteaua ii poti adapta fermitatea la nevoile tale. Daca dupa o vreme te razgandesti, trebuie doar sa o intorci!<\/p>\r\n<h3>Solutia perfecta pentru un pat dublu!<\/h3>\r\n<p>Saltelele pentru paturi duble sunt formate dintr-o singura husa si 2 mijloace separate, astfel incat partenerii care impart patul sa ii poata regla fermitatea asa cum doresc.<\/p>\r\n<p><strong>Daca te hotarasti pentru salteaua iMemory Silver, decizia ta nu are cum sa fie gresita.<\/strong><\/p>\r\n<p><strong>Principalele avantaje:<\/strong><\/p>\r\n<ul>\r\n    <p>&amp;bull; un strat comod de spuma cu memorie, care confera confort de neegalat<\/p>\r\n    <p>&amp;bull; capsulele termo-regulatoare reduc transpiratia excesiva<\/p>\r\n    <p>&amp;bull; mijloc cu 3 zone, care ofera corpului sustinere optima<\/p>\r\n    <p>&amp;bull; husa de saltea Climalite elimina surplusul de umezeala<\/p>\r\n    <p>&amp;bull; fibrele de argint protejeaza impotriva bacteriilor si a alergenilor<\/p>\r\n    <p>&amp;bull; husa detasabila pentru intretinere usoara <\/p>\r\n    <p><strong>O saltea inovatoare cu mijloc ce se poate intoarce usor, pentru fermitate diferita<\/strong><\/p>\r\n<\/ul>\r\n<p>Salteaua iMemory Silver este formata din doua nuclee din spuma Ecocell&amp;reg;:<\/p>\r\n<p><strong><\/strong>Nucleul albastru ofera o sustinere mai ferma si se adapteaza mai bine la greutatea corpului.<\/p>\r\n<p>Mijlocul portocaliu ofera corpului o sustinere mai delicata si se adapteaza mai putin la greutatea corpului.<\/p>\r\n<p>In plus, saltelele mai mari de 140 cm latime au un mijloc din doua parti separate, ceea ce inseamna ca fiecare partener isi poate adapta jumatatea la stilul sau de dormit.<\/p>\r\n<h3>Gata cu problemele legate de alegerea saltelei &amp;ndash; decizia este simpla<\/h3>\r\n<p>Salteaua iti permite sa o intorci dupa cum vrei &amp;ndash; pe partea moale sau pe partea tare. Acest lucru este posibil datorita mijlocului dublu al saltelei, cu niveluri diferite de confort pe fiecare parte. Daca partea tare nu iti place, poti sa o intorci cu partea moale.<\/p>\r\n<p>De aceea, in acest caz nu ai de ce sa te temi ca poate ai ales salteaua gresita. Cu iMemory Silver alegerea ta este intotdeauna cea corecta.<\/p>\r\n<h3>Un mijloc cu 3 zone, pentru sustinerea exemplara a tuturor partilor corpului.<\/h3>\r\n<p>Datorita numarului crescut de zone, greutatea corpului tau se distribuie uniform pe suprafata saltelei si proprietatile anatomice si ortopedice ale saltelei au o influenta benefica asupra corpului tau. Zonele au fermitate diferita, in functie de greutatea partilor corpului pe care le sustin: cap, corp si picioare:<\/p>\r\n<ul>\r\n    <li>Zona 1 sustine capul, gatul si umerii,<\/li>\r\n    <li>Zona 2 sustine coloana, bazinul si soldurile,<\/li>\r\n    <li>Zona 3 sustine picioarele, gleznele si calcaiele.<\/li>\r\n<\/ul>\r\n<p>Pentru ca aceste zone ofera corpului o sustinere optima, coloana este relaxata si<strong> nu este supusa niciunei presiuni in timpul somnului.<\/strong><\/p>\r\n<p><\/p>\r\n\r\n<p>Te simti confortabil si beneficiezi de un somn placut, relaxant si odihnitor!<\/p>\r\n\r\n\r\n<h3>Spuma cu memorie ce regleaza temperatura.<\/h3>\r\n<p>Spuma cu memorie se adapteaza la forma si temperatura corpului. In momentul in care este aplicata presiune, spuma cu memorie isi modifica forma dar revine la starea initiala imediat ce presiunea este indepartata. iMemory este realizata cu micro capsule de parafina (PCP) ce au proprietatea de a-si schimba starea in functie de temperatura de pe saltea. Astfel, spre deosebire de spuma cu memorie normala, spuma iMemory regleaza temperatura&amp;ndash; in momentul in care corpul se incalzeste, energia este captata de capsulele de parafina astfel corpul se raceste. In momentul in care utilizatorul se raceste, energia este eliminata catre exterior. Astfel se creaza un mediu optim pentru un somn confortabil.<\/p>\r\n<h3>Reglarea umezelii<\/h3>\r\n\r\n<p>Structura celulara deschisa si husa Climalite, al carui material are proprietatea exceptionala de a se usca si de a evapora umezeala, iti garanteaza un mediu de somn uscat si igienic.<\/p>","not_is_in_stock":false,"sku":"1000002409","cpr_navision_id":"100041943","price_clubfive":"550,91\u00a0\u20ac","price_clubfive_popup_html":"<div class='popup-clubfive-inner'><p>\u010clani<span class=\"icon\"><\/span> Kluba 5* <span class=\"red\">prihranijo 29,00\u00a0\u20ac <\/span>pri tem izdelku.<\/p><p><a href='\/klub5'>Kliknite tukaj za ve\u010d informacij<\/a><\/p><\/div>","hasFreeDelivery":false,"price_html":"\n        <div class=\"price-box\">\n                                                        <span class=\"regular-price\" id=\"product-price-4180\">\n                                                                            <span class=\"price\">579,90\u00a0\u20ac<\/span>                                                                    <\/span>\n                                    \n            <\/div>\n\n\n","price_clone_html":"\n        <div class=\"price-box\">\n                                                        <span class=\"regular-price\" id=\"product-price-4180_clone\">\n                                                                            <span class=\"price\">579,90\u00a0\u20ac<\/span>                                                                    <\/span>\n                                    \n            <\/div>\n\n\n","price":579.9,"price_discount_value":"0"},"43":{"name":"Mattress, 200X200 iMemory Silver","description":"<h2>O saltea mai ferma sau mai moale?<\/h2>\n<h3>Cu iMemory Silver aceasta nu mai este o problema!<\/h3>\n<p><strong>15 ANI Garantie pentru forma Saltelei!<\/strong><\/p>\n<p>Alegerea unei saltele nu este o decizie usoara . Ce este mai potrivita &amp;ndash; o saltea mai moale sau una mai tare? Cu inovatoare saltea iMemory Silver, iti poti lua ramas bun de la grijile tale.<\/p>\n<p>Aceasta saltea cu doua fete are un mijloc din spuma Ecocell&amp;reg;, moale pe o parte si tare pe cealalta. Astfel, pur si simplu intorcand salteaua ii poti adapta fermitatea la nevoile tale. Daca dupa o vreme te razgandesti, trebuie doar sa o intorci!<\/p>\n<h3>Solutia perfecta pentru un pat dublu!<\/h3>\n<p>Saltelele pentru paturi duble sunt formate dintr-o singura husa si 2 mijloace separate, astfel incat partenerii care impart patul sa ii poata regla fermitatea asa cum doresc.<\/p>\n<p><strong>Daca te hotarasti pentru salteaua iMemory Silver, decizia ta nu are cum sa fie gresita.<\/strong><\/p>\n<p><strong>Principalele avantaje:<\/strong><\/p>\n<ul>\n    <p>&amp;bull; un strat comod de spuma cu memorie, care confera confort de neegalat<\/p>\n    <p>&amp;bull; capsulele termo-regulatoare reduc transpiratia excesiva<\/p>\n    <p>&amp;bull; mijloc cu 3 zone, care ofera corpului sustinere optima<\/p>\n    <p>&amp;bull; husa de saltea Climalite elimina surplusul de umezeala<\/p>\n    <p>&amp;bull; fibrele de argint protejeaza impotriva bacteriilor si a alergenilor<\/p>\n    <p>&amp;bull; husa detasabila pentru intretinere usoara <\/p>\n    <p><strong>O saltea inovatoare cu mijloc ce se poate intoarce usor, pentru fermitate diferita<\/strong><\/p>\n<\/ul>\n<p>Salteaua iMemory Silver este formata din doua nuclee din spuma Ecocell&amp;reg;:<\/p>\n<p><strong><\/strong>Nucleul albastru ofera o sustinere mai ferma si se adapteaza mai bine la greutatea corpului.<\/p>\n<p>Mijlocul portocaliu ofera corpului o sustinere mai delicata si se adapteaza mai putin la greutatea corpului.<\/p>\n<p>In plus, saltelele mai mari de 140 cm latime au un mijloc din doua parti separate, ceea ce inseamna ca fiecare partener isi poate adapta jumatatea la stilul sau de dormit.<\/p>\n<h3>Gata cu problemele legate de alegerea saltelei &amp;ndash; decizia este simpla<\/h3>\n<p>Salteaua iti permite sa o intorci dupa cum vrei &amp;ndash; pe partea moale sau pe partea tare. Acest lucru este posibil datorita mijlocului dublu al saltelei, cu niveluri diferite de confort pe fiecare parte. Daca partea tare nu iti place, poti sa o intorci cu partea moale.<\/p>\n<p>De aceea, in acest caz nu ai de ce sa te temi ca poate ai ales salteaua gresita. Cu iMemory Silver alegerea ta este intotdeauna cea corecta.<\/p>\n<h3>Un mijloc cu 3 zone, pentru sustinerea exemplara a tuturor partilor corpului.<\/h3>\n<p>Datorita numarului crescut de zone, greutatea corpului tau se distribuie uniform pe suprafata saltelei si proprietatile anatomice si ortopedice ale saltelei au o influenta benefica asupra corpului tau. Zonele au fermitate diferita, in functie de greutatea partilor corpului pe care le sustin: cap, corp si picioare:<\/p>\n<ul>\n    <li>Zona 1 sustine capul, gatul si umerii,<\/li>\n    <li>Zona 2 sustine coloana, bazinul si soldurile,<\/li>\n    <li>Zona 3 sustine picioarele, gleznele si calcaiele.<\/li>\n<\/ul>\n<p>Pentru ca aceste zone ofera corpului o sustinere optima, coloana este relaxata si<strong> nu este supusa niciunei presiuni in timpul somnului.<\/strong><\/p>\n<p><\/p>\n\n<p>Te simti confortabil si beneficiezi de un somn placut, relaxant si odihnitor!<\/p>\n\n\n<h3>Spuma cu memorie ce regleaza temperatura.<\/h3>\n<p>Spuma cu memorie se adapteaza la forma si temperatura corpului. In momentul in care este aplicata presiune, spuma cu memorie isi modifica forma dar revine la starea initiala imediat ce presiunea este indepartata. iMemory este realizata cu micro capsule de parafina (PCP) ce au proprietatea de a-si schimba starea in functie de temperatura de pe saltea. Astfel, spre deosebire de spuma cu memorie normala, spuma iMemory regleaza temperatura&amp;ndash; in momentul in care corpul se incalzeste, energia este captata de capsulele de parafina astfel corpul se raceste. In momentul in care utilizatorul se raceste, energia este eliminata catre exterior. Astfel se creaza un mediu optim pentru un somn confortabil.<\/p>\n<h3>Reglarea umezelii<\/h3>\n\n<p>Structura celulara deschisa si husa Climalite, al carui material are proprietatea exceptionala de a se usca si de a evapora umezeala, iti garanteaza un mediu de somn uscat si igienic.<\/p>","not_is_in_stock":false,"sku":"1000002414","cpr_navision_id":"100043755","price_clubfive":"617,41\u00a0\u20ac","price_clubfive_popup_html":"<div class='popup-clubfive-inner'><p>\u010clani<span class=\"icon\"><\/span> Kluba 5* <span class=\"red\">prihranijo 32,50\u00a0\u20ac <\/span>pri tem izdelku.<\/p><p><a href='\/klub5'>Kliknite tukaj za ve\u010d informacij<\/a><\/p><\/div>","hasFreeDelivery":false,"price_html":"\n        <div class=\"price-box\">\n                                                        <span class=\"regular-price\" id=\"product-price-4180\">\n                                                                            <span class=\"price\">649,90\u00a0\u20ac<\/span>                                                                    <\/span>\n                                    \n            <\/div>\n\n\n","price_clone_html":"\n        <div class=\"price-box\">\n                                                        <span class=\"regular-price\" id=\"product-price-4180_clone\">\n                                                                            <span class=\"price\">649,90\u00a0\u20ac<\/span>                                                                    <\/span>\n                                    \n            <\/div>\n\n\n","price":649.9,"price_discount_value":"0"}});confData.textNotAvailable="Prosimo, izberite barvo.";confData.mediaUrlMain="http://www.dormeo.net/amconf/media/index/id/4180/";confData.oneAttributeReload="";confData.imageContainer=".product-img-box";confData.useSimplePrice="1";confData.hidePriceDecimals="0";</script>
+<script type="text/javascript">Product.ConfigPackaging=new Class.create(Product.Config,{configureElement:function($super,element){$super(element);}});var spConfig=new Product.ConfigPackaging({"attributes":{"175":{"id":"175","code":"cpr_size_id","label":"Velikost","options":[{"id":"157","label":"90x190 cm","price":"0","oldPrice":"0","products":["4172"],"dataprice":319.9,"immediate_shipping":"0"},{"id":"121","label":"180x190 cm","price":"0","oldPrice":"0","products":["4143"],"dataprice":579.9,"immediate_shipping":"0"},{"id":"43","label":"200x200 cm","price":"0","oldPrice":"0","products":["4150"],"dataprice":649.9,"immediate_shipping":"0"}]}},"template":"#{price}\u00a0\u20ac","basePrice":"319.9","oldPrice":"319.9","productId":"4180","chooseText":"Izberi mo\u017enost ...","taxConfig":{"includeTax":true,"showIncludeTax":true,"showBothPrices":false,"defaultTax":22,"currentTax":22,"inclTaxTitle":"Vklju\u010dno z davkom"}});spConfig.setInitialState=function(dropdownId){};getNonVisibleAttributes(jQuery(".product-view .product-name.js-gtm-data").data('productid'),'attribute');</script>
+<!--/{configurable_options_loader_d0c34b33575c3de16a7ce73c8b8adbf2}-->
+<script type="text/javascript">var swatchesConfig=new Product.ConfigurableSwatches(spConfig);</script>
+<div class="hidden" id="inline-popup-measure-bed-size"><div class="measure-bed-size-page">
+<div class="des">
+<h2>Kako izmerimo velikost postelje</h2>
+<p>Postelje imajo standardne velikosti, kot so enojna postelja, zakonska postelja, velika zakonska postelja (queen) in zelo velika zakonska postelja (king). Z naslednjimi meritvami lahko zagotovite, da boste kupili posteljo prave velikosti.</p>
+</div>
+<div class="steps">
+<ul class="small-block-grid-1 medium-block-grid-3 large-block-grid-3">
+<li><img alt="" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/pages/measure-bed-size-page/xstep-1.jpg.pagespeed.ic.2ll7gI6nKw.jpg"/>
+<p>Potrebovali boste meter ter pisalo in papir, da si boste lahko zapisali izmerjene podatke.</p>
+</li>
+<li><img alt="" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/pages/measure-bed-size-page/step-2.jpg.pagespeed.ce.JVqlxUwSxR.jpg"/>
+<p>Začetek metra položite na levo stran postelje. Meter izvlecite, da dosežete desno stran postelje. Zapišite si podatek o izmerjeni širini.</p>
+</li>
+<li><img alt="" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/pages/measure-bed-size-page/xstep-3.jpg.pagespeed.ic.XuV1B1JRz0.jpg"/>
+<p>3. Začetek metra položite na sredino zgornje stranice postelje. Meter izvlecite, da dosežete sredino spodnje stranice postelje. Zapišite si podatek o izmerjeni dolžini.</p>
+</li>
+</ul>
+</div>
+<p>Spodaj so navedene najpogostejše velikosti postelj:</p>
+<div class="tab">
+<table>
+<tbody>
+<tr>
+<td>
+<p>Enojna postelja</p>
+</td>
+<td>
+<p>90 x 200 cm</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Velika enojna postelja</p>
+</td>
+<td>
+<p>120 x 200 cm</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Zakonska postelja</p>
+</td>
+<td>
+<p>140 x 200 cm</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Velika zakonska postelja (queen)</p>
+</td>
+<td>
+<p>160 x 200 cm</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Zelo velika zakonska postelja (king)</p>
+</td>
+<td>
+<p>180 x 200 cm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Velikosti postelj niso standardizirane, zato pred nakupom ležišča preverite dimenzije svoje postelje. Postelje so na voljo tudi v drugih velikostih, ki so primerne za ljudi vseh velikosti in oblik. Zelo pogoste so denimo postelje z dolžino 190 cm, ki so popolna izbira za manjše sobe.</p>
+</div>
+</div></div>
+<script type="text/javascript">var DateOption=Class.create({getDaysInMonth:function(month,year){var curDate=new Date();if(!month){month=curDate.getMonth();}if(2==month&&!year){return 29;}if(!year){year=curDate.getFullYear();}return 32-new Date(year,month-1,32).getDate();},reloadMonth:function(event){var selectEl=event.findElement();var idParts=selectEl.id.split("_");if(idParts.length!=3){return false;}var optionIdPrefix=idParts[0]+"_"+idParts[1];var month=parseInt($(optionIdPrefix+"_month").value);var year=parseInt($(optionIdPrefix+"_year").value);var dayEl=$(optionIdPrefix+"_day");var days=this.getDaysInMonth(month,year);for(var i=dayEl.options.length-1;i>=0;i--){if(dayEl.options[i].value>days){dayEl.remove(dayEl.options[i].index);}}var lastDay=parseInt(dayEl.options[dayEl.options.length-1].value);for(i=lastDay+1;i<=days;i++){this.addOption(dayEl,i,i);}},addOption:function(select,text,value){var option=document.createElement('OPTION');option.value=value;option.text=text;if(select.options.add){select.options.add(option);}else{select.appendChild(option);}}});dateOption=new DateOption();</script>
+<script type="text/javascript">var extended_warranty_url='http://www.dormeo.net/extendedwarranty/product/getwarranty/';var extended_warranty_product_id='4180';</script>
+<input class="selected_warranty_price" name="selected_extended_warranty_price" type="hidden" value=""/>
+<input class="selected_warranty_sku" name="selected_extended_warranty_sku" type="hidden" value=""/>
+<input class="selected_warranty_type" name="selected_extended_warranty_type" type="hidden" value="configurable"/>
+<input class="selected_warranty_id" name="selected_extended_warranty" type="hidden" value=""/>
+<div class="select-box-holder">
+<div class="input-box">
+<select class="warrantySelect" data-label="sWarranty">
+<option value="0">Tu lahko izdelku podaljšate jamstvo</option> </select>
+<a class="venobox vbox-item product-modal popup-warranty" data-custom-css="extended-warranty-popup-wrapper" data-vbtype="inline" href="#warrantyModal"></a>
+<div class="hidden" id="warrantyModal"><div class="popup-uni-wrapper" style="padding: 1em;">
+<p>Podjetje Studio Moderna jamči, da bo zgoraj navedeni izdelek, ob nakupu katerega je kupec dokupil tudi dodatno jamstvo na kakovost, v času veljavnosti le-tega brezhibno deloval v odsotnosti kakršnihkoli napak v zvezi s funkcionalnostjo oz. drugih napak, ki objektivno vplivajo na funkcionalnost, ter se obvezuje, da bo v nasprotnem primeru primerno zagotovilo brezplačna popravila in/ali zamenjave izdelka z napako z novim (v primeru, da izdelka ni več v prodaji bo podjetje zagotovilo zamenjave za drug istovrsten izdelek, z najmanj enako specifikacijo funkcionalnosti). V kolikor se izdelek z napako, ki uživa dodatno jamstvo na kakovost, ne popravi in/ali zamenja na ustrezen način v roku 45 dni od prejema izdelka, lahko kupec odstopi od pogodbe ali zahteva znižanje kupnine.</p>
+<p><strong>Dodatno jamstvo na kakovost za izdelek velja v celotnem obdobju, kot je navedeno v naslovu zgoraj in sicer:</strong></p>
+<ul>
+<li>v primeru, da gre za izdelek, za katerega je dana zakonsko obvezna 1-letna garancija za brezhibno delovanje, prične veljati prvi dan po poteku zakonsko obvezne 1-letne garancije za brezhibno delovanje, ali</li>
+<li>v primeru, da gre za izdelek, za katerega je brezplačno dano prostovoljno jamstvo oz. garancija, prične veljati prvi dan po poteku brezplačno danega prostovoljnega jamstva oz. garancije,</li>
+<li>v primeru, da gre za izdelek za katerega ni dana zakonska 1-letna obvezna garancija za brezhibno delovanje in/ali brezplačno prostovoljno jamstvo oz. garancija, prične veljati prvi dan po dnevu nakupa oz. izročitve (kar sledi kasneje),z njim pa si kupec pridobi dodatno zagotovilo brezskrbne uporabe izdelka, ki mu skladno z jamstvenimi pogoji zagotavlja brezhibno delovanje izdelka oz. v nasprotnem primeru, brez pogoja predhodnega dodatnega obvestila podjetja o napaki, brezplačna popravila in/ali zamenjave izdelka z napako v času veljavnosti dodatnega jamstva na kakovost ter strokovno svetovanje v zvezi z uveljavitvijo pravic kot tudi uporabo izdelka.</li>
+</ul>
+<p><strong> DODATNO JAMSTVO NA KAKOVOST IZRECNO NE VELJA:</strong></p>
+<ul>
+<li>za napake v funkcionalnosti, ki nastanejo izven razlogov podjetja – zunanji vplivi (vključno z nepravilno uporabo izdelka, poškodbami nastalimi po krivdi oz. iz malomarnosti s strani kupca ali tretje osebe, nepooblaščeni posegi v izdelek, višje sile, itd.),</li>
+<li>za potrošni material (menjava baterij, kartuš, itd.),</li>
+<li>v primeru subjektivnega nezadovoljstva kupca z izdelkom (dodatno jamstvo na kakovost ne izključuje pravice do odstopa potrošnika brez razloga v primeru sklenitve pogodb na daljavo),</li>
+<li>t.i. »kozmetičnih napak«, ki ne vplivajo na funkcionalnost izdelka in so povezane z dolgotrajno rabo izdelka.</li>
+</ul>
+<p>Uveljavitev pravic iz naslova dodatnega jamstva na kakovost je enostavno in stroškovno učinkovitejše za kupca, saj je v času celotne veljavnosti le-tega dokazno breme glede prisotnosti napak, ki so krite z vsebino dodatnega jamstva, na podjetju.</p>
+<p> POJASNILA:</p>
+<ul>
+<li>V primeru, da izdelek deluje na baterije, predlagamo, da kupec preizkusi delovanje izdelka z novimi baterijami, predno ga dostavi podjetju, saj težave lahko povzročajo izrabljene baterije. Pred pošiljanjem izdelka podjetju je potrebno baterije odstraniti.</li>
+<li>V primeru nakupa ležišča skupaj z izbrano letveno podlago v ponudbi podjetja kupec pridobi poleg brezplačno dane 2-letne polne garancije oz. jamstva na ležišče ter 15-letnega podaljšanega jamstva s participacijo na ležišče tudi možnost nakupa dodatnega jamstva na kakovost. V tovrstnem primeru je vrstni red poteka garancij/jamstev na jedro ležišča sledeč: a) 2-letna prostovoljna garancija, b) 2-letno ali 3-letno dodatno jamstvo na kakovost, c) 15-letno podaljšano jamstvo s participacijo.</li>
+</ul>
+<p>Dodatno jamstvo na kakovost v nobenem primeru ne izključuje kupčevih pravic, ki izhajajo iz naslova morebitne zakonske garancije za brezhibno delovanje (v kolikor je slednja dana skladno z zakonodajo) in/ali odgovornosti prodajalca za stvarne napake na blagu in/ali morebitnih drugih zakonskih pravic, temveč se obravnava kot dodatna post-prodajna storitev, katera potrošniku omogoča dodatne pravice in ugodnosti, poleg tistih, ki so določene z zakonom oz. pridobljene na drugi podlagi. Pravice iz naslova dodatnega jamstva je moč uveljaviti zgolj ob predložitvi izdelka (kjer je to ob upoštevanju tehničnih lastnosti izdelka primerno), ob katerem je bil nakup jamstva opravljen skupaj z originalnim računom iz katerega je razviden tako nakup izdelka kot tudi dodatnega jamstva na kakovost prav tako pa je ob predložitvi zahtevka za uveljavljanje pravic predstavniku podjetja (npr. prodajalcu) potrebno opisati napako. V nasprotnem primeru pravic iz naslova dodatnega jamstva na kakovost ni mogoče uveljaviti.</p>
+<p> Kupec lahko pravice iz naslova dodatnega jamstva na kakovost uveljavi:</p>
+<ul>
+<li>v primeru nakupa na enem izmed prodajnih mest prodajalca, kjer je bil nakup opravljen;</li>
+<li>v primeru nakupa na daljavo (telefonska prodaja, internetna prodaja, itd.) pokliče na telefonsko številko 08 200 91 91 oz. kontaktira podjetje prek elektronskega naslova <a href="mailto:reklamacije@studio-moderna.com">reklamacije@studio-moderna.com</a> kjer prejme dodatna navodila;</li>
+</ul>
+<p>Pravice iz naslova dodatnega jamstva na kakovost je moč uveljaviti zgolj v Republiki Sloveniji.</p>
+<p>V primeru kakršnihkoli dodatnih vprašanj lahko vsak kupec kontaktira podjetje:</p>
+<ul>
+<li>vsak delavnik med 8.00 – 16.00 na telefonsko številko 08 200 91 91, ali</li>
+<li>prek elektronskega naslova <a href="mailto:reklamacije@studio-moderna.com">reklamacije@studio-moderna.com</a>.</li>
+</ul>
+</div></div>
+</div>
+</div> </div>
+</div>
+<div class="add-to-cart-wrapper">
+<!--{product_addtocart_ffb716c25431f5edbbbec6b1b8ffde9b}-->
+<div class="add-to-cart">
+<div class="add-to-cart-buttons clearfix">
+<button class="button btn-cart" onclick="productAddToCartForm.submit(this)" tabindex="4" title="Dodaj v košarico" type="button">
+<span>
+<span>
+                        Dodaj v košarico                    </span>
+</span>
+</button>
+<div class="product-btn">
+<a class="view-prod" href="http://www.dormeo.net/lezisce-imemory-silver-dormeo" target="_parent" title="Ogled izdelka">Ogled izdelka</a>
+</div>
+</div>
+<div class="add-to-cart-phone-box">
+<div class="add-to-cart-phone-text">
+                Pokličite nas na: <a class="phone-link" href="tel:0801015"><strong>080 10 15</strong></a>
+</div>
+</div>
+</div>
+<p class="availability out-of-stock availability-option" style="display: none">
+<span class="value">Ni na zalogi</span>
+</p>
+<!--/{product_addtocart_ffb716c25431f5edbbbec6b1b8ffde9b}--> </div>
+</div>
+</div>
+<div class="product-availability-wrapper">
+<div class="product-availability-table">
+<div class="product-availability-row">
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="product-info-tabs">
+<div class="product-collateral toggle-content tabs open pane-closed">
+<div class="desktop-tabs">
+<ul class="toggle-tabs">
+<li class="productShortDesc ">Kratek opis</li>
+<li class="productDetails productDescription">Podroben opis</li>
+<li class="productDetails productInfo">Dodatne informacije</li>
+<li class="productDetails productTech">Tehnične specifikacije</li>
+<li class="productDetails productPayment">Možnosti plačila</li>
+</ul>
+</div>
+<dl class="collateral-tabs " id="collateral-tabs">
+<dt class="tab productShortDesc"><span>Kratek opis</span></dt>
+<dd class="tab-container ">
+<div class="tab-content"> <div class="std">
+<p>Hipoalergeno 3-consko ležišče je visoko 18 cm. Obračljivo jedro s čvrsto in mehkejšo stranjo nudi 4 različne možnosti trdote ležišča: od mehke do čvrste. Ležišče je popolna izbira za vse spalne položaje in oblike telesa. Prevleka iz spominske pene je pralna. Ima 30 noči testnega obdobja in 15 let podaljšane garancije. Izdelamo ga tudi po meri.</p> </div>
+</div>
+<div class="productReadMore">Preberite več</div> </dd>
+<dt class="tab productDetails productDescription"><span>Podroben opis</span></dt>
+<dd class="tab-container ">
+<div class="tab-content"> <div class="std">
+<div>
+<ul class="xsmall-block-grid-1 small-block-grid-3">
+<li>
+<div class="a-center border" style="display: table; width: 100%;">
+<div class="equal_heights_xsmall a-center" style="display: table-cell; vertical-align: top; text-align: center; padding: 1em;"><img alt="" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/product-description/iMemory_S_Plus_Platinum_Mattress/xicon-100-night-trial.png.pagespeed.ic.-7axuy2xYu.png"/>
+<h4 class="pad-top" style="font-weight: bold;">60 NOČI BREZ TVEGANJA – 100% varen nakup</h4>
+<p><strong>Bodite 100% prepričani!</strong> Na Dormeo® ležišču lahko v udobju svojega doma sanjate kar <strong>60 dni</strong>. V primeru, da se na ležišču ne bi dobro naspali, vam bomo vrnili celotno kupnino.</p>
+</div>
+</div>
+</li>
+<li>
+<div class="a-center border" style="display: table; width: 100%;">
+<div class="equal_heights_xsmall a-center" style="display: table-cell; vertical-align: top; text-align: center; padding: 1em;"><img alt="" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/product-description/iMemory_S_Plus_Platinum_Mattress/xicon-15-years-extended-warranty.png.pagespeed.ic.xO9t6uYHDm.png"/>
+<h4 class="pad-top" style="font-weight: bold;">15 LET PODALJŠANEGA JAMSTVA</h4>
+<p>Ker trdno verjamemo v kakovost naših Dormeo® ležišč, vam ob nakupu letvenih podlag omogočamo 15 let podaljšanega jamstva. To vam ponuja kar <strong>5.470 noči mirnega spanca.</strong></p>
+</div>
+</div>
+</li>
+<li>
+<div class="a-center border" style="display: table; width: 100%;">
+<div class="equal_heights_xsmall a-center" style="display: table-cell; vertical-align: top; text-align: center; padding: 1em;"><img alt="" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/product-description/iMemory_S_Plus_Platinum_Mattress/xicon-click-and-collect.png.pagespeed.ic.T7JMLd8Fbd.png"/>
+<h4 class="pad-top" style="font-weight: bold;">KLIKNITE IN PREVZEMITE</h4>
+<p>Preprosto - <strong>kupite na spletu, prevzemite v želeni poslovalnici</strong>. S klikom naročite želene izdelke in izberite poslovalnico, v kateri jih boste prevzeli. Ostalo za vas uredimo mi.  </p>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="pad-bottom"><style type="text/css">ul.bullet_check{list-style:none}ul.bullet_circle{list-style:none;margin-bottom:23px}ul.bullet_check li{position:relative;padding:0 0 0 35px;margin-left:0}ul.bullet_circle li{position:relative;padding:5px 0 5px 45px;margin-left:0;margin-bottom:5px;min-height:20px}ul.bullet_check li:before{font-family:'FontAwesome';content:"\f00c";position:absolute;top:-2px;left:10px;color:#c6168d;font-size:1.125em}ul.bullet_circle li .nmb,.img_nmb{position:absolute;top:0;left:0;font-weight:bold;background:#c6168d;font-size:20px;line-height:30px;width:30px;text-align:center;color:#fff;-webkit-border-radius:15px;-moz-border-radius:15px;border-radius:15px}</style>
+<div class="clearfix pad-bottom">
+<h2>Ležišče iMemory Silver</h2>
+<h3>4 različne ravni trdote v 1 ležišču</h3>
+<p>Ležišče Dormeo iMemory Silver je popolna rešitev za vse, saj ponuja prilagodljivo trdoto, ki zagotovi popolno udobje in boljši spanec.</p>
+</div>
+<div class="row pad-bottom" style="padding-bottom: 2em;">
+<div class="row">
+<div class="small-12 medium-5 large-5 column">
+<ul class="bullet_check">
+<li>2 jedri v 1 ležišču: obračljivo jedro za spanje na mehki ali trši podlagi.</li>
+<li>4 trdote v 1 enem ležišču: omogoča individualno prilagajanje ležišča za udobje po vaši meri.</li>
+<li>Dodatna 2 cm spominske pene iMemory v prevleki za popolno prilagajanje telesu.</li>
+<li>18 cm (15 + 3) višina jedra: nudi odlično podporo telesu med spanjem.</li>
+<li>3 cone: dokazano izvrstna ergonomska podpora v vseh delih telesa za pravilno podporo hrbtebnice in zagotavljanje spanca brez bolečin.</li>
+<li>Trojna antibakerijska zaščita za čisto in prijetno sveže ležišče.</li>
+<li>Pralna prevleka na 60° C v pralnem stroju: za čistočo in svežino, kadarkoli jo želite.</li>
+<li>30 dnevno testno obdobje: ležišče lahko testirate in se prepričate, ali vam ustreza.</li>
+<li>Možnost 15-letnega podaljšanega jamstva.</li>
+<li>Možnost plačila na obroke.</li>
+</ul>
+<div class="clearfix">
+<table style="width: auto;">
+<tbody>
+<tr>
+<td class="small-3 medium-3 large-3" style="text-align: left; vertical-align: middle;"><img alt="" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/product-description/imemory-silver/xcircle-84.png.pagespeed.ic.T-yxJcUD4r.png"/></td>
+<td class="small-9 medium-9 large-9" style="text-align: left; vertical-align: middle; padding: 0 1em;">
+<p>ljudi, ki spijo na ležišču Dormeo iMemory Silver, je povedalo, da so z njim <span style="color: #c6168d; font-weight: bold; font-size: 1.3em;">zelo zadovoljni</span>.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>* Vir: Raziskava o zadovoljstvu z ležiščem Dormeo iMemory Silver (n = 234)</p>
+</div>
+<div class="small-12 medium-7 large-7 column pad-bottom relative">
+<div class="small-3 medium-3 large-3" style="position: absolute; top: 8%; right: 5%;"><img alt="" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/product-description/imemory-silver/xlogo-4in1.png.pagespeed.ic.1z-Bo90fOu.png"/></div>
+<div class="small-3 medium-3 large-3" style="position: absolute; bottom: 8%; right: 5%;"><img alt="" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/product-description/imemory-silver/logo-no1.png"/></div>
+<img alt="" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/product-description/imemory-silver/ximg-1.jpg.pagespeed.ic.x7HsSL3T0W.jpg"/></div>
+</div>
+</div>
+<div class="row pad-bottom" style="padding-bottom: 2em;">
+<div class="row">
+<div class="small-12 medium-7 large-7 column">
+<h2>Sistem 4 v 1 za individualno izbiro trdote ležišča</h2>
+<p>Dvojno jedro z dvema različnima gostotama vam omogoča, da <b>izberete trdoto</b> glede na vaše osebne potrebe in želje. Vse, kar morate storiti, je, da odprete prevleko ležišča in dvojno jedro obrnete na tisto stran, ki vam bolj ustreza:</p>
+<ul class="fa-ul" style="margin-top: 1em; margin-bottom: 1em; list-style: none;">
+<li style="padding-bottom: 0.4em;"><b>Modro jedro</b> daje močnejšo oporo in višjo raven trdote Za vse, ki si želite čvrstejšo podlago za spanje in potrebujete boljšo oporo za težo</li>
+<li style="padding-bottom: 0.4em;"><b>Oranžno jedro </b>daje mehkejšo oporo in naprednejšo prilagodljivost. Za vse, ki si želite mehkejšo podlago za spanje in potrebujete manj opore za težo.</li>
+</ul>
+<p>Plast spominske pene, ki je prišita na prevleko ležišča, pomaga omiliti točke pritiska in sprostiti vaše mišice. Podari vam občutek breztežnosti in vam omogoča, da spite v popolni harmoniji, brez obračanja in premetavanja.</p>
+</div>
+<div class="small-12 medium-5 large-5 column pad-bottom relative">
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td style="text-align: center;">
+<p style="margin: 0px;">TRDO</p>
+</td>
+</tr>
+<tr>
+<td><img alt="" class="marginauto" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/product-description/imemory-silver/ximg-2b.png.pagespeed.ic.0d5q2ue0B6.png"/></td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p style="margin: 0px;">MEHKO</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="clearfix pad-bottom">
+<h2>4 možnosti trdote so na voljo v 1 samem ležišču</h2>
+<p>Jedro ležišča iMemory Silver je sestavljeno iz trše in mehkejše strani, ki ju lahko obračate po svoji želji, z menjavanjem strani prevleke, obogatene s peno iMemory, pa lahko še povečate ali zmanjšate trdoto ležišča. Vse, kar morate storiti, je, da preprosto obrnete jedri in prevleko ter tako dobite manj trdo, srednje trdo, trdo ali zelo trdo ležišče.</p>
+<ul class="small-block-grid-2 medium-block-grid-4 large-block-grid-4" style="margin-top: 1.5em;">
+<li>
+<h3>1. Manj trdo</h3>
+<p>To je manj trdo ležišče s peno iMemory - primerno je za ljudi z višjo telesno težo.</p>
+</li>
+<li>
+<h3>2. Srednje trdo</h3>
+<p>S preprosto zamenjavo strani prevleke dobite srednje trdo ležišče, ki ga imajo najraje tisti, ki spijo na boku.</p>
+</li>
+<li>
+<h3>3. Trdo</h3>
+<p>Z obratom srednje trdega ležišča boste dobili trdo opcijo, ki je primerna za tiste, ki spijo na hrbtu.</p>
+</li>
+<li>
+<h3>4. IZJEMNO TRDO</h3>
+<p>In s preprosto zamenjavo strani prevleke , ki bo spominsko peno prestavila na dno, boste dobili zelo trdo ležišče, ki je primerno za ljudi z nižjo telesno težo.</p>
+</li>
+</ul>
+<div class="relative">
+<div style="width: 100%; position: absolute; top: 55%;">
+<div class="small-8 medium-4 large-4 marginauto" style="background-color: #ffffff; border: solid 1px #b3b3b3; padding: 0.5em 1em; text-align: center; color: #00285e; border-radius: 7px;">
+<p style="margin: 0px;"><strong>Individualna izbira trdote</strong></p>
+</div>
+</div>
+<img alt="" class="marginauto" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/product-description/imemory-silver/ximg-3.jpg.pagespeed.ic.FnxyhkNd_7.jpg"/></div>
+</div>
+<div class="row pad-bottom">
+<div class="row">
+<div class="small-12 medium-5 large-5 column">
+<h2>Odlična rešitev za zakonsko posteljo</h2>
+<p>Ležišče zakonske velikosti ima dve ločeni jedri, ki se lahko obrneta, tako da lahko vsak partner izbere svojo priljubljeno trdoto - to pomeni, da vam ni treba kupovati 2 ločenih ležišč.</p>
+<p>Ker celo ležišče prekriva ena prevleka, na sredini ni <b>neudobnega razmaka</b> in robov, ki nastanejo ob uporabi dveh ločenih ležišč.</p>
+</div>
+<div class="small-12 medium-7 large-7 column pad-bottom"><img alt="" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/product-description/imemory-silver/ximg-4.jpg.pagespeed.ic.Th9AJOeNSi.jpg"/></div>
+</div>
+</div>
+<div class="clearfix pad-bottom" style="padding-bottom: 2em;">
+<h2>Ležišče iMemory Silver zagotavlja primerno ergonomsko podporo za vso telo</h2>
+<p>Plast spominske pene lajša točke pritiska, jedro s tremi conami pa poskrbi za primerno ergonomsko podporo vratu in glavi, ledvenemu in križnemu delu vašega telesa - pa tudi nogam.</p>
+<img alt="" class="marginauto" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/product-description/imemory-silver/ximg-5.jpg.pagespeed.ic.G_-cWivE7o.jpg"/></div>
+<div class="row pad-bottom">
+<h2>Ležišče iMemory Silver v prečnem prerezu:</h2>
+<p>Ležišče Dormeo iMemory Silver poskrbi, da je vaš spanec termo-reguliran, proti-alergen in brez vonjev.</p>
+<div class="row pad-top">
+<div class="small-12 medium-5 large-5 column"><ol style="list-style-type: decimal; margin-top: 1em; margin-left: 2em;">
+<li style="padding-bottom: 0.4em;">zadrga</li>
+<li style="padding-bottom: 0.4em;">Notranja prevleka:</li>
+<li style="padding-bottom: 0.4em;">15 cm obojestranskega dvojnega jedra</li>
+<li style="padding-bottom: 0.4em;">4 ročaji za lažje ravnanje</li>
+<li style="padding-bottom: 0.4em;">plast proti-alergijske obloge iz silikonskih vlaken</li>
+<li style="padding-bottom: 0.4em;">2 cm plast pene iMemory, vdelana v prevleko</li>
+<li style="padding-bottom: 0.4em;">Tkanina Climalite in vlakna s srebrno prevleko</li>
+<li style="padding-bottom: 0.4em;">prevleka z zaščito CleanEffect</li>
+</ol></div>
+<div class="small-12 medium-7 large-7 column pad-bottom"><img alt="" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/product-description/imemory-silver/ximg-6.jpg.pagespeed.ic.HrVMKhhiVV.jpg"/>
+<div class="clearfix right">
+<div class="small-5 medium-5 large-5 left"><img alt="" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/product-description/imemory-silver/xlogo-4in1-87x87.jpg.pagespeed.ic.qN9guDxvm8.jpg"/></div>
+<div class="small-7 medium-7 large-7 left pad-left">
+<table>
+<tbody>
+<tr><th> </th>
+<td class="pad-left" style="white-space: nowrap;">
+<p style="margin: 0px;">zelo trdo</p>
+</td>
+</tr>
+<tr><th> </th>
+<td class="pad-left" style="white-space: nowrap;">
+<p style="margin: 0px;">trdo</p>
+</td>
+</tr>
+<tr><th> </th>
+<td class="pad-left" style="white-space: nowrap;">
+<p style="margin: 0px;">srednje trdo</p>
+</td>
+</tr>
+<tr><th> </th>
+<td class="pad-left" style="white-space: nowrap;">
+<p style="margin: 0px;">manj trdo</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row pad-bottom">
+<div class="row">
+<div class="small-6 medium-3 large-3 column pad-bottom"><img alt="" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/product-description/imemory-silver/ximg-7.jpg.pagespeed.ic.tvVrnUer5u.jpg"/></div>
+<div class="small-6 medium-9 large-9 column">
+<p>Ležišča, ki v širino merijo 140 cm in več, imajo dve ločeni obojestranski dvojni jedri znotraj ene prevleke za ležišče. Ta lastnost vam omogoča, da si izberete trdoto ležišča, ne glede na želje osebe, ki spi poleg vas. Poleg tega pa to preprečuje tudi prenos gibanja med dvema osebama, ki spita na istem ležišču.</p>
+</div>
+</div>
+</div>
+<div class="clearfix pad-bottom">
+<ul class="small-block-grid-2 medium-block-grid-4 large-block-grid-4">
+<li><img alt="" class="margin-bottom" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/product-description/imemory-silver/xreversible_dual_core.jpg.pagespeed.ic.53qczF4V0A.jpg"/>
+<h3>Obojestransko dvojno jedro</h3>
+<p>Ko boste ležišče odprli in namestili v okvir postelje, bodite pozorni na to, da spite na eni postelji z dvema jedroma. Zapomnite si: MODRO je TRDO in ORANŽNO je MEHKO. Vzemite si čas in preizkusite, katera trdota vam bolj ustreza.</p>
+</li>
+<li><img alt="" class="margin-bottom" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/product-description/imemory-silver/ximemory_foam.jpg.pagespeed.ic.0XSrBMww9x.jpg"/>
+<h3>Pena iMemory</h3>
+<p>Pena iMemory se ne bo le popolnoma prilagodila obliki in pritisku vašega telesa, pač pa bo z mikro kapsulami uravnavala tudi temperaturo. Dodani srebrovi ioni bodo vaše ležišče ohranjali brez vonjev in varno pred mikrobi.</p>
+</li>
+<li><img alt="" class="margin-bottom" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/product-description/imemory-silver/xclimate_silver_coated.jpg.pagespeed.ic.bGVE7I1Z5G.jpg"/>
+<h3>Tkanina Climalite in vlakna s srebrno prevleko</h3>
+<p>Ta vlakna, ki vrhunsko upravljajo s temperaturo in vlago, bodo pregnala vso odvečno toploto in vlago. Imajo tudi proti-mikrobne in antistatične lastnosti, poleg tega pa delujejo tudi proti vonjavam.</p>
+</li>
+<li><img alt="" class="margin-bottom" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/product-description/imemory-silver/xecocell_foam.jpg.pagespeed.ic.KhCiZ_bHzk.jpg"/>
+<h3>Ecocell® pena</h3>
+<p>Ecocell je udobna pena vrhunske kakovosti, ki poskrbi za odlično udobje med spanjem. Je trajno prožna in ima tridimenzionalno celično strukturo, kar omogoča učinkovito kroženje zraka in ponuja odlično prilagodljivost.</p>
+</li>
+</ul>
+</div>
+<div class="row pad-bottom" style="margin-bottom: 2em;">
+<div class="row">
+<div class="small-6 medium-8 large-8 column pad-bottom">
+<h2>Z zaščito proti bakterijam in pršicam</h2>
+<p>Tkanina, iz katere je izdelana prevleka, je nežno prepredena s srebrnimi vlakni, ki s svojim antistatičnim nabojem odbijajo prašne delce in tako ležišču dajejo higiensko zaščito. V drugem koraku srebrovi ioni poskrbijo za proti-mikrobno in proti-glivično zaščito. To pršicam praktično prepreči, da bi se razvile v ležišču. Srebro ima antiseptično delovanje, čisti ležišče in odstranjuje neprijetne vonjave na naraven način.</p>
+</div>
+<div class="small-6 medium-4 large-4 column">
+<table style="width: auto;">
+<tbody>
+<tr>
+<td class="pad-right"><img alt="" class="margin-bottom" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/product-description/imemory-silver/xbacteria_free.png.pagespeed.ic.rwRszeLWHP.png"/></td>
+<td class="pad-left"><img alt="" class="margin-bottom" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/product-description/imemory-silver/xodor_free.png.pagespeed.ic.qg1S0-6nep.png"/></td>
+</tr>
+<tr>
+<td class="pad-right">
+<p style="margin: 0px;">Odporno na bakterije</p>
+</td>
+<td class="pad-left">
+<p style="margin: 0px;">Odporno na vonjave</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div style="background-color: #f9f8f4; margin-bottom: 2em;">
+<div class="row">
+<div class="row" style="padding: 1em;">
+<div class="small-12 medium-7 large-7 column"><img alt="" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/product-description/imemory-silver/ximg-8.png.pagespeed.ic.qy3HugiYRQ.png"/></div>
+<div class="small-12 medium-5 large-5 column" style="padding-top: 2em;">
+<h3 style="margin-bottom: 0.2em;">PROTIBAKTERIJSKO</h3>
+<h2>SREBRO</h2>
+<p style="color: #0c285f;"><strong>Močno delovanje srebra na bakterije:</strong></p>
+<ol style="list-style-type: decimal; margin-left: 1.4em; color: #0c285f;">
+<li style="padding-bottom: 0.2em;">Destabilizira celične membrane</li>
+<li style="padding-bottom: 0.2em;">Preprečuje dihanje</li>
+<li style="padding-bottom: 0.2em;">Preprečuje uživanje hrane (hranil)</li>
+<li style="padding-bottom: 0.2em;">Ovira delitev celic</li>
+</ol></div>
+</div>
+</div>
+</div>
+<div class="row pad-bottom">
+<div class="row">
+<div class="small-12 medium-5 large-5 column">
+<h2>Primerno je za:</h2>
+<ul class="fa-ul margin-bottom" style="list-style: none;">
+<li style="padding-bottom: 0.4em;">ljudi, ki se ne morejo odločiti, ali potrebujejo mehkejše ali trše ležišče</li>
+<li style="padding-bottom: 0.4em;">pare, ki potrebujejo različne trdote ležišč zakonske velikosti</li>
+<li style="padding-bottom: 0.4em;">ljudi, ki se potijo ali pa jim je prevroče ali prehladno</li>
+<li style="padding-bottom: 0.4em;">ljudi, ki trpijo zaradi alergij</li>
+</ul>
+</div>
+<div class="small-12 medium-7 large-7 column pad-bottom"><img alt="" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/product-description/imemory-silver/ximg-9.jpg.pagespeed.ic.X1TttdyryQ.jpg"/></div>
+</div>
+</div>
+<div class="clearfix pad-bottom">
+<h2>Material:</h2>
+<h3>Zunanjost:</h3>
+<ul class="fa-ul margin-bottom" style="list-style: none;">
+<li style="padding-bottom: 0.4em;">Material na vrhu: 90% poliester (16% Climalite); 8% viskoza; 1% bombaž; 1% poliamid (s srebrom prevlečena vlakna)</li>
+<li style="padding-bottom: 0.4em;">Material na vrhu je prešit z 2 cm plastjo pene iMemory (viskoelastična pena)</li>
+<li style="padding-bottom: 0.4em;">Polnilo: 100% poliester</li>
+<li style="padding-bottom: 0.4em;">Netkano blago: 100 % polipropilen</li>
+</ul>
+<h3>Notranja prevleka:</h3>
+<ul class="fa-ul margin-bottom" style="list-style: none;">
+<li style="padding-bottom: 0.4em;">70% poliester</li>
+<li style="padding-bottom: 0.4em;">30% bombaž</li>
+</ul>
+<h3>Jedro:</h3>
+<ul class="fa-ul margin-bottom" style="list-style: none;">
+<li style="padding-bottom: 0.4em;">Pena Ecocell (PU pena)</li>
+<li style="padding-bottom: 0.4em;">Višina jedra: 7.5 cm čvrste modre pene Ecocell; 7,5 cm mehke oranžne pene Ecocell</li>
+</ul>
+<h3>Navodila za odpiranje:</h3>
+<img alt="" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/product-description/imemory-silver/ximg-10.png.pagespeed.ic.DLnoBzQ2oA.png" style="margin-top: 0.5em;"/></div> </div>
+</div>
+</div></dd>
+<dt class="tab productDetails productInfo"><span>Dodatne informacije</span></dt>
+<dd class="tab-container ">
+<div class="tab-content"> <div class="std">
+<p>Prejmete ga že od 13,60 € na mesec. <a class="venobox vbox-item" data-type="inline" href="#inline-popup-no-instalments">Več o izračunu &gt;</a></p>
+<div class="hidden" id="inline-popup-no-instalments">
+<div class="size-chart-page">
+<h3>Informacije o informativnem izračunu</h3>
+<h3> </h3>
+<p><strong>DORMEO iMEMORY SILVER 80X190: </strong></p>
+<p>redna cena 299,90  EUR,<br/>znesek kredita: 299,90 EUR,<br/>odplačilna doba: 24 mesecev,<br/>mesečni obrok: 13,60 EUR,<br/>skupni znesek za plačilo: 344,85 EUR,<br/>letna kreditna obrestna mera: 8,30% (fiksna),<br/>stroški odobritve: 5,00 EUR in stroški zavarovanja terjatev: 13,45 EUR se plačajo s prvim obrokom.</p>
+<p>Efektivna obrestna mera (EOM) znaša 15,72% na dan 19.09.2017. EOM je izračunana na podlagi zneska in trajanja kredita, stroškov odobritve in zavarovanja ter veljavne obrestne mere. Ponudnik kreditiranja: Summit Leasing Slovenija d.o.o. Število obrokov je odvisno od kreditne sposobnosti posamezne stranke.</p>
+</div>
+</div> </div>
+</div>
+</dd>
+<dt class="tab productDetails productTech"><span>Tehnične specifikacije</span></dt>
+<dd class="tab-container ">
+<div class="tab-content"> <table class="data-table" id="product-attribute-specs-table">
+<col width="25%"/>
+<col/>
+<tbody>
+<tr>
+<th class="label">Antibakterijska prevleka</th>
+<td class="data">Da</td>
+</tr>
+<tr>
+<th class="label">Cone jedra</th>
+<td class="data">3</td>
+</tr>
+<tr>
+<th class="label">Dodatna Informacija</th>
+<td class="data">Poleg 2-letnega jamčevanja za stvarne napake po Zakonu o varstvu potrošniku (Uradni list RS, št. 98/04 – uradno prečiščeno besedilo, 114/06 – ZUE, 126/07, 86/09, 78/11, 38/14 in 19/15) je potrošniku dana tudi prostovoljna garancija za dobo 2 let od nakupa.<br/>
+<br/>
+O morebitnih možnostih drugih poprodajnih storitev vas bo, v kolikor bodo te storitve na voljo, ob potrditvi ponudbe s telefonskim klicem seznanil naš prodajni svetovalec.<br/>
+<br/>
+Ob nakupu ležišča skupaj z letveno podlago prejmete tudi dodatno 15-letno podaljšano jamstvo na ležišče.</td>
+</tr>
+<tr>
+<th class="label">Dvojno jedro</th>
+<td class="data">Da</td>
+</tr>
+<tr>
+<th class="label">Jedro</th>
+<td class="data">pena Ecocell® + 2 cm spominske pene v prevleki</td>
+</tr>
+<tr>
+<th class="label">Linija Dormeo</th>
+<td class="data">Vitality</td>
+</tr>
+<tr>
+<th class="label">Material</th>
+<td class="data">Ecocell® pena, Spominska pena</td>
+</tr>
+<tr>
+<th class="label">Obračljivo jedro</th>
+<td class="data">Da</td>
+</tr>
+<tr>
+<th class="label">Podaljšano jamstvo</th>
+<td class="data">15 let</td>
+</tr>
+<tr>
+<th class="label">Pralna prevleka</th>
+<td class="data">Da</td>
+</tr>
+<tr>
+<th class="label">Prevleka</th>
+<td class="data">Tkanina Climalite in vlakna s srebrno prevleko</td>
+</tr>
+<tr>
+<th class="label">Program Dormeo</th>
+<td class="data">spanje</td>
+</tr>
+<tr>
+<th class="label">Spominska pena</th>
+<td class="data">Da</td>
+</tr>
+<tr>
+<th class="label">Trdnost</th>
+<td class="data">Prilagodljivo, Mehko, Manj čvrsto, Srednje čvrsto, Čvrsto</td>
+</tr>
+<tr>
+<th class="label">Višina</th>
+<td class="data">18 cm</td>
+</tr>
+</tbody>
+</table>
+</div>
+</dd>
+<dt class="tab productDetails productPayment"><span>Možnosti plačila</span></dt>
+<dd class="tab-container ">
+<div class="tab-content"> <div class="std">
+<h2>Kakšne so vaše možnosti plačila?</h2>
+<p>Izberite način plačila, ki vam najbolje ustreza. Lahko izbirate med naslednjimi možnostmi:</p>
+<div class="pad-top payment-method-none">
+<h3>Plačilo ob povzetju</h3>
+<p>Naše izdelke lahko plačate s plačilom po povzetju. Tako plačilo je enostavno in hitro – predstavlja eno izmed najbolj preprostih oblik plačila.</p>
+<p>Našemu svetovalcu boste ob dostavi izdelka preprosto plačali z gotovino in že boste lahko uživali v uporabi svojega izdelka! Pozanimajte se, nekatere izdelke tudi prevzamete v naših trgovinah.</p> </div>
+<div class="pad-top payment-method-none">
+<h3>Plačilo na obroke</h3>
+<p>Pri izbiri plačila izberite plačilo na obroke in izberete željeno število obrokov. Več informacij in informativni izračun prejmete ob povratnem klicu našega svetovalca.</p>
+<p>V sodelovanju s podjetjem <strong>Summit Leasing Slovenija d.o.o.</strong>, Flajšmanova 3, 1000 Ljubljana, vam omogočamo sklenitev hitrega potrošniškega kredita.</p>
+<p>Kreditno pogodbo lahko sklenete za celotno vrednost nakupa <strong>do 3.000 EUR</strong>, lahko pa del kupnine plačate tudi z gotovino ali z drugimi plačilnimi sredstvi. Minimalni znesek kredita znaša <strong>49,90 EUR</strong>, minimalni obrok pa 10 EUR.</p>
+<p>Kredit lahko pridobi:</p>
+<ul>
+<li><strong>polnoletna fizična oseba</strong>, državljan Republike Slovenije, s stalnim prebivališčem v Sloveniji</li>
+<li>redno <strong>zaposlen </strong>v Sloveniji</li>
+<li>ali <strong>upokojen </strong>(prejema pokojnino v Sloveniji).</li>
+</ul>
+<p>Če <strong>seštevek </strong>vašegaskupnega stanja dolga <strong>predhodno odobrenih kreditov in novim kreditom</strong> (pri Summit Leasingu) ne presega <strong>400 EUR, </strong>lahko pridobite kredit le na osnovipredložitve osebnega dokumenta in davčne številke ter izpolnitve vloge, s katero potrjujete, da:</p>
+<ul>
+<li>ste starejši od <strong>21 let</strong></li>
+<li>ste <strong>lastnik nepremičnine</strong> v Republiki Sloveniji, kjer imate zadnja tri leta stalno prebivališče</li>
+<li>imate odprt <strong>transakcijski račun</strong> pri banki v Sloveniji z veljavno debetno in/ali kreditno kartico</li>
+<li>če ste <strong>zaposleni</strong>:
+<ul>
+<li>pri delodajalcu v Republiki Sloveniji za nedoločen čas ali za določen čas, pri čemer boste sklenili kreditno pogodbo, katere trajanje ne bo daljše od vaše zaposlitve za določen čas,</li>
+<li>vaš zadnji priliv iz naslova plače znaša najmanj 500 EUR</li>
+</ul>
+</li>
+<li>če ste <strong>upokojeni</strong>:
+<ul>
+<li>vaš zadnji priliv iz naslova pokojnine znaša najmanj 400 EUR</li>
+</ul>
+</li>
+</ul>
+<p>Če ne izpolnjujete pogojev za pridobitev kredita do 400 EUR oz. če znesek vašegaskupnega stanja dolga <strong>predhodno odobrenih kreditov in novim kreditom</strong> znaša do <strong>1.250 EUR</strong> poleg osebnega dokumenta in davčne številke potrebujete še:</p>
+<ul>
+<li>če ste <strong>zaposleni</strong>:
+<ul>
+<li><strong>zadnji bančni izpisek</strong>, ki ga prejmete na dom, ali <strong>internetni izpisek </strong>ali drug dokument, ki ga potrdi vaša banka in iz katerega je razviden priliv iz naslova vaše zadnje <strong>plače</strong>, pri čemer ta ne sme znašati manj kot <strong>500 EUR,</strong></li>
+<li>če na izpisku ne piše <strong>PLAČA ali OSEBNI DOHODEK ali REDNO DELO ali SALA</strong>, predložite še<strong> plačilno listo,</strong></li>
+<li>če ste na<strong> porodniškem dopustu, </strong>predložite tudi originalno <strong>potrdilo delodajalca o zaposlitvi.</strong> Potrdilo ne sme biti starejše od 31 dni. Če ste zaposleni <strong>za določen čas</strong>, doba odplačevanja kredita ne sme presegati trajanja zaposlitve oz. je največ 12 mesecev.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>če ste <strong>upokojeni</strong>:
+<ul>
+<li><strong>zadnji bančni izpisek</strong>, ki ga prejmete na dom, ali <strong>internetni izpisek </strong>ali drug dokument, ki ga potrdi vaša banka in iz katerega je razviden priliv iz naslova vaše zadnje <strong>pokojnine</strong>, pri čemer ta ne sme znašati manj kot <strong>400 EUR,</strong></li>
+<li>če na izpisku ne piše <strong>POKOJNINA ali ZPIZ ali PENZ</strong>, predložite še<strong> zadnje obvestilo ZPIZ-a.</strong></li>
+</ul>
+</li>
+</ul>
+<p>Če vaša izpostavljenost skupaj z novim kreditom <strong>presega 1.250 EUR</strong>, predložite enako dokumentacijo, kot to velja za izpostavljenost do 1.250 EUR, pri čemer se ugotavlja vaša <strong>kreditna sposobnost</strong>. Osnova za določitev kreditne sposobnosti je priliv iz naslova vaše zadnje plače/pokojnine. Skupna mesečna obremenitev lahko znaša največ 40% osnove in jo sestavlja mesečna obveznost iz naslova novega kredita in morebitni drugi odtegljaji za plačilo iz pogodb o prodaji na obroke, kreditov in leasingov, ki so razvidni z bančnega izpiska. Pri tem mora biti izpolnjen tudi pogoj, da vam po odbitku vseh obveznosti ostane najmanj znesek v višini minimalne neto plače.</p>
+<p>Samostojni podjetniki, osebe, ki opravljajo poklic kot samostojno dejavnost, kmetje, osebe, ki opravljajo javna dela, prejemajo avtorski honorar ali plačilo iz naslova pogodb o poslovodenju,<br/> ne morejo pridobiti hitrega kredita.</p>
+<p>Več informacij in informativni izračun prejmete ob povratnem klicu našega svetovalca.<br/> Summit Leasing Slovenija si pridržuje pravico, da zavrne odobritev kredita brez obrazložitve.</p>
+<p><strong>Telefon: </strong>01 548 3000 ali 01 548 3001 (od ponedeljka do četrtka od 8:00 do 16:00, v petek od 8:00 do 15:00)<br/> <strong>Faks: </strong>01 548 30 20<br/> <strong>E-pošta: </strong><a href="mailto:smkrediti@slsi.si">smkrediti@slsi.si</a></p> </div>
+<div class="pad-top payment-method-none">
+<h3>Plačilo s kreditno kartico na obroke (American Express)</h3>
+<p>Da bi bilo plačilo čim bolj enostavno, vam omogočamo, da izbrane izdelke plačate tudi s plačilno kartico American Express. V tem primeru vam nudimo plačilo od 2 do 6 obrokov.</p>
+<p>Ob prejetju naročila z obročnim plačilom, vas bo kontaktiral naš agent/ka za zaključek naročila.</p>
+<p>Če potrebujete kakršno koli nadaljnjo pomoč v zvezi z vašim naročilom, ne odlašajte in nam pošljite e-sporočilo ali nas pokličite na brezplačno telefonsko številko:</p>
+<ul>
+<li>za Top Shop na topshop@studio-moderna.com ali na 080 23 46.</li>
+<li>za Dormeo na dormeo@studio-moderna.com ali na 080 10 15.</li>
+<li>za Delimano na info@delimano.si ali na 080 14 74.</li>
+<li>za Wellneo na info@wellneo.si ali na 080 27 73.</li>
+<li>za Kosmodisk na kosmodisk@studio-moderna.com ali na 080 10 91.</li>
+<li>za Shark na topshop@studio-moderna.com ali na 080 23 46.</li>
+<li>za Walkmaxx na info@walkmaxx.si ali na 080 88 67.</li>
+<li>za LiveActive na info@LiveActive.si ali na 080 11 62.</li>
+</ul> </div>
+<div class="pad-top payment-method-none">
+<h3>Plačilo s kreditno kartico na obroke (Diners)</h3>
+<p>Da bi bilo plačilo čim bolj enostavno, vam omogočamo, da izbrane izdelke plačate tudi s plačilno kartico Diners. V tem primeru vam nudimo plačilo do 24 obrokov.<br/>Ob prejetju naročila z obročnim plačilom, vas bo kontaktiral naš agent/ka za zaključek naročila.</p>
+<p>Če potrebujete kakršno koli nadaljnjo pomoč v zvezi z vašim naročilom, ne odlašajte in nam pošljite e-sporočilo ali nas pokličite na brezplačno telefonsko številko:</p>
+<ul>
+<li>za Top Shop na topshop@studio-moderna.com ali na 080 23 46.</li>
+<li>za Dormeo na dormeo@studio-moderna.com ali na 080 10 15.</li>
+<li>za Delimano na info@delimano.si ali na 080 14 74.</li>
+<li>za Wellneo na info@wellneo.si ali na 080 27 73.</li>
+<li>za Kosmodisk na kosmodisk@studio-moderna.com ali na 080 10 91.</li>
+<li>za Shark na topshop@studio-moderna.com ali na 080 23 46.</li>
+<li>za Walkmaxx na info@walkmaxx.si ali na 080 88 67.</li>
+<li>za LiveActive na info@LiveActive.si ali na 080 11 62.</li>
+</ul> </div>
+<div class="pad-top payment-method-none">
+<h3>Plačilo s plačilno kartico MasterCard, VISA, VISA_electron, Maestro ali Activa</h3>
+<p>Naročeno blago lahko plačate tudi s plačilno kartico MasterCard, VISA, VISA-Electron ali Activa.</p>
+<p>Za izvedbo plačila <strong>boste preusmerjeni na spletno stran sistema MegaPOS</strong> na kateri boste morali v obrazec vpisati števiko kartice ter ostale zahtevane podatke.</p>
+<p>Plačevanje s plačilnimi karticami v spletni trgovini Top Shop je <strong>popolnoma varno</strong>. Za varnost smo poskrbeli z vsemi najsodobnejšimi ukrepi za varovanje vaših zaupnih podatkov. Pri plačevanju s plačilno kartico vas sistem za izvedbo plačila začasno <strong>preusmeri na posebno stran za plačevanje</strong>, kjer so vsi podatki še dodatno zaščiteni z uporabo tehnologije SSL in 128-bitnim kodirnim ključem.<br/> <br/> Vse vaše podatke, ki jih vpišete za potrebe izvedbe nakupa, skrbno hranimo in jih v nobenem primeru ne posredujemo katerikoli tretji osebi.</p> </div>
+</div>
+</div>
+</dd>
+</dl>
+</div>
+</div>
+<div class="clearfix" id="softcubeInjectHere"></div>
+<div class="product-reviews" data-languagecode="sl" id="customer-reviews">
+<a name="customer-reviews"></a>
+<div class="review-heading">
+<h2>
+            Mnenja strank            <span>10 mnenj</span>
+</h2>
+</div>
+<div class="product-reviews-rating">
+<div class="row">
+<div class="large-8 medium-8 small-8 column">
+<div class="reviews-ratings-box-tab">
+<div class="reviews-ratings-box-row">
+<div class="reviews-ratings-box-cell rrb-average">
+<p>4,9</p>
+</div>
+<div class="reviews-ratings-box-cell rrb-stars">
+<div class="rrb-stars-wrapper">
+<div class="rrb-stars-rating" style="width:98%;"><i></i><i></i><i></i><i></i><i></i></div>
+</div>
+<p>52 mnenje/-a</p>
+</div>
+</div>
+</div>
+<button class="review-button">Napišite mnenje</button>
+</div>
+<div class="large-4 medium-4 small-4 column">
+<p class="amount amount--has-pages">
+                1–10 od 52            </p>
+<div class="pager pager-no-toolbar">
+<div class="count-container">
+<div class="limiter">
+<label>Prikaži</label>
+<select onchange="setLocation(this.value)" title="Results per page">
+<option selected="selected" value="http://www.dormeo.net/lezisce-imemory-silver-dormeo?limit=10">
+                    10                </option>
+<option value="http://www.dormeo.net/lezisce-imemory-silver-dormeo?limit=20">
+                    20                </option>
+<option value="http://www.dormeo.net/lezisce-imemory-silver-dormeo?limit=50">
+                    50                </option>
+</select>
+</div>
+</div>
+<div class="pages">
+<strong>Stran:</strong>
+<ol>
+<li class="current">1</li>
+<li><a href="http://www.dormeo.net/lezisce-imemory-silver-dormeo?p=2">2</a></li>
+<li><a href="http://www.dormeo.net/lezisce-imemory-silver-dormeo?p=3">3</a></li>
+<li><a href="http://www.dormeo.net/lezisce-imemory-silver-dormeo?p=4">4</a></li>
+<li><a href="http://www.dormeo.net/lezisce-imemory-silver-dormeo?p=5">5</a></li>
+<li><a class="last" href="http://www.dormeo.net/lezisce-imemory-silver-dormeo?p=6">6</a></li>
+<li>
+<a class="next i-next" href="http://www.dormeo.net/lezisce-imemory-silver-dormeo?p=2" title="Naprej">
+                                            Naprej                                    </a>
+</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="form-add">
+<form action="http://www.dormeo.net/review/product/post/id/4180/" id="review-form" method="post" onsubmit="return validateForm();">
+<input name="form_key" type="hidden" value="BwNscGpzqVRoDlHK">
+<div class="fieldset review-form">
+<h4>Kako bi ocenili ta izdelek? <em class="required">*</em></h4>
+<span id="input-message-box"></span>
+<table class="data-table review-summary-table ratings" id="product-review-table">
+<col width="1"/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<thead>
+<tr>
+<th>
+<div class="rating-box">
+<span class="rating-number">1</span>
+<span class="rating nobr" style="width:20%;">1 zvezdica</span>
+</div>
+</th>
+<th>
+<div class="rating-box">
+<span class="rating-number">2</span>
+<span class="rating nobr" style="width:40%;">2 star</span>
+</div>
+</th>
+<th>
+<div class="rating-box">
+<span class="rating-number">3</span>
+<span class="rating nobr" style="width:60%;">3 star</span>
+</div>
+</th>
+<th>
+<div class="rating-box">
+<span class="rating-number">4</span>
+<span class="rating nobr" style="width:80%;">4 star</span>
+</div>
+</th>
+<th>
+<div class="rating-box">
+<span class="rating-number">5</span>
+<span class="rating nobr" style="width:100%;">5 star</span>
+</div>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="value">
+<label for="Quality_1">
+<input class="radio" id="Quality_1" name="ratings[1]" type="radio" value="1">
+</input></label>
+</td>
+<td class="value">
+<label for="Quality_2">
+<input class="radio" id="Quality_2" name="ratings[1]" type="radio" value="2">
+</input></label>
+</td>
+<td class="value">
+<label for="Quality_3">
+<input class="radio" id="Quality_3" name="ratings[1]" type="radio" value="3">
+</input></label>
+</td>
+<td class="value">
+<label for="Quality_4">
+<input class="radio" id="Quality_4" name="ratings[1]" type="radio" value="4"/>
+</label>
+</td>
+<td class="value">
+<label for="Quality_5">
+<input class="radio" id="Quality_5" name="ratings[1]" type="radio" value="5"/>
+</label>
+</td>
+</tr>
+</tbody>
+</table>
+<input class="validate-rating" name="validate_rating" type="hidden" value=""/>
+<script type="text/javascript">decorateTable('product-review-table');</script>
+<ul class="form-list">
+<li>
+<label class="required" for="review_field">
+<em>*</em>
+                            Povejte nam, kaj si mislite o izdelku                        </label>
+<div class="input-box">
+<textarea class="required-entry validate-blacklist" cols="5" id="review_field" name="detail" rows="3"></textarea>
+</div>
+</li>
+<li class="inline-label">
+<label class="required" for="summary_field">
+<em>*</em>
+                            Povzetek vašega mnenja                        </label>
+<div class="input-box">
+<input class="input-text required-entry validate-blacklist" id="summary_field" name="title" type="text" value=""/>
+</div>
+</li>
+<li class="inline-label">
+<label class="required" for="nickname_field">
+<em>*</em>
+                            Vzdevek                        </label>
+<div class="input-box">
+<input class="input-text required-entry" id="nickname_field" name="nickname" type="text" value=""/>
+</div>
+</li>
+<li class="inline-label">
+<label class="required" for="rate_email"><em>*</em>E-poštni naslov</label>
+<div class="input-box">
+<input class="input-text required-entry" id="rate_email" name="email" type="email"/>
+</div>
+</li>
+<li class="inline-label">
+<div class="g-recaptcha" id="g-recaptcha"></div>
+</li>
+</ul>
+<div class="buttons-set">
+<button class="button" id="submit_button" title="Pošlji mnenje" type="button"><span><span>Pošlji mnenje</span></span></button>
+</div>
+</div>
+</input></form>
+<script type="text/javascript">var grecaptchaContacts;var onloadCallback=function(){grecaptchaContacts=grecaptcha.render('g-recaptcha',{'sitekey':'6LeQxgoTAAAAAOawusquZHcDy9l34w2fnxgOlIY4','hl':'sl'});};var dataForm=new VarienForm('review-form',true);jQuery("#submit_button").click(function(){preValidateBlacklist(dataForm,grecaptchaContacts)});jQuery("#review_field").blur(function(){checkBlacklistedWords(jQuery("#review_field"))});jQuery("#summary_field").blur(function(){checkBlacklistedWords(jQuery("#summary_field"))});window.blacklistRequestHandlers=[];</script>
+</div>
+<div class="review-item-wrapper">
+<div class="review-recommendation clearfix">
+<div class="review-recommendation-row clearfix">
+<div class="review-recommendation-img">
+<img src="http://dormeosi.azureedge.net/media/catalog/product/cache/37/recommedation_image/9df78eab33525d08d6e5fb8d27136e95/m/e/xmedicinska.jpg.pagespeed.ic.2qPCYyxInF.jpg"/>
+</div>
+<div class="review-recommendation-desc">
+<h3>Tina Razlag Kolar, Petrovče, medicinska sestra</h3>
+                            »Iz lastne izkušnje ugotavljam, da je dober spanec zelo pomemben.«                        </div>
+</div>
+</div>
+<div class="review-item">
+<div class="review-item-row">
+<div class="review-item-info-tab">
+<div class="review-item-info-row">
+<div class="review-item-info-cell ric-author">
+<p>Mojca</p></div>
+<div class="review-item-info-cell ric-brand-page">
+<p>www.dormeo.net</p>
+</div>
+<div class="review-item-info-cell ric-date">
+<p>27. 12. 2017</p></div>
+</div>
+</div>
+<div class="review-item-comment">
+<div class="review-item-info-cell ric-star">
+<div class="ratings-table">
+<div class="rating-box">
+<div class="rating" style="width:80%;"></div>
+</div>
+</div>
+</div>
+<div class="translate-1102270">
+<div class="review-item-detail-source">
+<div class="review-item-title">
+                                        kako rešiti problem z nakupom nove notranje prevleke                                    </div>
+<div class="review-item-detail">
+                                        Tri leta uporabljam vaš izdelek Dormeo Imemory Silver, sem zelo zadovoljna. Pri pregledu stanja sem ugotovila, da je na delu notranje prevleke nastala plesen (rahlo sivo obarvana tkanina na površini 20 x 30 cm), ki pa se ni pokazala na zunanji prevleki, ki je zaščitena proti bakterijam. Postelja ima podlago iz lesenih lamel zelo kvalitetnega izdelka (kot je ogrodje postelje). Ali je mogoče kupiti dve novi notranji prevleki za velikosti 80 x 200? Ne gre za uveljavljanje garancije ali kaj podobnega, gre za nakup dela vašega izdelka. Mi lahko sporočite, kako bi lahko še drugače rešili ta problem.<br/>
+lepo pozdravljeni.<br/>
+Mojca M. Kovač                                     </div>
+</div>
+<div class="review-item-answer">
+<div class="review-item-answer-inner">
+<i class="fa fa-share fa-flip-vertical"></i>
+<div class="review-admin-detail-source">
+<div class="review-admin-title">
+                                                    kako rešiti problem z nakupom nove notranje prevleke                                                </div>
+<div class="review-admin-detail">
+                                                    Pozdravljeni,
+
+prosimoas, da kontaktirate naš oddelek za pomoč kupcem, kjer vas bodo znali usmeriti naprej oz. vam ustrezno svetovati. Dosegljivi so na tel. 08 / 200 91 91 ali na e-mail naslovu: reklamacije@studio-moderna.com.
+
+Lep pozdrav, Dormeo                                                </div>
+</div>
+<div class="review-admin-nickname">admin</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="review-item">
+<div class="review-item-row">
+<div class="review-item-info-tab">
+<div class="review-item-info-row">
+<div class="review-item-info-cell ric-author">
+<p>Karin</p></div>
+<div class="review-item-info-cell ric-brand-page">
+<p>www.dormeo.net</p>
+</div>
+<div class="review-item-info-cell ric-date">
+<p>13. 10. 2017</p></div>
+</div>
+</div>
+<div class="review-item-comment">
+<div class="review-item-info-cell ric-star">
+<div class="ratings-table">
+<div class="rating-box">
+<div class="rating" style="width:100%;"></div>
+</div>
+</div>
+</div>
+<div class="translate-836237">
+<div class="review-item-detail-source">
+<div class="review-item-title">
+                                        Pralna prevleka                                    </div>
+<div class="review-item-detail">
+                                        Ležišče je super. Lepo se zbudimo spočiti vsajo jutro. Edino kar bi vprašala je če je možno kupiti kje pralno prevleko jogija? Ali jo je možno dobiti samo ob nakupu ležišča? Hvala za odgovor                                    </div>
+</div>
+<div class="review-item-answer">
+<div class="review-item-answer-inner">
+<i class="fa fa-share fa-flip-vertical"></i>
+<div class="review-admin-detail-source">
+<div class="review-admin-title">
+                                                    Pralna prevleka                                                </div>
+<div class="review-admin-detail">
+                                                    Pozdravljeni, to ležišče ima pralno prevleko, ki jo lahko snamete in operete v pralnem stroju. Lep pozdrav, Dormeo                                                </div>
+</div>
+<div class="review-admin-nickname"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="review-item">
+<div class="review-item-row">
+<div class="review-item-info-tab">
+<div class="review-item-info-row">
+<div class="review-item-info-cell ric-author">
+<p>Slavi</p></div>
+<div class="review-item-info-cell ric-brand-page">
+<p>www.dormeo.net</p>
+</div>
+<div class="review-item-info-cell ric-date">
+<p>8. 09. 2017</p></div>
+</div>
+</div>
+<div class="review-item-comment">
+<div class="review-item-info-cell ric-star">
+<div class="ratings-table">
+<div class="rating-box">
+<div class="rating" style="width:100%;"></div>
+</div>
+</div>
+</div>
+<div class="translate-744328">
+<div class="review-item-detail-source">
+<div class="review-item-title">
+                                        Ali je možno dobiti v dimenziji 80x200                                    </div>
+<div class="review-item-detail">
+                                        ali je možno dobiti v dimenzijah 80x200                                    </div>
+</div>
+<div class="review-item-answer">
+<div class="review-item-answer-inner">
+<i class="fa fa-share fa-flip-vertical"></i>
+<div class="review-admin-detail-source">
+<div class="review-admin-title">
+                                                    Ali je možno dobiti v dimenziji 80x200                                                </div>
+<div class="review-admin-detail">
+                                                    Pozdravljeni, sedaj imamo na voljo novo ležišče iMemory S Plus, ki ga lahko dobite v merah 80x200cm.                                                </div>
+</div>
+<div class="review-admin-nickname">Dormeo</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="review-item">
+<div class="review-item-row">
+<div class="review-item-info-tab">
+<div class="review-item-info-row">
+<div class="review-item-info-cell ric-author">
+<p>kosec</p></div>
+<div class="review-item-info-cell ric-brand-page">
+<p>www.dormeo.net</p>
+</div>
+<div class="review-item-info-cell ric-date">
+<p>23. 08. 2017</p></div>
+</div>
+</div>
+<div class="review-item-comment">
+<div class="review-item-info-cell ric-star">
+<div class="ratings-table">
+<div class="rating-box">
+<div class="rating" style="width:100%;"></div>
+</div>
+</div>
+</div>
+<div class="translate-713504">
+<div class="review-item-detail-source">
+<div class="review-item-title">
+                                        dimenzije                                    </div>
+<div class="review-item-detail">
+                                        ali je mozno v dimenzijah 140x200 lp                                    </div>
+</div>
+<div class="review-item-answer">
+<div class="review-item-answer-inner">
+<i class="fa fa-share fa-flip-vertical"></i>
+<div class="review-admin-detail-source">
+<div class="review-admin-title">
+                                                    dimenzije                                                </div>
+<div class="review-admin-detail">
+                                                    Pozdravljeni, sedaj imamo na voljo novo ležišče iMemory S Plus, ki ga lahko dobite v merah 140x200cm.                                                </div>
+</div>
+<div class="review-admin-nickname">Dormeo</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="review-item">
+<div class="review-item-row">
+<div class="review-item-info-tab">
+<div class="review-item-info-row">
+<div class="review-item-info-cell ric-author">
+<p>Tinca</p></div>
+<div class="review-item-info-cell ric-brand-page">
+<p>www.dormeo.net</p>
+</div>
+<div class="review-item-info-cell ric-date">
+<p>4. 07. 2017</p></div>
+</div>
+</div>
+<div class="review-item-comment">
+<div class="review-item-info-cell ric-star">
+<div class="ratings-table">
+<div class="rating-box">
+<div class="rating" style="width:100%;"></div>
+</div>
+</div>
+</div>
+<div class="translate-542608">
+<div class="review-item-detail-source">
+<div class="review-item-title">
+                                        Info                                    </div>
+<div class="review-item-detail">
+                                        Lp. Mene pa zanima ali imate to lezisce na voljo v dimenziji 180×200. Hvala                                    </div>
+</div>
+<div class="review-item-answer">
+<div class="review-item-answer-inner">
+<i class="fa fa-share fa-flip-vertical"></i>
+<div class="review-admin-detail-source">
+<div class="review-admin-title">
+</div>
+<div class="review-admin-detail">
+                                                    Pozdravljeni Tinca, sedaj imamo na voljo novo ležišče iMemory S Plus, ki ga lahko dobite v merah 180x200cm. Tukaj si ga lahko ogledate -&gt; http://www.dormeo.net/imemory-s                                                </div>
+</div>
+<div class="review-admin-nickname">Dormeo</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="review-item">
+<div class="review-item-row">
+<div class="review-item-info-tab">
+<div class="review-item-info-row">
+<div class="review-item-info-cell ric-author">
+<p>Lucka</p></div>
+<div class="review-item-info-cell ric-brand-page">
+<p>www.dormeo.net</p>
+</div>
+<div class="review-item-info-cell ric-date">
+<p>3. 05. 2017</p></div>
+</div>
+</div>
+<div class="review-item-comment">
+<div class="review-item-info-cell ric-star">
+<div class="ratings-table">
+<div class="rating-box">
+<div class="rating" style="width:100%;"></div>
+</div>
+</div>
+</div>
+<div class="translate-385753">
+<div class="review-item-detail-source">
+<div class="review-item-title">
+                                        Ležišče je SUPER                                    </div>
+<div class="review-item-detail">
+                                         Zanima me če se dobi 160x200??<br/>
+<br/>
+@Lucka: Pozdravljeni, sedaj imamo na voljo novo ležišče iMemory S Plus, ki ga lahko dobite v merah 160x200cm. Lep pozdrav, Dormeo                                    </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="review-item">
+<div class="review-item-row">
+<div class="review-item-info-tab">
+<div class="review-item-info-row">
+<div class="review-item-info-cell ric-author">
+<p>Renatas</p></div>
+<div class="review-item-info-cell ric-brand-page">
+<p>www.dormeo.net</p>
+</div>
+<div class="review-item-info-cell ric-date">
+<p>3. 04. 2017</p></div>
+</div>
+</div>
+<div class="review-item-comment">
+<div class="review-item-info-cell ric-star">
+<div class="ratings-table">
+<div class="rating-box">
+<div class="rating" style="width:100%;"></div>
+</div>
+</div>
+</div>
+<div class="translate-255849">
+<div class="review-item-detail-source">
+<div class="review-item-title">
+                                        Izdelek je super                                    </div>
+<div class="review-item-detail">
+                                        Zanima me ce bi se dala dobit mera 90x200?<br/>
+<br/>
+Lp<br/>
+<br/>
+@Renata: Pozdravljeni, sedaj imamo na voljo novo ležišče iMemory S Plus, ki ga lahko dobite v merah 90x200cm. Lep pozdrav, Dormeo                                    </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="review-item">
+<div class="review-item-row">
+<div class="review-item-info-tab">
+<div class="review-item-info-row">
+<div class="review-item-info-cell ric-author">
+<p>Specter Lea</p></div>
+<div class="review-item-info-cell ric-brand-page">
+<p>www.dormeo.net</p>
+</div>
+<div class="review-item-info-cell ric-date">
+<p>23. 02. 2017</p></div>
+</div>
+</div>
+<div class="review-item-comment">
+<div class="review-item-info-cell ric-star">
+<div class="ratings-table">
+<div class="rating-box">
+<div class="rating" style="width:100%;"></div>
+</div>
+</div>
+</div>
+<div class="translate-169692">
+<div class="review-item-detail-source">
+<div class="review-item-title">
+                                        Krasno ležišče                                    </div>
+<div class="review-item-detail">
+                                        Ležišče je res super! Konec premetavanja in bolečega hrbta. Zdaj spim lahko tudi manj ur in bom bolj naspana, kot na prejšnjem ležišču, ko sem morala spat veliko več. <br/>
+<br/>
+Krasno!                                     </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="review-item">
+<div class="review-item-row">
+<div class="review-item-info-tab">
+<div class="review-item-info-row">
+<div class="review-item-info-cell ric-author">
+<p>Tatjana</p></div>
+<div class="review-item-info-cell ric-brand-page">
+<p>www.dormeo.net</p>
+</div>
+<div class="review-item-info-cell ric-date">
+<p>17. 06. 2016</p></div>
+</div>
+</div>
+<div class="review-item-comment">
+<div class="review-item-info-cell ric-star">
+</div>
+<div class="translate-35631">
+<div class="review-item-detail-source">
+<div class="review-item-title">
+                                        DIMENZIJA                                    </div>
+<div class="review-item-detail">
+                                        Izdelek je odličen.<br/>
+Zanima me, če je možno dobiti dimenzijo 160x210.<br/>
+Hvala.<br/>
+<br/>
+Lep pozdrav, Tatjana<br/>
+<br/>
+@Ga. Tatjana, za nestandardne dimenzije nas prosimo kontaktirajte. Lp, Dormeo                                    </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="review-item">
+<div class="review-item-row">
+<div class="review-item-info-tab">
+<div class="review-item-info-row">
+<div class="review-item-info-cell ric-author">
+<p>M. H</p></div>
+<div class="review-item-info-cell ric-brand-page">
+<p>www.dormeo.sk</p>
+</div>
+<div class="review-item-info-cell ric-date">
+<p>11. 10. 2017</p></div>
+</div>
+</div>
+<div class="review-item-comment">
+<div class="review-item-info-cell ric-star">
+<div class="ratings-table">
+<div class="rating-box">
+<div class="rating" style="width:100%;"></div>
+</div>
+</div>
+</div>
+<div class="translate-1238093">
+<div class="review-item-detail-source">
+<div class="review-item-title">
+                                        Zadovoljni smo                                    </div>
+<div class="review-item-detail">
+                                        Pozdravljeni, kupili smo vzmetnico iMemory Silver. Moj mož ima težave z intervertebralnimi diski, zato smo se odločili za nakup tega reverzibilnega ležišča, da ga bomo lahko prilagajali. Moram povedati, spanje na tem ležišču je neverjetno. Jaz delam ponoči in ko se mož zjutraj zbudi se pomaknem na njegovo stran, da lahko tudi jaz spim na njegovem novem ležišču.                                    </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="review-paging review-paging-bottom">
+<p class="amount amount--has-pages">
+                1–10 od 52            </p>
+<div class="pager pager-no-toolbar">
+<div class="count-container">
+<div class="limiter">
+<label>Prikaži</label>
+<select onchange="setLocation(this.value)" title="Results per page">
+<option selected="selected" value="http://www.dormeo.net/lezisce-imemory-silver-dormeo?limit=10">
+                    10                </option>
+<option value="http://www.dormeo.net/lezisce-imemory-silver-dormeo?limit=20">
+                    20                </option>
+<option value="http://www.dormeo.net/lezisce-imemory-silver-dormeo?limit=50">
+                    50                </option>
+</select>
+</div>
+</div>
+<div class="pages">
+<strong>Stran:</strong>
+<ol>
+<li class="current">1</li>
+<li><a href="http://www.dormeo.net/lezisce-imemory-silver-dormeo?p=2">2</a></li>
+<li><a href="http://www.dormeo.net/lezisce-imemory-silver-dormeo?p=3">3</a></li>
+<li><a href="http://www.dormeo.net/lezisce-imemory-silver-dormeo?p=4">4</a></li>
+<li><a href="http://www.dormeo.net/lezisce-imemory-silver-dormeo?p=5">5</a></li>
+<li><a class="last" href="http://www.dormeo.net/lezisce-imemory-silver-dormeo?p=6">6</a></li>
+<li>
+<a class="next i-next" href="http://www.dormeo.net/lezisce-imemory-silver-dormeo?p=2" title="Naprej">
+                                            Naprej                                    </a>
+</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">jQuery(document).ready(function(){jQuery('.review-button').click(function(){jQuery('#review-form').slideToggle();if(!(jQuery('#review-form').is(":hidden"))){if(typeof analyticsShowReviewForm=='function'){analyticsShowReviewForm();}}})
+function scrollToAnchor(aid){var floterOffset=79;if(self.innerWidth<=960){floterOffset=56;}var aTag=jQuery("a[name='"+aid+"']");var newOffset=aTag.offset().top-floterOffset;jQuery('html,body').animate({scrollTop:newOffset},'slow');}jQuery('#goto-reviews-form').click(function(){jQuery('#review-form').show();})
+jQuery("#goto-reviews, #goto-reviews-form").click(function(){scrollToAnchor('customer-reviews');});jQuery('.review-translate-btn').click(function(){var translationWrapper='.translate-'+jQuery(this).data('translate');var translationLanguageCode=jQuery(this).data('language');var reviewId=jQuery(this).data('translate');var customerReviews=jQuery('#customer-reviews');var productId=jQuery(this).data('productid');translateReviewWithGoogle(translationWrapper,translationLanguageCode,customerReviews.data('languagecode'),reviewId);});})</script>
+<div id="bottom-product-media"></div>
+<div id="bottom-product-buy"></div>
+<div class="slider-buy">
+<div class="slider-buy-inner">
+<div class="slider-buy-tab">
+<div class="slider-buy-row">
+<div class="slider-buy-cell slider-buy-media"></div>
+<div class="slider-buy-cell slider-buy-title"></div>
+<div class="slider-buy-cell slider-buy-prices-club5"></div>
+<div class="slider-buy-cell slider-buy-prices"></div>
+<div class="slider-buy-cell slider-buy-button">
+<button class="button button-slide-buy" onclick="productAddToCartForm.submit(this)" tabindex="4" title="" type="button"></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">var displayGoToCartPopup=false;var productAddToCartForm=new VarienForm('product_addtocart_form');productAddToCartForm.submit=function(button,url){if(this.validator.validate()){var form=this.form;var oldUrl=form.action;if(url){form.action=url;}if(displayGoToCartPopup){form.action=form.action.sub('checkout/cart/add','addtocart/popup/add');}var e=null;try{if(!displayGoToCartPopup){this.form.submit();}else{new Ajax.Request(form.action,{method:'post',parameters:this.form.serialize(true),onSuccess:function(transport){var json=transport.responseText.evalJSON();parent.AddToCartPopup.openAddToCartPopupAndUpdateMinicart(json,false);if(typeof parent.updateTopMenuLinksSIDParam==="function"&&typeof json.SID!="undefined"){parent.updateTopMenuLinksSIDParam(json.SID);}},onFailure:function(){parent.AddToCartPopup.displayErrorMessage('<center>Prišlo je do napake</center>');}});}}catch(e){}this.form.action=oldUrl;if(e){throw e;}if(button&&button!='undefined'){button.disabled=true;}}}.bind(productAddToCartForm);productAddToCartForm.submitLight=function(button,url){if(this.validator){var nv=Validation.methods;delete Validation.methods['required-entry'];delete Validation.methods['validate-one-required'];delete Validation.methods['validate-one-required-by-name'];for(var methodName in Validation.methods){if(methodName.match(/^validate-datetime-.*/i)){delete Validation.methods[methodName];}}if(this.validator.validate()){if(url){this.form.action=url;}this.form.submit();}Object.extend(Validation.methods,nv);}}.bind(productAddToCartForm);jQuery("div.quantity").append('<input type="button" value="+" id="add1" class="plus" tabindex="-1" />').prepend('<input type="button" value="-" id="minus1" class="minus" tabindex="-1" />');jQuery(".plus").click(function(){var currentVal=parseInt(jQuery(this).prev(".qty").val());if(!currentVal||currentVal==""||currentVal=="NaN")currentVal=0;jQuery(this).prev(".qty").val(currentVal+1);});jQuery(".minus").click(function(){var currentVal=parseInt(jQuery(this).next(".qty").val());if(currentVal=="NaN")currentVal=0;if(currentVal>1){jQuery(this).next(".qty").val(currentVal-1);}});jQuery(".super-attribute-select").change(function(){var minPrice=0;var prodPrice=(jQuery('#product-price-4180.price').length==0?jQuery('#product-price-4180 .price').html():jQuery('#product-price-4180.price').html());var onlineCalculatorProdPrice=parseFloat(prodPrice.replace(",",".").replace("&nbsp;","")).toFixed(2);prodPrice=parseFloat(prodPrice.replace(",",".")).toFixed(2);if(prodPrice>minPrice){jQuery('.smCelemskCalcBoxWrapper').css('display','block');}else{jQuery('.smCelemskCalcBoxWrapper').css('display','none');}var caclulatorUrl=jQuery('.onlinecalculator').attr("data-staticurl")+onlineCalculatorProdPrice;jQuery('.onlinecalculator').attr('href',caclulatorUrl);});jQuery('.smCetelemSkCalcLink').click(function(){var prodPrice=0;var currentVal=0;var currentVal=parseInt(jQuery('input:text[name=qty]').val());var prodPrice=(jQuery('#product-price-4180.price').length==0?jQuery('#product-price-4180 .price').html():jQuery('#product-price-4180.price').html());prodPrice=parseFloat(prodPrice.replace(",",".")).toFixed(2);var finalPopupPrice=(prodPrice*currentVal).toFixed(2);var cetelemLink='http://www.dormeo.net/'+'cetelemsk/calculator?amount='+finalPopupPrice;jQuery('#smCetelemSkLink').attr('href',cetelemLink);jQuery('#smCetelemSkLink').venobox({specialcss:'cetelem-preloader'}).trigger('click');jQuery('.cetelemCalcPreloader').show();});</script> </div>
+</div>
+</div>
+</div>
+<div class="footer-container">
+<div class="footer">
+<div class="footer-upper">
+<div class="footer-award-banners"><ul class="large-block-grid-1 medium-block-grid-1 small-block-grid-1">
+<li>
+<div class="award-banners-tab">
+<div class="award-banners-cell"><img alt="" src="http://dormeosi.azureedge.net/media/wysiwyg/dormeo/banners/SI/xtrusted_brand_2018_logo.jpg.pagespeed.ic.Hnj-asTDYy.jpg"/></div>
+<div class="award-banners-cell">
+<h6>Dormeo, najbolj zaupanja vredna blagovna znamka</h6>
+<p>Blagovna znamka Dormeo je tudi letos pridobila laskavi naziv TRUSTED BRAND 2018 v kategoriji ležišča. Na podlagi vaše ocene kakovosti izdelkov Dormeo in vaše pozitivne osebne izkušnje z njimi, ste nas izbrali za najbolj zaupanja vredno blagovno znamko na področju ležišč. S priznanjem Trusted Brand 2018 je bila tako blagovna znamka Dormeo nagrajena že 11. leto zapored.</p>
+</div>
+</div>
+</li>
+</ul></div>
+<div class="footer-promo-blocks"><ul class="large-block-grid-4 medium-block-grid-2 small-block-grid-1">
+<li>
+<div class="large-3 medium-3 small-3 columns">
+<div class="fa fa-credit-card"> </div>
+</div>
+<div class="text large-9 medium-9 small-9 columns">Izberite način plačila, ki vam najbolj odgovarja
+<div class="desc">Plačajte s kreditno kartico, na obroke ali po povzetju.</div>
+</div>
+</li>
+<li class="collapse-true" data-collapse-count="62">
+<div class="large-3 medium-3 small-3 columns">
+<div class="fa fa-thumbs-up"> </div>
+</div>
+<div class="text large-9 medium-9 small-9 columns">15-dnevni odstop od nakupa 
+<div class="desc">Če z izdelki niste zadovoljni, jih lahko v roku 15 dni vrnete. Če z izdelkom iz kateregakoli razloga ne boste zadovoljni, nam ga enostavno vrnite in v celoti vam bomo vrnili kupnino (odstop od pogodbe sklenjene na daljavo brez razlogov). Omenjeno ne velja za izdelke, kot so opredeljeni v 5. odstavku 43. č člena veljavnega Zakona o varstvu potrošnikov. Dodatna pojasnila o »15-dnevnem odstopu od nakupa « najdete v 9. točki splošnih pogojev poslovanja, v rubriki »Informacije«, »Pogoji poslovanja« na dnu spletne strani.</div>
+</div>
+</li>
+<li>
+<div class="large-3 medium-3 small-3 columns">
+<div class="fa fa-phone"> </div>
+</div>
+<div class="text large-9 medium-9 small-9 columns">Telefonska pomoč
+<div class="desc">Če potrebujete pomoč pri nakupu ali imate vprašanje v zvezi z izdelki nas lahko pokličete na 080 10 15.</div>
+</div>
+</li>
+<li>
+<div class="large-3 medium-3 small-3 columns">
+<div class="fa fa-lock"> </div>
+</div>
+<div class="text large-9 medium-9 small-9 columns">Varen nakup
+<div class="desc">Skrbimo za varovanje vaših podatkov in spoštujemo vašo zasebnost.</div>
+</div>
+</li>
+</ul></div>
+<div class="footer-promo-text">
+<h3>Dormeo</h3>
+<p>Ležišča, vzglavniki, odeje iz vrhunskih materialov za kakovosten in zdrav spanec.</p>
+</div>
+<div class="footer-newsletter"></div>
+</div>
+<div class="footer-lower">
+<div class="footer-lower-contatiner">
+<div class="footer-body"><div><div class="links">
+<div class="block-title">Informacije<span class="link-icon">+</span></div>
+<div class="links-container" id="col_1">
+<ul>
+<li><a href="http://www.dormeo.net/pogoji-poslovanja/">Pogoji poslovanja</a></li>
+<li><a href="http://www.dormeo.net/politika-zasebnosti/">Politika zasebnosti</a></li>
+<li><a href="http://www.dormeo.net/obroki/">Obroki</a></li>
+<li><a href="http://www.dormeo.net/garancija/">Garancija</a></li>
+<li><a href="http://www.dormeo.net/dostava/">Dostava</a></li>
+<li><a href="http://www.dormeo.net/piskotki/">Piškotki</a></li>
+<li><a href="http://www.dormeo.net/izvensodno-resevanje-potrosniskih-sporov/">Izvensodno reševanje potrošniških sporov</a></li>
+<li><a href="http://www.dormeo.net/slovar-cen/">Slovar cen</a></li>
+</ul>
+</div>
+</div> <div class="links">
+<div class="block-title">Vprašanja<span class="link-icon">+</span></div>
+<div class="links-container" id="col_2">
+<ul>
+<li><a href="https://www.dormeo.net/prodajna-mesta/">Prodajna mesta</a></li>
+<li><a href="http://www.dormeo.net/kontakt/">Kontakt</a></li>
+<li><a href="http://www.dormeo.net/prevzem-v-trgovini/">Prevzem v trgovini</a></li>
+<li><a href="http://www.dormeo.net/pogosta-vprasanja/">Pogosta vprašanja</a></li>
+<li><a href="http://www.dormeo.net/proces-nakupa/">Proces nakupa</a></li>
+<li><a href="http://www.dormeo.net/kupon-ugodnosti/">Kako koristiti kupon</a></li>
+<li><a href="http://www.dormeo.net/pomoc-pri-nakupu/">Pomoč pri nakupu</a></li>
+</ul>
+</div>
+</div> <div class="links">
+<div class="block-title">Druge informacije<span class="link-icon">+</span></div>
+<div class="links-container" id="col_2">
+<ul>
+<li><a href="http://www.dormeo.net/klub5/">Klub 5*</a></li>
+<li><a href="http://www.dormeo.net/o-podjetju/">O podjetju</a></li>
+<li><a href="http://www.dormeo.net/o-dormeu/">O Dormeu</a></li>
+<li><a href="http://www.dormeo.net/dr-15-let/">Dormeo 15 let</a></li>
+<li><a href="http://objemtopline.dormeo.net/" rel="’nofollow’" target="_blank">Objem topline</a></li>
+</ul>
+</div>
+</div> <div class="links">
+<div class="block-title">Vsebine<span class="link-icon">+</span></div>
+<div class="links-container" id="col_2">
+<ul>
+<li><a href="http://www.dormeo.net/vodici/">Vodiči</a></li>
+<li><a href="http://www.dormeo.net/clanki/">Članki</a></li>
+<li><a href="http://www.dormeo.net/video/">Videi</a></li>
+<li><a href="http://www.dormeo.net/e-knjige/">E-knjige</a></li>
+<li><a href="http://www.dormeo.net/klubski-katalog-jan-mar-2017/">E-katalogi</a></li>
+</ul>
+</div>
+</div></div>
+</div>
+<div class="footer-payments"><div class="fn-social">
+<ul>
+<li><a href="https://www.facebook.com/DormeoSlovenija" target="_blank"><em class="fa fa-facebook"> </em></a></li>
+<li><a href="https://www.youtube.com/user/lezisca" target="_blank"><em class="fa fa-youtube"> </em></a></li>
+<li><a href="https://www.instagram.com/dormeo.si" target="_blank"><em class="fa fa-instagram"> </em></a></li>
+</ul>
+</div></div>
+<div class="footer-address"><p style="text-align: center;"><a href="http://www.dormeo.net/"><strong>Dormeo</strong></a></p>
+<p style="text-align: center;"><a href="http://www.studio-moderna.com/">Studio Moderna</a>, finančne in intelektualne storitve ter trgovina, d. o. o., Podvine 36, 1410 Zagorje ob Savi</p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;">Matična številka: 5566975, davčna številka: SI-95400818, št. registrskega vložka: 1/5174/00, osnovni kapital: 1.260.724,42 EUR.<br/>Studio Moderna, d.o.o., je zavezanec za plačilo davka na dodano vrednost.</p>
+<p style="text-align: center;"><a href="http://www.dormeo.net">Dormeo</a> | <a href="http://www.delimano.si">Delimano</a> | <a href="http://www.wellneo.si">Wellneo</a> | <a href="http://www.topshop.si">Top Shop</a> | <a href="http://www.walkmaxx.si">Walkmaxx</a></p></div>
+<div class="hidden"></div>
+</div>
+</div> <div class="footer-base">
+<address class="copyright">
+<div class="text">© Studio Moderna 2017</div>
+</address>
+<div class="address_span"></div>
+</div>
+</div>
+</div>
+<div class="scrollToTop"><i class="fa fa-angle-up"></i></div>
+<div id="wishlist_edit_action_container"></div>
+<div id="quickview-mask"></div>
+<div id="quickview-popup">
+<div id="quickview-popup-wrapper">
+<div class="noclose-mobile"></div>
+<div class="close-popup-wrapper"><div class="close-popup"></div></div>
+<div class="popup-scroll">
+<div id="quickview-loading">Nalaganje ...</div>
+<iframe frameborder="0" height="100%" id="quickview-iframe" marginheight="0" marginwidth="0" width="100%"></iframe>
+</div>
+</div>
+</div>
+<script type="text/javascript">var Quickview=new Quickview();Quickview.init();jQuery('.close-popup').click(function(){parent.Quickview.closeQuickview();});</script>
+<div class="cookie-monster" id="cookie-monster">
+<div class="cookie-monster-inner">
+<div class="cookieMonsterText hasTawk">
+<h6>Spletna stran za zagotavljanje najboljše uporabniške izkušnje uporablja piškotke.</h6>
+<p>Brez njih ne bi mogli zagotoviti naših storitev - spletnih storitev, analize uporabe, oglaševalskih sistemov in analize funkcionalnosti. Z nadaljevanem uporabe spletne strani soglašate z uporabo piškotkov.</p>
+<a class="cookieMonsterMore" href="http://www.dormeo.net/piskotki" target="_blank">Izvedite več o možnih nastavitvah piškotkov.</a>
+</div>
+<div class="cookieThingBtn hasTawk">
+<a href="javascript:setupMonsterCookie();">Se strinjam</a>
+</div>
+</div>
+</div>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">function tawkChatInit(){var Tawk_API=Tawk_API||{},Tawk_LoadStart=new Date();(function(){var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];s1.async=true;s1.src='https://embed.tawk.to/597744050d1bb37f1f7a5c4c/default';s1.charset='UTF-8';s1.setAttribute('crossorigin','*');s0.parentNode.insertBefore(s1,s0);})();Tawk_API.onLoad=function(){footerBannersOffsets();};Tawk_API.onChatMinimized=function(){footerBannersOffsets();}
+Tawk_API.onChatMaximized=function(){footerBannersOffsets();}
+Tawk_API.onChatStarted=function(){if(Tawk_API.isVisitorEngaged()){if(typeof analyticTawkTrack=='function'){analyticTawkTrack('Chat Engaged');}}};Tawk_API.onOfflineSubmit=function(){if(typeof analyticTawkTrack=='function'){analyticTawkTrack('Chat Form');}};};</script>
+<!--End of Tawk.to Script-->
+<div class="right" id="slider_k2c">
+<div class="slider_k2c_main">
+<div class="slider_k2c_main_side ">
+<div class="slider_k2c_sidetab_ico"><i class="fa fa-phone"></i></div>
+<div class="slider_k2c_sidetab">
+<div class="slider_k2c_sidetab_txt"><div class="slider_k2c_rotate">Potrebujete pomoč?</div></div>
+</div>
+</div>
+<div class="slider_k2c_main_con">
+<div class="slider_k2c_side_close">x</div>
+<div class="slider_k2c_con_inner">
+<div class="slider_k2c_txt">
+<div class="k2c-title">Pokličite brezplačno na <p> 080 18 10</p></div>
+<div class="k2c-text"><p>Izbira primernega ležišča, vzglavnika ali odeje ni lahka odločitev. Zato smo tu za vas, da vam pomagamo izbrati pravi Dormeo izdelek za vas.</p>
+<p>Pokličite nas na brezplačno številko in z veseljem vam bomo pomagali.</p>
+<p>Vaši Dormeo svetovalci.</p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">jQuery(document).ready(function(){var sliderK2cSide='right';var sliderK2cAutoOpen=20000;var sliderK2cAutoClose=30000;var sliderK2cSpeed=600;var statusLeftActiveSliderK2c=false;var statusRightActiveSliderK2c=false;var waitToFinishLeft=false;var waitToFinishRight=false;var cookieSlider=getCookie('sliderk2c_stayClosed');calCssHeightsSliderK2c();if(cookieSlider!=1){if(sliderK2cAutoOpen>0){autoOpenSliderK2c(sliderK2cAutoOpen);}if(sliderK2cAutoClose>0){autoCloseSliderK2c(sliderK2cAutoClose);}}jQuery('#slider_k2c.left .slider_k2c_main_side').click(function(){openLeftSliderK2c(0);});jQuery('#slider_k2c.left .slider_k2c_side_close').click(function(){closeLeftSliderK2c();});jQuery('#slider_k2c.right .slider_k2c_main_side').click(function(){openRightSliderK2c(0);});jQuery('#slider_k2c.right .slider_k2c_side_close').click(function(){closeRightSliderK2c();});function autoOpenSliderK2c(sliderK2cAutoOpen){if(sliderK2cAutoOpen){if(sliderK2cSide=="left"){setTimeout(function(){if(!statusLeftActiveSliderK2c){openLeftSliderK2c(1);}},sliderK2cAutoOpen);}else{setTimeout(function(){if(!statusRightActiveSliderK2c){openRightSliderK2c(1);}},sliderK2cAutoOpen);}}}function autoCloseSliderK2c(sliderK2cAutoClose){if(sliderK2cAutoClose){if(sliderK2cSide=="left"){setTimeout(function(){if(statusLeftActiveSliderK2c){closeLeftSliderK2c();}},sliderK2cAutoClose);}else{setTimeout(function(){if(statusRightActiveSliderK2c){closeRightSliderK2c();}},sliderK2cAutoClose);}}}function openLeftSliderK2c(event){if(!waitToFinishLeft){if(!statusLeftActiveSliderK2c){waitToFinishLeft=true;statusLeftActiveSliderK2c=true;var slider_k2c_main_con=jQuery('.slider_k2c_main_con').outerWidth();jQuery('#slider_k2c.left .slider_k2c_side_close').show().animate({opacity:1},sliderK2cSpeed,function(){});jQuery('#slider_k2c.left').animate({left:'+='+slider_k2c_main_con+'px'},sliderK2cSpeed,function(){waitToFinishLeft=false});if(event==0&&typeof analyticsClickToCallOpen=='function'){analyticsClickToCallOpen();}}else{closeLeftSliderK2c();}}}function closeLeftSliderK2c(){if(statusLeftActiveSliderK2c){waitToFinishLeft=true
+statusLeftActiveSliderK2c=false;var slider_k2c_main_con=jQuery('.slider_k2c_main_con').outerWidth()
+jQuery('#slider_k2c.left').animate({left:'-='+slider_k2c_main_con+'px'},sliderK2cSpeed,function(){});jQuery('#slider_k2c.left .slider_k2c_side_close').animate({opacity:0},sliderK2cSpeed,function(){waitToFinishLeft=false});setCookie('sliderk2c_stayClosed',1);}}function openRightSliderK2c(event){if(!waitToFinishRight){if(!statusRightActiveSliderK2c){waitToFinishRight=true
+statusRightActiveSliderK2c=true;var slider_k2c_main_con=jQuery('.slider_k2c_main_con').outerWidth()
+jQuery('#slider_k2c.right .slider_k2c_side_close').show().animate({opacity:1},sliderK2cSpeed,function(){});jQuery('#slider_k2c.right').animate({right:'+='+slider_k2c_main_con+'px'},sliderK2cSpeed,function(){waitToFinishRight=false});if(event==0&&typeof analyticsClickToCallOpen=='function'){analyticsClickToCallOpen();}}else{closeRightSliderK2c();}}}function closeRightSliderK2c(){if(statusRightActiveSliderK2c){waitToFinishRight=true
+statusRightActiveSliderK2c=false;var slider_k2c_main_con=jQuery('.slider_k2c_main_con').outerWidth()
+jQuery('#slider_k2c.right').animate({right:'-='+slider_k2c_main_con+'px'},sliderK2cSpeed,function(){});jQuery('#slider_k2c.right .slider_k2c_side_close').animate({opacity:0},sliderK2cSpeed,function(){waitToFinishRight=false});setCookie('sliderk2c_stayClosed',1);}}function calCssHeightsSliderK2c(){var heightRotatingTxt=0;var compensateForTextWidth=0;if(jQuery('body.delimano').length>0){compensateForTextWidth=15}heightRotatingTxt=jQuery('.slider_k2c_rotate').outerWidth()+compensateForTextWidth;jQuery('.slider_k2c_sidetab').addClass("limitWidth");jQuery('.slider_k2c_sidetab_txt').height(heightRotatingTxt);jQuery('.slider_k2c_rotate').addClass("rotate");}});</script>
+<div class="widget widget-static-block"><script type="text/javascript">function initPimcoreBanners(){(function(d,t){var k=d.createElement(t);k.async=true;k.src='https://smsb.si/js?id=193874&v=15895861';var s=d.getElementsByTagName('body')[0];s.parentNode.insertBefore(k,s);})(document,'script');}</script></div>
+<div class="widget widget-static-block"></div>
+</div>
+<span id="footerJsContainer"></span>
+<script src="http://dormeosi.azureedge.net/skin/frontend/sm/default/js/custom.js?q=20181106" type="text/javascript"></script>
+<script type="text/javascript">function getSaleable(){if(!(jQuery('.showinventoryonproduct').length>0)){return false;}var list=[];jQuery(".item .js-gtm-data, .li-content .js-gtm-data").each(function(k,v){var base=jQuery(this);var productid=base.data('productid')
+if(typeof productid!=='undefined'){list.push(productid);}});if(list.length<1){return false;}jQuery.ajax({url:"/saleable/saleable/list",method:"POST",data:{productIds:list}}).done(function(saleable){var minq=saleable.minq;if(saleable.list==null){return false;}jQuery.each(saleable.list,function(k,v){var pcshide=true;var oushide=true;if(v!==null){if((v.show_inventory)&&(v.is_saleable)){if(v.backorders<1){if((v.quantity)>0&&(v.quantity<minq)){var str=jQuery(".pcs"+k).first().text().replace('-','').replace(/\d+/g,v.quantity);jQuery(".pcs"+k).show().text(str);pcshide=false;}}}if(!v.is_saleable){jQuery(".ous"+k).show();var oushide=false;}}if(oushide){jQuery(".ous"+k).remove();}else{jQuery(".ous"+k).closest(".item").addClass("out-of-stock-item-active");jQuery(".ous"+k).closest(".li-content").addClass("out-of-stock-licontent-active");}if(pcshide){jQuery(".pcs"+k).remove();}});}).fail(function(){}).always(function(){});}jQuery(function(){jQuery(".txt-out-of-stock").hide();jQuery(".txt-only-10-left").hide();getSaleable();});</script>
+<!-- Begin Talkable integration code -->
+<!-- Talkable Site ID is blank, check your Talkable extension settings -->
+<script type="text/javascript">function TalkableLib(){jQuery.getScript('//d2jjzw81hqbuqv.cloudfront.net/integration/talkable-3.0.min.js');}</script>
+<!-- End Talkable integration code -->
+<script async="" defer="" src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&amp;render=explicit"></script></body>
+</html>

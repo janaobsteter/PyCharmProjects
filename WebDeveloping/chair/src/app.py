@@ -19,7 +19,7 @@ print(price_without_symbol < budget)
 
 if price_without_symbol <= budget:
     print("Buy the chair.")
-    print("Current price is {}".format(string_price))
+    print("Current price is {}".format(string_pricea))
 else:
     print("Do not buy the chair.")
 
