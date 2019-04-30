@@ -1,6 +1,0 @@
-#get the price of an item in a web.store for a user under price limit
-
-#1) user CREATES alert --> gives us email --> gives us price and item URl --> we check the price --> if the price under the limit --> notify user
-
-#modules
-#alert  (contains email, price limit, item created with the URL) | web store (how to check item prices) | users (emails, name/password/username?) | item (name, price from the website, URL)

@@ -1,5 +1,0 @@
-Client site scripting language
-It does not run where the application runs, but runs in the users browser
-#shows, alert, small widnowd, change the colour ...
-#decreases the load on the server, but has some safety issues
-#you depend on the user having javascript enabled

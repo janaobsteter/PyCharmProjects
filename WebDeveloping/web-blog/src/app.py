@@ -1,12 +1,33 @@
+<<<<<<< Updated upstream
+from flask import Flask, render_template, request, session
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
 from flask import Flask, render_template, request, session, make_response, Blueprint
 =======
 from flask import Flask, render_template, request, session
 >>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+from flask import Flask, render_template, request, session
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+from flask import Flask, render_template, request, session
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+from flask import Flask, render_template, request, session
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
 
 #use Flask to define app
 #creating Flask application
 from src.common.database import Database
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
 from src.modules.blog import Blog
 from src.modules.post import Post
@@ -21,6 +42,13 @@ app.secret_key = "janao"
 def home_template():
     return render_template('home.html')# flask nows that this lives in the template folder
 =======
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
 from src.modules.user import User
 
 app = Flask(__name__) # '__main__'
@@ -32,12 +60,29 @@ app.secret_key = "janao"
 @app.route('/')
 def home_template():
     return render_template('home.html')
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
 
 @app.route('/login') #www.mysite.com/api/
 def login_template():
     return render_template('login.html')# flask nows that this lives in the template folder
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 @app.route('/register') #www.mysite.com/api/
@@ -50,6 +95,13 @@ def initialise_database():
 
 @app.route('/auth/login', methods=['POST'])
 =======
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
 @app.route('/register') #www.mysite.com/api/
 def register_template():
     return render_template('register.html')# flask nows that this lives in the template folder
@@ -60,7 +112,19 @@ def initialise_database():
 
 
 @app.route('/auth/login', methods = ['POST']) #we are accepting only post requests
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
 def login_user():
     email = request.form['email']
     password = request.form['password']
@@ -68,6 +132,11 @@ def login_user():
         User.login(email)
     else:
         session['email'] = None
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
 
     return render_template("profile.html", email=session['email'])
@@ -134,6 +203,13 @@ def create_new_post(blog_id):
 if __name__ == '__main__':
     app.run(port=4995, debug=True)
 =======
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
     return render_template("profile.html", email = session['email'])
 
 
@@ -146,4 +222,16 @@ def register_user():
 
 if __name__ == '__main__':
     app.run(port=5000, debug=True)
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
