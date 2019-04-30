@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 from flask import Flask, render_template, request, session, make_response, Blueprint
+=======
+from flask import Flask, render_template, request, session
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
 
 #use Flask to define app
 #creating Flask application
 from src.common.database import Database
+<<<<<<< HEAD
 from src.modules.blog import Blog
 from src.modules.post import Post
 from src.modules.user import User
@@ -15,11 +20,25 @@ app.secret_key = "janao"
 @app.route('/') #www.mysite.com/api/
 def home_template():
     return render_template('home.html')# flask nows that this lives in the template folder
+=======
+from src.modules.user import User
+
+app = Flask(__name__) # '__main__'
+#we have to add the secret key - to make sure that the cookie we are sending is secure
+app.secret_key = "janao"
+
+
+#create API endpoints
+@app.route('/')
+def home_template():
+    return render_template('home.html')
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
 
 @app.route('/login') #www.mysite.com/api/
 def login_template():
     return render_template('login.html')# flask nows that this lives in the template folder
 
+<<<<<<< HEAD
 
 @app.route('/register') #www.mysite.com/api/
 def register_template():
@@ -30,6 +49,18 @@ def initialise_database():
     Database.initialise('webdeveloping')
 
 @app.route('/auth/login', methods=['POST'])
+=======
+@app.route('/register') #www.mysite.com/api/
+def register_template():
+    return render_template('register.html')# flask nows that this lives in the template folder
+
+@app.before_first_request #IT will run the method before the first request
+def initialise_database():
+    Database.initialise("webdeveloping")
+
+
+@app.route('/auth/login', methods = ['POST']) #we are accepting only post requests
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
 def login_user():
     email = request.form['email']
     password = request.form['password']
@@ -37,6 +68,7 @@ def login_user():
         User.login(email)
     else:
         session['email'] = None
+<<<<<<< HEAD
 
     return render_template("profile.html", email=session['email'])
 
@@ -101,3 +133,17 @@ def create_new_post(blog_id):
 
 if __name__ == '__main__':
     app.run(port=4995, debug=True)
+=======
+    return render_template("profile.html", email = session['email'])
+
+
+@app.route('/auth/register', methods=['POST'])
+def register_user():
+    email = request.form['email']
+    password = request.form['password']
+    User.register(email, password)
+    return render_template("profile.html", email = session['email'])
+
+if __name__ == '__main__':
+    app.run(port=5000, debug=True)
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79

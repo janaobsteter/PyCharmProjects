@@ -5,4 +5,4 @@ class StoreException(Exception):
 class StoreNotFoundError(StoreException):
         pass
 
-raise FileNotFoundError
+#raise FileNotFoundError

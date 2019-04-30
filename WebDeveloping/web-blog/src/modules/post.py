@@ -4,14 +4,23 @@ import datetime
 
 
 class Post(object):
+<<<<<<< HEAD
     def __init__(self, blog_id, title, content, author, date=datetime.datetime.utcnow(), _id=None):
+=======
+    def __init__(self, blog_id, title, content, author, date=datetime.datetime.utcnow()):
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
         self.blog_id = blog_id
         self.title = title
         self.content = content
         self.author = author
         # self.id = id
+<<<<<<< HEAD
         self._id = uuid.uuid4().hex if _id is None else _id
         #uuid = universly unique identifier, uiid4 generates id, #4 is random id, .hex = 32bit character hexadecimal string
+=======
+        self._id = uuid.uuid4().hex if blog_id is None else blog_id
+        #uuid = universly unique identifier, uiid4 generates id, #4 is random id, .hex = 32bit character hexadecimal $
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
         self.date = date
 
     def save_to_mongo(self):
@@ -39,4 +48,7 @@ class Post(object):
         #                                                           query={"blog_id": blogid})])) #find returns cursor
         return [post for post in Database.find(collection="posts",
                                                query={"blog_id": blog_id})] #find returns cursor
+<<<<<<< HEAD
 
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79

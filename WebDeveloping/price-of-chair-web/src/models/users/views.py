@@ -18,7 +18,7 @@ def login_user():
             if User.is_login_valid(email, password):
                 session['email'] = email
                 return redirect(url_for(".user_alerts")) #url_for gets a methods for the current method - which is this file
-        except Exception as e:
+        except UserErrors.UserError as e:
             return e.message
     return render_template("users/login.html") #improvements: send the user and error if their login was invladi
 
@@ -45,7 +45,7 @@ def user_alerts():
     """
     user = User.find_by_email(session['email'])
     #alerts = Alert.find_by_user_email(session['email']) #this is the user model and we do not want Alert model in here - the views!
-    alerts = User.get_alerts()
+    alerts = user.get_alerts()
 
     return render_template('users/alerts.html', alerts=alerts)
 
