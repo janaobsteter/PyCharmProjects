@@ -1,3 +1,14 @@
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> Stashed changes
 
 __author__ = "janao"
 
@@ -24,3 +35,20 @@ class Database(object):
     def find_one(collection, query):
         return Database.DATABASE[collection].find_one(query)
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1eb6a4f-ce26-4580-8c8b-3b0e44cae809" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Dormeo/.idea/Dormeo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dormeo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dormeo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dormeo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dormeo/DormeoSoup.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dormeo/modules/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dormeo/modules/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dormeo/modules/price.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dormeo/src/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dormeo/src/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dormeo/src/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises.py/.idea/Exercises.py.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises.py/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises.py/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises.py/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises.py/Exercise1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Genotypes_Extract/.idea/Genotypes_Extract.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Genotypes_Extract/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Genotypes_Extract/.idea/libraries/R_User_Library.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Genotypes_Extract/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Genotypes_Extract/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Genotypes_Extract/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Genotypes_Extract/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Genotypes_Extract/GenPed_MST.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Genotypes_Extract/MST.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratice/.idea/Pratice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratice/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratice/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratice/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratice/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratice/AbstracClass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratice/Exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratice/Methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratice/max.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyTables/.idea/PyTables.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyTables/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyTables/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyTables/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyTables/CreateTable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyTables/Genotypes.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyTables/Inbreeding.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyTables/ReadInGenotypes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyTables/TestFile.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebDeveloping/price-of-chair-web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDeveloping/price-of-chair-web/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajemInAnalizaSlik/.idea/ZajemInAnalizaSlik.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajemInAnalizaSlik/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajemInAnalizaSlik/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajemInAnalizaSlik/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajemInAnalizaSlik/PretopiSlike.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajemInAnalizaSlik/Vaja1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice_python/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice_python/.idea/libraries/R_User_Library.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice_python/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice_python/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice_python/.idea/practice_python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice_python/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice_python/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice_python/decorators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice_python/divisorSum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice_python/everyday_issues/map.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice_python/property_decorator.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Genotipi/Genotipi_CODES/selection10.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="1177" column="76" selection-start-line="1177" selection-start-column="76" selection-end-line="1177" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Genotipi/Genotipi_CODES/Eddie_SelectionRep_Selection_repeatedPheno.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="693">
+              <caret line="56" column="46" selection-start-line="56" selection-start-column="46" selection-end-line="56" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>phenonew</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Genotipi/Genotipi_CODES/selection10.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="1920" />
+    <option name="y" value="24" />
+    <option name="width" value="1920" />
+    <option name="height" value="999" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Genotipi/Genotipi_CODES/Eddie_SelectionRep_Selection_repeatedPheno.py" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1eb6a4f-ce26-4580-8c8b-3b0e44cae809" name="Default Changelist" comment="" />
+      <created>1556607387385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556607387385</updated>
+      <workItem from="1556607388618" duration="2904000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2904000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="24" width="1920" height="999" extended-state="4" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="R Packages" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Genotipi/Genotipi_CODES/Eddie_SelectionRep_Selection_repeatedPheno.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="56" column="46" selection-start-line="56" selection-start-column="46" selection-end-line="56" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Genotipi/Genotipi_CODES/selection10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="1177" column="76" selection-start-line="1177" selection-start-column="76" selection-end-line="1177" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -94,7 +94,7 @@ from bs4 import BeautifulSoup
 import urllib.request
 
 req = urllib.request.urlopen("http://rss.slashdot.org/Slashdot/slashdotMain")
-xml = BeautifulSoup(req, 'xml')
+xml = BeautifulSoup(req, 'lxml')
 
 
 for item in xml.findAll('link')[3:]:

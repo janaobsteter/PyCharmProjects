@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
+    <list default="true" id="ba614931-39d4-4f24-9940-a3b203ca579e" name="Default" comment="" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <list default="true" id="ba614931-39d4-4f24-9940-a3b203ca579e" name="Default" comment="" />
+=======
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
     <list default="true" id="ba614931-39d4-4f24-9940-a3b203ca579e" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/../price-of-chair-web/src/models/items/constants.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../price-of-chair-web/src/models/stores/constants.py" afterDir="false" />
@@ -25,6 +37,14 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/base.html" afterDir="false" />
     </list>
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +52,43 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+<<<<<<< Updated upstream
+    <SUITE FILE_PATH="coverage/web_blog$app.coverage" NAME="app Coverage Results" MODIFIED="1556546016899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <SUITE FILE_PATH="coverage/web_blog$app.coverage" NAME="app Coverage Results" MODIFIED="1556546016899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+=======
     <SUITE FILE_PATH="coverage/web_blog$app.coverage" NAME="app Coverage Results" MODIFIED="1544186423384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+    <SUITE FILE_PATH="coverage/web_blog$app.coverage" NAME="app Coverage Results" MODIFIED="1544186423384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+    <SUITE FILE_PATH="coverage/web_blog$app.coverage" NAME="app Coverage Results" MODIFIED="1544186423384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+<<<<<<< Updated upstream
+        <entry file="file://$PROJECT_DIR$/src/modules/user.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1239">
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/src/modules/user.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1239">
+=======
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
         <entry file="file://$PROJECT_DIR$/src/common/database.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
@@ -49,6 +101,14 @@
         <entry file="file://$PROJECT_DIR$/src/modules/user.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="94">
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
               <caret line="65" column="14" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="14" />
             </state>
           </provider>
@@ -117,7 +177,23 @@
           </provider>
         </entry>
       </file>
+<<<<<<< Updated upstream
+      <file pinned="false" current-in-tab="false">
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="false">
+=======
       <file pinned="false" current-in-tab="true">
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+      <file pinned="false" current-in-tab="true">
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+      <file pinned="false" current-in-tab="true">
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
         <entry file="file://$PROJECT_DIR$/src/modules/blog.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -126,6 +202,33 @@
           </provider>
         </entry>
       </file>
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> Stashed changes
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="87" column="23" selection-start-line="87" selection-start-column="23" selection-end-line="87" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#84#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< Updated upstream
+=======
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -198,9 +301,34 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< Updated upstream
     <option name="y" value="-4" />
     <option name="width" value="1920" />
     <option name="height" value="1029" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <option name="x" value="1920" />
+    <option name="y" value="24" />
+    <option name="width" value="1920" />
+    <option name="height" value="999" />
+=======
+    <option name="y" value="-4" />
+    <option name="width" value="1920" />
+    <option name="height" value="1029" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+    <option name="y" value="-4" />
+    <option name="width" value="1920" />
+    <option name="height" value="1029" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+    <option name="y" value="-4" />
+    <option name="width" value="1920" />
+    <option name="height" value="1029" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -208,6 +336,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< Updated upstream
+      <pane id="Scope" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <pane id="Scope" />
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -236,12 +378,39 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
       <pane id="Scope" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+      <pane id="Scope" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+      <pane id="Scope" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -272,9 +441,33 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
+<<<<<<< Updated upstream
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
       <option name="IS_MODULE_SDK" value="true" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../WebDeveloping/price-of-chair-web/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="false" />
+=======
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -398,6 +591,19 @@
       <workItem from="1544186283354" duration="282000" />
       <workItem from="1544623567236" duration="1836000" />
       <workItem from="1545135591374" duration="628000" />
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <workItem from="1556545997079" duration="730000" />
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="This is near the end of the web blog">
       <created>1542721699072</created>
@@ -410,7 +616,23 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="15632000" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="16362000" />
+=======
+    <option name="totallyTimeSpent" value="15632000" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+    <option name="totallyTimeSpent" value="15632000" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+    <option name="totallyTimeSpent" value="15632000" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -422,15 +644,56 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< Updated upstream
+    <frame x="1920" y="-4" width="1920" height="1027" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.113127" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <frame x="1920" y="-4" width="1920" height="1027" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.113127" />
+=======
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
     <frame x="0" y="24" width="1920" height="1001" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.112059765" />
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
       <window_info id="Structure" order="1" weight="0.2497332" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< Updated upstream
       <window_info anchor="bottom" id="Run" order="2" weight="0.33813748" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33777776" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33813748" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33813748" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33813748" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -441,6 +704,20 @@
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <window_info anchor="right" id="R Packages" />
+      <window_info anchor="right" id="R Graphics" />
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -540,6 +817,18 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/src/templates/register.html" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/templates/register.html" />
+=======
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
     <entry file="file://$PROJECT_DIR$/src/templates/register.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -547,6 +836,14 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/src/templates/new_post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
@@ -554,6 +851,53 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> Stashed changes
+    <entry file="file://$PROJECT_DIR$/src/templates/code.py" />
+    <entry file="file://$PROJECT_DIR$/src/code.html" />
+    <entry file="file://$PROJECT_DIR$/src/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1281">
+          <caret line="61" column="25" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+=======
+    <entry file="file://$PROJECT_DIR$/src/static/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1239">
+          <caret line="65" column="14" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/post.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="90" selection-start-line="6" selection-start-column="90" selection-end-line="6" selection-end-column="90" />
+=======
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
     <entry file="file://$PROJECT_DIR$/src/templates/code.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="537">
@@ -575,9 +919,10 @@
         </state>
       </provider>
     </entry>
+>>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/src/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1827">
+        <state relative-caret-position="342">
           <caret line="87" column="23" selection-start-line="87" selection-start-column="23" selection-end-line="87" selection-end-column="23" />
           <folding>
             <element signature="e#0#84#0" expanded="true" />
@@ -589,6 +934,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
@@ -634,6 +989,31 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/modules/blog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="30" column="73" selection-start-line="30" selection-start-column="73" selection-end-line="30" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="87" column="23" selection-start-line="87" selection-start-column="23" selection-end-line="87" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#84#0" expanded="true" />
+          </folding>
+=======
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/src/common/database.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -643,7 +1023,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/modules/user.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
+        <state relative-caret-position="1239">
           <caret line="65" column="14" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="14" />
         </state>
       </provider>
@@ -659,6 +1039,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="30" column="73" selection-start-line="30" selection-start-column="73" selection-end-line="30" selection-end-column="73" />
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>

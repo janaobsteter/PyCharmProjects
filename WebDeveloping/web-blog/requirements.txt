@@ -1,3 +1,23 @@
 Flask==1.0.2
 pymongo==3.7.2
+<<<<<<< Updated upstream
 uuid==1.30
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+uuid==1.30
+=======
+uuid==1.30
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+uuid==1.30
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+uuid==1.30
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+uuid==1.30
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes

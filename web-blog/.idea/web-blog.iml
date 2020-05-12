@@ -4,6 +4,20 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.5.2 virtualenv at ~/WebDeveloping" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <orderEntry type="library" name="R User Library" level="project" />
+    <orderEntry type="library" name="R Skeletons" level="application" />
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

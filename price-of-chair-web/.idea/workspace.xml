@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1" />
     <option name="y" value="526" />
@@ -28,5 +29,16 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+=======
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="1920" />
+    <option name="y" value="24" />
+    <option name="width" value="1920" />
+    <option name="height" value="999" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> e03c44262f39d823a76b7649d7c755c431889deb
   </component>
 </project>

@@ -1,13 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< Updated upstream
   <component name="ChangeListManager">
     <list default="true" id="bdf7f826-c956-49ed-89e3-0ff42b801192" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/YouTubeCourse.py" line="0" mnemonic="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="281bdc2b-960c-41bd-80b0-97484af1ce21" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chair/.idea/workspace.xml" afterPath="$PROJECT_DIR$/chair/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chair/src/app.py" afterPath="$PROJECT_DIR$/chair/src/app.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/terminal_blog/.idea/workspace.xml" afterPath="$PROJECT_DIR$/terminal_blog/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/terminal_blog/app.py" afterPath="$PROJECT_DIR$/terminal_blog/app.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/terminal_blog/database.py" afterPath="$PROJECT_DIR$/terminal_blog/database.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/terminal_blog/modules/post.py" afterPath="$PROJECT_DIR$/terminal_blog/modules/post.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+=======
+  <component name="ChangeListManager">
+    <list default="true" id="bdf7f826-c956-49ed-89e3-0ff42b801192" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+  <component name="ChangeListManager">
+    <list default="true" id="bdf7f826-c956-49ed-89e3-0ff42b801192" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+  <component name="ChangeListManager">
+    <list default="true" id="bdf7f826-c956-49ed-89e3-0ff42b801192" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+  <component name="ChangeListManager">
+    <list default="true" id="bdf7f826-c956-49ed-89e3-0ff42b801192" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="WebDeveloping" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/terminal_blog/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="YouTubeCourse.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/YouTubeCourse.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="95" column="77" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="77" />
+              <folding>
+                <element signature="e#39#53#0" expanded="true" />
+=======
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
   <component name="FUSProjectUsageTrigger">
     <session id="1134313146">
       <usages-collector id="statistics.lifecycle.project">
@@ -55,11 +136,93 @@
               <caret line="12" column="91" selection-start-line="12" selection-start-column="91" selection-end-line="12" selection-end-column="91" />
               <folding>
                 <element signature="e#0#58#0" expanded="true" />
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <file leaf-file-name="WebApplication.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebApplication.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="966">
+              <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/terminal_blog/modules/post.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="30" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/terminal_blog/modules/blog.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="59" column="44" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/terminal_blog/database.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -69,12 +232,135 @@
       </list>
     </option>
   </component>
+<<<<<<< Updated upstream
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rss</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/YouTubeCourse.py" />
+        <option value="$PROJECT_DIR$/WebApplication.py" />
+        <option value="$PROJECT_DIR$/app.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="-4" />
+    <option name="width" value="1920" />
+    <option name="height" value="1029" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebDeveloping" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebDeveloping" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebDeveloping" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebDeveloping" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="terminal_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebDeveloping" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebDeveloping" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="terminal_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.XML" />
+=======
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/models/database.py" />
@@ -99,6 +385,19 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../web-blog/src/app.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -113,14 +412,100 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.app">
+<<<<<<< Updated upstream
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="WebDeveloping" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <configuration default="false" name="YouTubeCourse" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebDeveloping" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/YouTubeCourse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="WebApplication" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WebDeveloping" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebDeveloping" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebApplication.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WebDeveloping" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WebDeveloping" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WebDeveloping" />
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/terminal_blog" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebDeveloping" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/terminal_blog/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+=======
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../web-blog/src" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -136,12 +521,152 @@
     </configuration>
     <configuration name="database" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="WebDeveloping" />
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebDeveloping" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebDeveloping" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebDeveloping" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebDeveloping" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.YouTubeCourse" />
+      <item index="1" class="java.lang.String" itemvalue="Python.WebApplication" />
+      <item index="2" class="java.lang.String" itemvalue="Python.app" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.app" />
+        <item index="1" class="java.lang.String" itemvalue="Python.WebApplication" />
+        <item index="2" class="java.lang.String" itemvalue="Python.YouTubeCourse" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="281bdc2b-960c-41bd-80b0-97484af1ce21" name="Default" comment="" />
+      <created>1541597204128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541597204128</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-4" width="1920" height="1029" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26307365" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34108528" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+=======
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -200,21 +725,117 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/YouTubeCourse.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/YouTubeCourse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#39#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApplication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+=======
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/post.py" />
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YouTubeCourse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="95" column="77" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="77" />
+          <folding>
+            <element signature="e#39#53#0" expanded="true" />
+=======
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/models/database.py">
@@ -223,10 +844,175 @@
           <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
           <folding>
             <marker date="1541788746983" expanded="true" signature="39:44" ph="..." />
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/WebApplication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YouTubeCourse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#39#53#0" expanded="true" />
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/WebApplication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YouTubeCourse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1869">
+          <caret line="89" column="52" lean-forward="false" selection-start-line="89" selection-start-column="52" selection-end-line="89" selection-end-column="52" />
+          <folding>
+            <element signature="e#39#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApplication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YouTubeCourse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#39#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApplication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YouTubeCourse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="95" column="77" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="77" />
+          <folding>
+            <element signature="e#39#53#0" expanded="true" />
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/terminal_blog/database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terminal_blog/modules/blog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="59" column="44" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terminal_blog/modules/post.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terminal_blog/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+=======
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/models/post.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -240,6 +1026,19 @@
           <caret line="12" column="91" selection-start-line="12" selection-start-column="91" selection-end-line="12" selection-end-column="91" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+=======
+>>>>>>> a960e91a7e7f979d8e86921c1c861db15f8a5d79
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>

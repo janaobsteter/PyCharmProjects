@@ -1,0 +1,3 @@
+#!/home/jana/PycharmProjects/Selection/venv/bin/python
+from numba.pycc import main
+main()
