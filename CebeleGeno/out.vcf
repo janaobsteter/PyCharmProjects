@@ -1,0 +1,277 @@
+##fileformat=VCFv4.2
+##fileUTCtime=2020-01-15T15:34:05
+##deamination_metric=0.189692
+##fileUTCtime=2020-01-15T15:34:25
+##deamination_metric=0.125249
+##fileUTCtime=2020-01-15T15:34:39
+##deamination_metric=0.15619
+##fileUTCtime=2020-01-15T15:34:51
+##deamination_metric=0.165214
+##fileUTCtime=2020-01-15T15:35:05
+##deamination_metric=0.175931
+##fileUTCtime=2020-01-15T15:35:16
+##deamination_metric=0.171338
+##fileUTCtime=2020-01-15T15:35:26
+##deamination_metric=0.172369
+##fileDate=20200115
+##fileUTCtime=2020-01-15T15:35:46
+##source="tvc 5.12-27 (2b3c8bf) - Torrent Variant Caller"
+##parametersName="Generic - PGM (3xx) - Germ Line - Low Stringency"
+##parametersDetails="TS version: 5.12"
+##basecallerVersion="5.12-27/2b3c8bf"
+##tmapVersion="5.12.27 (2b3c8bf) (201907221728)"
+##reference=/results/referenceLibrary/tmap-f3/Amel_HAv3.1/Amel_HAv3.1.fasta
+##contig=<ID=NC_037638_1,assembly=Amel_HAv3.1,length=27754200>
+##contig=<ID=NC_037639_1,assembly=Amel_HAv3.1,length=16089512>
+##contig=<ID=NW_020555788_1,assembly=Amel_HAv3.1,length=3988>
+##contig=<ID=NC_037640_1,assembly=Amel_HAv3.1,length=13619445>
+##contig=<ID=NC_037641_1,assembly=Amel_HAv3.1,length=13404451>
+##contig=<ID=NC_037642_1,assembly=Amel_HAv3.1,length=13896941>
+##contig=<ID=NW_020555789_1,assembly=Amel_HAv3.1,length=24043>
+##contig=<ID=NC_037643_1,assembly=Amel_HAv3.1,length=17789102>
+##contig=<ID=NW_020555790_1,assembly=Amel_HAv3.1,length=23881>
+##contig=<ID=NC_037644_1,assembly=Amel_HAv3.1,length=14198698>
+##contig=<ID=NW_020555791_1,assembly=Amel_HAv3.1,length=28854>
+##contig=<ID=NW_020555792_1,assembly=Amel_HAv3.1,length=22163>
+##contig=<ID=NW_020555793_1,assembly=Amel_HAv3.1,length=12667>
+##contig=<ID=NC_037645_1,assembly=Amel_HAv3.1,length=12717210>
+##contig=<ID=NW_020555794_1,assembly=Amel_HAv3.1,length=40528>
+##contig=<ID=NW_020555795_1,assembly=Amel_HAv3.1,length=17189>
+##contig=<ID=NW_020555796_1,assembly=Amel_HAv3.1,length=11842>
+##contig=<ID=NC_037646_1,assembly=Amel_HAv3.1,length=12354651>
+##contig=<ID=NW_020555797_1,assembly=Amel_HAv3.1,length=41529>
+##contig=<ID=NW_020555798_1,assembly=Amel_HAv3.1,length=41327>
+##contig=<ID=NW_020555799_1,assembly=Amel_HAv3.1,length=36874>
+##contig=<ID=NW_020555800_1,assembly=Amel_HAv3.1,length=34862>
+##contig=<ID=NW_020555801_1,assembly=Amel_HAv3.1,length=31353>
+##contig=<ID=NW_020555802_1,assembly=Amel_HAv3.1,length=26859>
+##contig=<ID=NW_020555803_1,assembly=Amel_HAv3.1,length=25295>
+##contig=<ID=NW_020555804_1,assembly=Amel_HAv3.1,length=21070>
+##contig=<ID=NW_020555805_1,assembly=Amel_HAv3.1,length=18505>
+##contig=<ID=NW_020555806_1,assembly=Amel_HAv3.1,length=17223>
+##contig=<ID=NW_020555807_1,assembly=Amel_HAv3.1,length=17199>
+##contig=<ID=NW_020555808_1,assembly=Amel_HAv3.1,length=15069>
+##contig=<ID=NW_020555809_1,assembly=Amel_HAv3.1,length=14774>
+##contig=<ID=NW_020555810_1,assembly=Amel_HAv3.1,length=11259>
+##contig=<ID=NW_020555811_1,assembly=Amel_HAv3.1,length=11145>
+##contig=<ID=NW_020555812_1,assembly=Amel_HAv3.1,length=6719>
+##contig=<ID=NW_020555813_1,assembly=Amel_HAv3.1,length=4248>
+##contig=<ID=NC_037647_1,assembly=Amel_HAv3.1,length=12360052>
+##contig=<ID=NW_020555814_1,assembly=Amel_HAv3.1,length=95318>
+##contig=<ID=NW_020555815_1,assembly=Amel_HAv3.1,length=67913>
+##contig=<ID=NW_020555816_1,assembly=Amel_HAv3.1,length=40431>
+##contig=<ID=NW_020555817_1,assembly=Amel_HAv3.1,length=28022>
+##contig=<ID=NW_020555818_1,assembly=Amel_HAv3.1,length=23055>
+##contig=<ID=NW_020555819_1,assembly=Amel_HAv3.1,length=22320>
+##contig=<ID=NW_020555820_1,assembly=Amel_HAv3.1,length=20023>
+##contig=<ID=NC_037648_1,assembly=Amel_HAv3.1,length=16352600>
+##contig=<ID=NW_020555821_1,assembly=Amel_HAv3.1,length=35182>
+##contig=<ID=NW_020555822_1,assembly=Amel_HAv3.1,length=24609>
+##contig=<ID=NW_020555823_1,assembly=Amel_HAv3.1,length=15613>
+##contig=<ID=NW_020555824_1,assembly=Amel_HAv3.1,length=13259>
+##contig=<ID=NW_020555825_1,assembly=Amel_HAv3.1,length=3624>
+##contig=<ID=NC_037649_1,assembly=Amel_HAv3.1,length=11514234>
+##contig=<ID=NW_020555826_1,assembly=Amel_HAv3.1,length=18903>
+##contig=<ID=NC_037650_1,assembly=Amel_HAv3.1,length=11279722>
+##contig=<ID=NC_037651_1,assembly=Amel_HAv3.1,length=10670842>
+##contig=<ID=NW_020555827_1,assembly=Amel_HAv3.1,length=35146>
+##contig=<ID=NW_020555828_1,assembly=Amel_HAv3.1,length=24061>
+##contig=<ID=NW_020555829_1,assembly=Amel_HAv3.1,length=23155>
+##contig=<ID=NW_020555830_1,assembly=Amel_HAv3.1,length=21574>
+##contig=<ID=NW_020555831_1,assembly=Amel_HAv3.1,length=19344>
+##contig=<ID=NW_020555832_1,assembly=Amel_HAv3.1,length=16896>
+##contig=<ID=NW_020555833_1,assembly=Amel_HAv3.1,length=16072>
+##contig=<ID=NW_020555834_1,assembly=Amel_HAv3.1,length=14199>
+##contig=<ID=NW_020555835_1,assembly=Amel_HAv3.1,length=13856>
+##contig=<ID=NW_020555836_1,assembly=Amel_HAv3.1,length=12635>
+##contig=<ID=NW_020555837_1,assembly=Amel_HAv3.1,length=12630>
+##contig=<ID=NW_020555838_1,assembly=Amel_HAv3.1,length=11160>
+##contig=<ID=NW_020555839_1,assembly=Amel_HAv3.1,length=9716>
+##contig=<ID=NW_020555840_1,assembly=Amel_HAv3.1,length=8753>
+##contig=<ID=NC_037652_1,assembly=Amel_HAv3.1,length=9534514>
+##contig=<ID=NW_020555841_1,assembly=Amel_HAv3.1,length=73645>
+##contig=<ID=NW_020555842_1,assembly=Amel_HAv3.1,length=60267>
+##contig=<ID=NW_020555843_1,assembly=Amel_HAv3.1,length=44578>
+##contig=<ID=NW_020555844_1,assembly=Amel_HAv3.1,length=35241>
+##contig=<ID=NW_020555845_1,assembly=Amel_HAv3.1,length=24031>
+##contig=<ID=NW_020555846_1,assembly=Amel_HAv3.1,length=23749>
+##contig=<ID=NW_020555847_1,assembly=Amel_HAv3.1,length=21570>
+##contig=<ID=NW_020555848_1,assembly=Amel_HAv3.1,length=21229>
+##contig=<ID=NW_020555849_1,assembly=Amel_HAv3.1,length=20706>
+##contig=<ID=NW_020555850_1,assembly=Amel_HAv3.1,length=18311>
+##contig=<ID=NW_020555851_1,assembly=Amel_HAv3.1,length=10530>
+##contig=<ID=NW_020555852_1,assembly=Amel_HAv3.1,length=9153>
+##contig=<ID=NW_020555853_1,assembly=Amel_HAv3.1,length=5948>
+##contig=<ID=NW_020555854_1,assembly=Amel_HAv3.1,length=5288>
+##contig=<ID=NW_020555855_1,assembly=Amel_HAv3.1,length=4502>
+##contig=<ID=NW_020555856_1,assembly=Amel_HAv3.1,length=3152>
+##contig=<ID=NW_020555857_1,assembly=Amel_HAv3.1,length=3072>
+##contig=<ID=NW_020555858_1,assembly=Amel_HAv3.1,length=2987>
+##contig=<ID=NC_037653_1,assembly=Amel_HAv3.1,length=7238532>
+##contig=<ID=NW_020555859_1,assembly=Amel_HAv3.1,length=486754>
+##contig=<ID=NW_020555860_1,assembly=Amel_HAv3.1,length=311923>
+##contig=<ID=NW_020555861_1,assembly=Amel_HAv3.1,length=135562>
+##contig=<ID=NW_020555862_1,assembly=Amel_HAv3.1,length=120686>
+##contig=<ID=NW_020555863_1,assembly=Amel_HAv3.1,length=108711>
+##contig=<ID=NW_020555864_1,assembly=Amel_HAv3.1,length=92711>
+##contig=<ID=NW_020555865_1,assembly=Amel_HAv3.1,length=68035>
+##contig=<ID=NW_020555866_1,assembly=Amel_HAv3.1,length=66194>
+##contig=<ID=NW_020555867_1,assembly=Amel_HAv3.1,length=56971>
+##contig=<ID=NW_020555868_1,assembly=Amel_HAv3.1,length=56225>
+##contig=<ID=NW_020555869_1,assembly=Amel_HAv3.1,length=52709>
+##contig=<ID=NW_020555870_1,assembly=Amel_HAv3.1,length=52744>
+##contig=<ID=NW_020555871_1,assembly=Amel_HAv3.1,length=49670>
+##contig=<ID=NW_020555872_1,assembly=Amel_HAv3.1,length=49506>
+##contig=<ID=NW_020555873_1,assembly=Amel_HAv3.1,length=36396>
+##contig=<ID=NW_020555874_1,assembly=Amel_HAv3.1,length=35193>
+##contig=<ID=NW_020555875_1,assembly=Amel_HAv3.1,length=35070>
+##contig=<ID=NW_020555876_1,assembly=Amel_HAv3.1,length=34588>
+##contig=<ID=NW_020555877_1,assembly=Amel_HAv3.1,length=33219>
+##contig=<ID=NW_020555878_1,assembly=Amel_HAv3.1,length=30850>
+##contig=<ID=NW_020555879_1,assembly=Amel_HAv3.1,length=30345>
+##contig=<ID=NW_020555880_1,assembly=Amel_HAv3.1,length=30149>
+##contig=<ID=NW_020555881_1,assembly=Amel_HAv3.1,length=29749>
+##contig=<ID=NW_020555882_1,assembly=Amel_HAv3.1,length=29493>
+##contig=<ID=NW_020555883_1,assembly=Amel_HAv3.1,length=28697>
+##contig=<ID=NW_020555884_1,assembly=Amel_HAv3.1,length=25587>
+##contig=<ID=NW_020555885_1,assembly=Amel_HAv3.1,length=25299>
+##contig=<ID=NW_020555886_1,assembly=Amel_HAv3.1,length=25083>
+##contig=<ID=NW_020555887_1,assembly=Amel_HAv3.1,length=24917>
+##contig=<ID=NW_020555888_1,assembly=Amel_HAv3.1,length=24436>
+##contig=<ID=NW_020555889_1,assembly=Amel_HAv3.1,length=22456>
+##contig=<ID=NW_020555890_1,assembly=Amel_HAv3.1,length=22137>
+##contig=<ID=NW_020555891_1,assembly=Amel_HAv3.1,length=21830>
+##contig=<ID=NW_020555892_1,assembly=Amel_HAv3.1,length=21705>
+##contig=<ID=NW_020555893_1,assembly=Amel_HAv3.1,length=21390>
+##contig=<ID=NW_020555894_1,assembly=Amel_HAv3.1,length=21197>
+##contig=<ID=NW_020555895_1,assembly=Amel_HAv3.1,length=20251>
+##contig=<ID=NW_020555896_1,assembly=Amel_HAv3.1,length=19254>
+##contig=<ID=NW_020555897_1,assembly=Amel_HAv3.1,length=18419>
+##contig=<ID=NW_020555898_1,assembly=Amel_HAv3.1,length=18185>
+##contig=<ID=NW_020555899_1,assembly=Amel_HAv3.1,length=18108>
+##contig=<ID=NW_020555900_1,assembly=Amel_HAv3.1,length=16039>
+##contig=<ID=NW_020555901_1,assembly=Amel_HAv3.1,length=15874>
+##contig=<ID=NW_020555902_1,assembly=Amel_HAv3.1,length=15501>
+##contig=<ID=NW_020555903_1,assembly=Amel_HAv3.1,length=15245>
+##contig=<ID=NW_020555904_1,assembly=Amel_HAv3.1,length=14627>
+##contig=<ID=NW_020555905_1,assembly=Amel_HAv3.1,length=14470>
+##contig=<ID=NW_020555906_1,assembly=Amel_HAv3.1,length=14429>
+##contig=<ID=NW_020555907_1,assembly=Amel_HAv3.1,length=13874>
+##contig=<ID=NW_020555908_1,assembly=Amel_HAv3.1,length=13557>
+##contig=<ID=NW_020555909_1,assembly=Amel_HAv3.1,length=13184>
+##contig=<ID=NW_020555910_1,assembly=Amel_HAv3.1,length=12682>
+##contig=<ID=NW_020555911_1,assembly=Amel_HAv3.1,length=12676>
+##contig=<ID=NW_020555912_1,assembly=Amel_HAv3.1,length=12477>
+##contig=<ID=NW_020555913_1,assembly=Amel_HAv3.1,length=12356>
+##contig=<ID=NW_020555914_1,assembly=Amel_HAv3.1,length=12212>
+##contig=<ID=NW_020555915_1,assembly=Amel_HAv3.1,length=12075>
+##contig=<ID=NW_020555916_1,assembly=Amel_HAv3.1,length=11738>
+##contig=<ID=NW_020555917_1,assembly=Amel_HAv3.1,length=11215>
+##contig=<ID=NW_020555918_1,assembly=Amel_HAv3.1,length=10554>
+##contig=<ID=NW_020555919_1,assembly=Amel_HAv3.1,length=9876>
+##contig=<ID=NW_020555920_1,assembly=Amel_HAv3.1,length=9803>
+##contig=<ID=NW_020555921_1,assembly=Amel_HAv3.1,length=9724>
+##contig=<ID=NW_020555922_1,assembly=Amel_HAv3.1,length=9462>
+##contig=<ID=NW_020555923_1,assembly=Amel_HAv3.1,length=9171>
+##contig=<ID=NW_020555924_1,assembly=Amel_HAv3.1,length=9093>
+##contig=<ID=NW_020555925_1,assembly=Amel_HAv3.1,length=8299>
+##contig=<ID=NW_020555926_1,assembly=Amel_HAv3.1,length=8261>
+##contig=<ID=NW_020555927_1,assembly=Amel_HAv3.1,length=8085>
+##contig=<ID=NW_020555928_1,assembly=Amel_HAv3.1,length=8075>
+##contig=<ID=NW_020555929_1,assembly=Amel_HAv3.1,length=7938>
+##contig=<ID=NW_020555930_1,assembly=Amel_HAv3.1,length=7794>
+##contig=<ID=NW_020555931_1,assembly=Amel_HAv3.1,length=7505>
+##contig=<ID=NW_020555932_1,assembly=Amel_HAv3.1,length=7322>
+##contig=<ID=NW_020555933_1,assembly=Amel_HAv3.1,length=7158>
+##contig=<ID=NW_020555934_1,assembly=Amel_HAv3.1,length=7118>
+##contig=<ID=NW_020555935_1,assembly=Amel_HAv3.1,length=7093>
+##contig=<ID=NW_020555936_1,assembly=Amel_HAv3.1,length=6759>
+##contig=<ID=NW_020555937_1,assembly=Amel_HAv3.1,length=6019>
+##contig=<ID=NW_020555938_1,assembly=Amel_HAv3.1,length=5439>
+##contig=<ID=NW_020555939_1,assembly=Amel_HAv3.1,length=5147>
+##contig=<ID=NW_020555940_1,assembly=Amel_HAv3.1,length=5036>
+##contig=<ID=NW_020555941_1,assembly=Amel_HAv3.1,length=5006>
+##contig=<ID=NW_020555942_1,assembly=Amel_HAv3.1,length=4954>
+##contig=<ID=NW_020555943_1,assembly=Amel_HAv3.1,length=4407>
+##contig=<ID=NW_020555944_1,assembly=Amel_HAv3.1,length=3840>
+##contig=<ID=NW_020555945_1,assembly=Amel_HAv3.1,length=3691>
+##contig=<ID=NW_020555946_1,assembly=Amel_HAv3.1,length=2376>
+##contig=<ID=NW_020555947_1,assembly=Amel_HAv3.1,length=2302>
+##contig=<ID=NC_001566_1,assembly=Amel_HAv3.1,length=16343>
+##phasing=none
+##INFO=<ID=NS,Number=1,Type=Integer,Description="Number of samples with data">
+##INFO=<ID=HS,Number=0,Type=Flag,Description="Indicate it is at a hot spot">
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Total read depth at the locus">
+##INFO=<ID=RO,Number=1,Type=Integer,Description="Reference allele observations">
+##INFO=<ID=AO,Number=A,Type=Integer,Description="Alternate allele observations">
+##INFO=<ID=SRF,Number=1,Type=Integer,Description="Number of reference observations on the forward strand">
+##INFO=<ID=SRR,Number=1,Type=Integer,Description="Number of reference observations on the reverse strand">
+##INFO=<ID=SAF,Number=A,Type=Integer,Description="Alternate allele observations on the forward strand">
+##INFO=<ID=SAR,Number=A,Type=Integer,Description="Alternate allele observations on the reverse strand">
+##INFO=<ID=FDP,Number=1,Type=Integer,Description="Flow Evaluator read depth at the locus">
+##INFO=<ID=FRO,Number=1,Type=Integer,Description="Flow Evaluator Reference allele observations">
+##INFO=<ID=FAO,Number=A,Type=Integer,Description="Flow Evaluator Alternate allele observations">
+##INFO=<ID=AF,Number=A,Type=Float,Description="Allele frequency based on Flow Evaluator observation counts">
+##INFO=<ID=FSRF,Number=1,Type=Integer,Description="Flow Evaluator Reference observations on the forward strand">
+##INFO=<ID=FSRR,Number=1,Type=Integer,Description="Flow Evaluator Reference observations on the reverse strand">
+##INFO=<ID=FSAF,Number=A,Type=Integer,Description="Flow Evaluator Alternate allele observations on the forward strand">
+##INFO=<ID=FSAR,Number=A,Type=Integer,Description="Flow Evaluator Alternate allele observations on the reverse strand">
+##INFO=<ID=TYPE,Number=A,Type=String,Description="The type of allele, either snp, mnp, ins, del, or complex.">
+##INFO=<ID=LEN,Number=A,Type=Integer,Description="allele length">
+##INFO=<ID=HRUN,Number=A,Type=Integer,Description="Run length: the number of consecutive repeats of the alternate allele in the reference genome">
+##INFO=<ID=MLLD,Number=A,Type=Float,Description="Mean log-likelihood delta per read.">
+##INFO=<ID=FWDB,Number=A,Type=Float,Description="Forward strand bias in prediction.">
+##INFO=<ID=REVB,Number=A,Type=Float,Description="Reverse strand bias in prediction.">
+##INFO=<ID=FWDBA,Number=A,Type=Float,Description="Flow signal adjustment on the delta direction of the allele being applied to the reads on the forward strand.">
+##INFO=<ID=REVBA,Number=A,Type=Float,Description="Flow signal adjustment on the delta direction of the allele being applied to the reads on the reverse strand.">
+##INFO=<ID=REFB,Number=A,Type=Float,Description="Reference Hypothesis bias in prediction.">
+##INFO=<ID=VARB,Number=A,Type=Float,Description="Variant Hypothesis bias in prediction.">
+##INFO=<ID=STB,Number=A,Type=Float,Description="Strand bias in variant relative to reference.">
+##INFO=<ID=STBP,Number=A,Type=Float,Description="Pval of Strand bias in variant relative to reference.">
+##INFO=<ID=RBI,Number=A,Type=Float,Description="Distance of bias parameters from zero.">
+##INFO=<ID=QD,Number=1,Type=Float,Description="QualityByDepth as 4*QUAL/FDP (analogous to GATK)">
+##INFO=<ID=FXX,Number=1,Type=Float,Description="Flow Evaluator failed read ratio">
+##INFO=<ID=FR,Number=A,Type=String,Description="Reason why the variant was filtered.">
+##INFO=<ID=MISC,Number=.,Type=String,Description="Miscellaneous information about the call.">
+##INFO=<ID=INFO,Number=.,Type=String,Description="Information about variant realignment and healing.">
+##INFO=<ID=SSSB,Number=A,Type=Float,Description="Strand-specific strand bias for allele.">
+##INFO=<ID=SSEN,Number=A,Type=Float,Description="Strand-specific-error prediction on negative strand.">
+##INFO=<ID=SSEP,Number=A,Type=Float,Description="Strand-specific-error prediction on positive strand.">
+##INFO=<ID=PB,Number=A,Type=Float,Description="Bias of relative variant position in reference reads versus variant reads. Equals Mann-Whitney U rho statistic P(Y>X)+0.5P(Y=X)">
+##INFO=<ID=PBP,Number=A,Type=Float,Description="Pval of relative variant position in reference reads versus variant reads.  Related to GATK ReadPosRankSumTest">
+##INFO=<ID=PPD,Number=A,Type=Integer,Description="Number of extra prefix paddings added to the alternative allele">
+##INFO=<ID=SPD,Number=A,Type=Integer,Description="Number of extra suffix paddings added to the alternative allele">
+##INFO=<ID=FDVR,Number=A,Type=Integer,Description="Level of Flow Disruption of the alternative allele versus reference.">
+##FILTER=<ID=NOCALL,Description="Generic filter. Filtering details stored in FR info tag.">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##FORMAT=<ID=GQ,Number=1,Type=Integer,Description="Genotype Quality, the Phred-scaled marginal (or unconditional) probability of the called genotype">
+##FORMAT=<ID=DP,Number=1,Type=Integer,Description="Read Depth">
+##FORMAT=<ID=RO,Number=1,Type=Integer,Description="Reference allele observation count">
+##FORMAT=<ID=AO,Number=A,Type=Integer,Description="Alternate allele observation count">
+##FORMAT=<ID=SRF,Number=1,Type=Integer,Description="Number of reference observations on the forward strand">
+##FORMAT=<ID=SRR,Number=1,Type=Integer,Description="Number of reference observations on the reverse strand">
+##FORMAT=<ID=SAF,Number=A,Type=Integer,Description="Alternate allele observations on the forward strand">
+##FORMAT=<ID=SAR,Number=A,Type=Integer,Description="Alternate allele observations on the reverse strand">
+##FORMAT=<ID=FDP,Number=1,Type=Integer,Description="Flow Evaluator Read Depth">
+##FORMAT=<ID=FRO,Number=1,Type=Integer,Description="Flow Evaluator Reference allele observation count">
+##FORMAT=<ID=FAO,Number=A,Type=Integer,Description="Flow Evaluator Alternate allele observation count">
+##FORMAT=<ID=AF,Number=A,Type=Float,Description="Allele frequency based on Flow Evaluator observation counts">
+##FORMAT=<ID=FSRF,Number=1,Type=Integer,Description="Flow Evaluator reference observations on the forward strand">
+##FORMAT=<ID=FSRR,Number=1,Type=Integer,Description="Flow Evaluator reference observations on the reverse strand">
+##FORMAT=<ID=FSAF,Number=A,Type=Integer,Description="Flow Evaluator Alternate allele observations on the forward strand">
+##FORMAT=<ID=FSAR,Number=A,Type=Integer,Description="Flow Evaluator Alternate allele observations on the reverse strand">
+##INFO=<ID=OID,Number=.,Type=String,Description="List of original Hotspot IDs">
+##INFO=<ID=OPOS,Number=.,Type=Integer,Description="List of original allele positions">
+##INFO=<ID=OREF,Number=.,Type=String,Description="List of original reference bases">
+##INFO=<ID=OALT,Number=.,Type=String,Description="List of original variant bases">
+##INFO=<ID=OMAPALT,Number=.,Type=String,Description="Maps OID,OPOS,OREF,OALT entries to specific ALT alleles">
+##INFO=<ID=UFR,Number=.,Type=String,Description="List of ALT alleles with Unexpected Filter thresholds">
+##INFO=<ID=SUBSET,Number=A,Type=String,Description="1-based index in ALT list of genotyped allele(s) that are a strict superset">
+##INFO=<ID=HS_ONLY,Number=1,Type=Integer,Description="Corresponding value from target file meta information">
+##deamination_metric=0.122773
+##source_20200414.1=vcf-merge(v0.1.14-12-gcdb80b8) TSVC_variants_IonXpress_009.vcf TSVC_variants_IonXpress_010.vcf TSVC_variants_IonXpress_011.vcf TSVC_variants_IonXpress_012.vcf TSVC_variants_IonXpress_013.vcf TSVC_variants_IonXpress_014.vcf TSVC_variants_IonXpress_015.vcf TSVC_variants_IonXpress_021.vcf
+##sourceFiles_20200414.1=0:TSVC_variants_IonXpress_009.vcf,1:TSVC_variants_IonXpress_010.vcf,2:TSVC_variants_IonXpress_011.vcf,3:TSVC_variants_IonXpress_012.vcf,4:TSVC_variants_IonXpress_013.vcf,5:TSVC_variants_IonXpress_014.vcf,6:TSVC_variants_IonXpress_015.vcf,7:TSVC_variants_IonXpress_021.vcf
+##INFO=<ID=SF,Number=.,Type=String,Description="Source File (index to sourceFiles, f when filtered)">
+##INFO=<ID=AC,Number=.,Type=Integer,Description="Allele count in genotypes">
+##INFO=<ID=AN,Number=1,Type=Integer,Description="Total number of alleles in called genotypes">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	Sample	Sample 2	Sample 3	Sample 4	Sample 5	Sample 6	Sample 7	Sample 8

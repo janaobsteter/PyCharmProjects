@@ -1,0 +1,287 @@
+##fileformat=VCFv4.1
+##fileDate=20200115
+##fileUTCtime=2020-01-15T15:35:16
+##source="tvc 5.12-27 (2b3c8bf) - Torrent Variant Caller"
+##parametersName="Generic - PGM (3xx) - Germ Line - Low Stringency"
+##parametersDetails="TS version: 5.12"
+##basecallerVersion="5.12-27/2b3c8bf"
+##tmapVersion="5.12.27 (2b3c8bf) (201907221728)"
+##reference=/results/referenceLibrary/tmap-f3/Amel_HAv3.1/Amel_HAv3.1.fasta
+##contig=<ID=NC_037638_1,length=27754200,assembly=Amel_HAv3.1>
+##contig=<ID=NC_037639_1,length=16089512,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555788_1,length=3988,assembly=Amel_HAv3.1>
+##contig=<ID=NC_037640_1,length=13619445,assembly=Amel_HAv3.1>
+##contig=<ID=NC_037641_1,length=13404451,assembly=Amel_HAv3.1>
+##contig=<ID=NC_037642_1,length=13896941,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555789_1,length=24043,assembly=Amel_HAv3.1>
+##contig=<ID=NC_037643_1,length=17789102,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555790_1,length=23881,assembly=Amel_HAv3.1>
+##contig=<ID=NC_037644_1,length=14198698,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555791_1,length=28854,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555792_1,length=22163,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555793_1,length=12667,assembly=Amel_HAv3.1>
+##contig=<ID=NC_037645_1,length=12717210,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555794_1,length=40528,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555795_1,length=17189,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555796_1,length=11842,assembly=Amel_HAv3.1>
+##contig=<ID=NC_037646_1,length=12354651,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555797_1,length=41529,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555798_1,length=41327,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555799_1,length=36874,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555800_1,length=34862,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555801_1,length=31353,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555802_1,length=26859,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555803_1,length=25295,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555804_1,length=21070,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555805_1,length=18505,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555806_1,length=17223,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555807_1,length=17199,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555808_1,length=15069,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555809_1,length=14774,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555810_1,length=11259,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555811_1,length=11145,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555812_1,length=6719,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555813_1,length=4248,assembly=Amel_HAv3.1>
+##contig=<ID=NC_037647_1,length=12360052,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555814_1,length=95318,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555815_1,length=67913,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555816_1,length=40431,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555817_1,length=28022,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555818_1,length=23055,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555819_1,length=22320,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555820_1,length=20023,assembly=Amel_HAv3.1>
+##contig=<ID=NC_037648_1,length=16352600,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555821_1,length=35182,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555822_1,length=24609,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555823_1,length=15613,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555824_1,length=13259,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555825_1,length=3624,assembly=Amel_HAv3.1>
+##contig=<ID=NC_037649_1,length=11514234,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555826_1,length=18903,assembly=Amel_HAv3.1>
+##contig=<ID=NC_037650_1,length=11279722,assembly=Amel_HAv3.1>
+##contig=<ID=NC_037651_1,length=10670842,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555827_1,length=35146,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555828_1,length=24061,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555829_1,length=23155,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555830_1,length=21574,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555831_1,length=19344,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555832_1,length=16896,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555833_1,length=16072,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555834_1,length=14199,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555835_1,length=13856,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555836_1,length=12635,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555837_1,length=12630,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555838_1,length=11160,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555839_1,length=9716,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555840_1,length=8753,assembly=Amel_HAv3.1>
+##contig=<ID=NC_037652_1,length=9534514,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555841_1,length=73645,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555842_1,length=60267,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555843_1,length=44578,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555844_1,length=35241,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555845_1,length=24031,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555846_1,length=23749,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555847_1,length=21570,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555848_1,length=21229,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555849_1,length=20706,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555850_1,length=18311,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555851_1,length=10530,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555852_1,length=9153,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555853_1,length=5948,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555854_1,length=5288,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555855_1,length=4502,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555856_1,length=3152,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555857_1,length=3072,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555858_1,length=2987,assembly=Amel_HAv3.1>
+##contig=<ID=NC_037653_1,length=7238532,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555859_1,length=486754,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555860_1,length=311923,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555861_1,length=135562,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555862_1,length=120686,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555863_1,length=108711,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555864_1,length=92711,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555865_1,length=68035,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555866_1,length=66194,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555867_1,length=56971,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555868_1,length=56225,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555869_1,length=52709,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555870_1,length=52744,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555871_1,length=49670,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555872_1,length=49506,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555873_1,length=36396,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555874_1,length=35193,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555875_1,length=35070,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555876_1,length=34588,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555877_1,length=33219,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555878_1,length=30850,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555879_1,length=30345,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555880_1,length=30149,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555881_1,length=29749,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555882_1,length=29493,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555883_1,length=28697,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555884_1,length=25587,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555885_1,length=25299,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555886_1,length=25083,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555887_1,length=24917,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555888_1,length=24436,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555889_1,length=22456,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555890_1,length=22137,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555891_1,length=21830,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555892_1,length=21705,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555893_1,length=21390,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555894_1,length=21197,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555895_1,length=20251,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555896_1,length=19254,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555897_1,length=18419,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555898_1,length=18185,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555899_1,length=18108,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555900_1,length=16039,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555901_1,length=15874,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555902_1,length=15501,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555903_1,length=15245,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555904_1,length=14627,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555905_1,length=14470,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555906_1,length=14429,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555907_1,length=13874,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555908_1,length=13557,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555909_1,length=13184,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555910_1,length=12682,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555911_1,length=12676,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555912_1,length=12477,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555913_1,length=12356,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555914_1,length=12212,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555915_1,length=12075,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555916_1,length=11738,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555917_1,length=11215,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555918_1,length=10554,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555919_1,length=9876,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555920_1,length=9803,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555921_1,length=9724,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555922_1,length=9462,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555923_1,length=9171,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555924_1,length=9093,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555925_1,length=8299,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555926_1,length=8261,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555927_1,length=8085,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555928_1,length=8075,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555929_1,length=7938,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555930_1,length=7794,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555931_1,length=7505,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555932_1,length=7322,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555933_1,length=7158,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555934_1,length=7118,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555935_1,length=7093,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555936_1,length=6759,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555937_1,length=6019,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555938_1,length=5439,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555939_1,length=5147,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555940_1,length=5036,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555941_1,length=5006,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555942_1,length=4954,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555943_1,length=4407,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555944_1,length=3840,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555945_1,length=3691,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555946_1,length=2376,assembly=Amel_HAv3.1>
+##contig=<ID=NW_020555947_1,length=2302,assembly=Amel_HAv3.1>
+##contig=<ID=NC_001566_1,length=16343,assembly=Amel_HAv3.1>
+##phasing=none
+##INFO=<ID=NS,Number=1,Type=Integer,Description="Number of samples with data">
+##INFO=<ID=HS,Number=0,Type=Flag,Description="Indicate it is at a hot spot">
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Total read depth at the locus">
+##INFO=<ID=RO,Number=1,Type=Integer,Description="Reference allele observations">
+##INFO=<ID=AO,Number=A,Type=Integer,Description="Alternate allele observations">
+##INFO=<ID=SRF,Number=1,Type=Integer,Description="Number of reference observations on the forward strand">
+##INFO=<ID=SRR,Number=1,Type=Integer,Description="Number of reference observations on the reverse strand">
+##INFO=<ID=SAF,Number=A,Type=Integer,Description="Alternate allele observations on the forward strand">
+##INFO=<ID=SAR,Number=A,Type=Integer,Description="Alternate allele observations on the reverse strand">
+##INFO=<ID=FDP,Number=1,Type=Integer,Description="Flow Evaluator read depth at the locus">
+##INFO=<ID=FRO,Number=1,Type=Integer,Description="Flow Evaluator Reference allele observations">
+##INFO=<ID=FAO,Number=A,Type=Integer,Description="Flow Evaluator Alternate allele observations">
+##INFO=<ID=AF,Number=A,Type=Float,Description="Allele frequency based on Flow Evaluator observation counts">
+##INFO=<ID=FSRF,Number=1,Type=Integer,Description="Flow Evaluator Reference observations on the forward strand">
+##INFO=<ID=FSRR,Number=1,Type=Integer,Description="Flow Evaluator Reference observations on the reverse strand">
+##INFO=<ID=FSAF,Number=A,Type=Integer,Description="Flow Evaluator Alternate allele observations on the forward strand">
+##INFO=<ID=FSAR,Number=A,Type=Integer,Description="Flow Evaluator Alternate allele observations on the reverse strand">
+##INFO=<ID=TYPE,Number=A,Type=String,Description="The type of allele, either snp, mnp, ins, del, or complex.">
+##INFO=<ID=LEN,Number=A,Type=Integer,Description="allele length">
+##INFO=<ID=HRUN,Number=A,Type=Integer,Description="Run length: the number of consecutive repeats of the alternate allele in the reference genome">
+##INFO=<ID=MLLD,Number=A,Type=Float,Description="Mean log-likelihood delta per read.">
+##INFO=<ID=FWDB,Number=A,Type=Float,Description="Forward strand bias in prediction.">
+##INFO=<ID=REVB,Number=A,Type=Float,Description="Reverse strand bias in prediction.">
+##INFO=<ID=FWDBA,Number=A,Type=Float,Description="Flow signal adjustment on the delta direction of the allele being applied to the reads on the forward strand.">
+##INFO=<ID=REVBA,Number=A,Type=Float,Description="Flow signal adjustment on the delta direction of the allele being applied to the reads on the reverse strand.">
+##INFO=<ID=REFB,Number=A,Type=Float,Description="Reference Hypothesis bias in prediction.">
+##INFO=<ID=VARB,Number=A,Type=Float,Description="Variant Hypothesis bias in prediction.">
+##INFO=<ID=STB,Number=A,Type=Float,Description="Strand bias in variant relative to reference.">
+##INFO=<ID=STBP,Number=A,Type=Float,Description="Pval of Strand bias in variant relative to reference.">
+##INFO=<ID=RBI,Number=A,Type=Float,Description="Distance of bias parameters from zero.">
+##INFO=<ID=QD,Number=1,Type=Float,Description="QualityByDepth as 4*QUAL/FDP (analogous to GATK)">
+##INFO=<ID=FXX,Number=1,Type=Float,Description="Flow Evaluator failed read ratio">
+##INFO=<ID=FR,Number=A,Type=String,Description="Reason why the variant was filtered.">
+##INFO=<ID=MISC,Number=.,Type=String,Description="Miscellaneous information about the call.">
+##INFO=<ID=INFO,Number=.,Type=String,Description="Information about variant realignment and healing.">
+##INFO=<ID=SSSB,Number=A,Type=Float,Description="Strand-specific strand bias for allele.">
+##INFO=<ID=SSEN,Number=A,Type=Float,Description="Strand-specific-error prediction on negative strand.">
+##INFO=<ID=SSEP,Number=A,Type=Float,Description="Strand-specific-error prediction on positive strand.">
+##INFO=<ID=PB,Number=A,Type=Float,Description="Bias of relative variant position in reference reads versus variant reads. Equals Mann-Whitney U rho statistic P(Y>X)+0.5P(Y=X)">
+##INFO=<ID=PBP,Number=A,Type=Float,Description="Pval of relative variant position in reference reads versus variant reads.  Related to GATK ReadPosRankSumTest">
+##INFO=<ID=PPD,Number=A,Type=Integer,Description="Number of extra prefix paddings added to the alternative allele">
+##INFO=<ID=SPD,Number=A,Type=Integer,Description="Number of extra suffix paddings added to the alternative allele">
+##INFO=<ID=FDVR,Number=A,Type=Integer,Description="Level of Flow Disruption of the alternative allele versus reference.">
+##FILTER=<ID=NOCALL,Description="Generic filter. Filtering details stored in FR info tag.">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##FORMAT=<ID=GQ,Number=1,Type=Integer,Description="Genotype Quality, the Phred-scaled marginal (or unconditional) probability of the called genotype">
+##FORMAT=<ID=DP,Number=1,Type=Integer,Description="Read Depth">
+##FORMAT=<ID=RO,Number=1,Type=Integer,Description="Reference allele observation count">
+##FORMAT=<ID=AO,Number=A,Type=Integer,Description="Alternate allele observation count">
+##FORMAT=<ID=SRF,Number=1,Type=Integer,Description="Number of reference observations on the forward strand">
+##FORMAT=<ID=SRR,Number=1,Type=Integer,Description="Number of reference observations on the reverse strand">
+##FORMAT=<ID=SAF,Number=A,Type=Integer,Description="Alternate allele observations on the forward strand">
+##FORMAT=<ID=SAR,Number=A,Type=Integer,Description="Alternate allele observations on the reverse strand">
+##FORMAT=<ID=FDP,Number=1,Type=Integer,Description="Flow Evaluator Read Depth">
+##FORMAT=<ID=FRO,Number=1,Type=Integer,Description="Flow Evaluator Reference allele observation count">
+##FORMAT=<ID=FAO,Number=A,Type=Integer,Description="Flow Evaluator Alternate allele observation count">
+##FORMAT=<ID=AF,Number=A,Type=Float,Description="Allele frequency based on Flow Evaluator observation counts">
+##FORMAT=<ID=FSRF,Number=1,Type=Integer,Description="Flow Evaluator reference observations on the forward strand">
+##FORMAT=<ID=FSRR,Number=1,Type=Integer,Description="Flow Evaluator reference observations on the reverse strand">
+##FORMAT=<ID=FSAF,Number=A,Type=Integer,Description="Flow Evaluator Alternate allele observations on the forward strand">
+##FORMAT=<ID=FSAR,Number=A,Type=Integer,Description="Flow Evaluator Alternate allele observations on the reverse strand">
+##INFO=<ID=OID,Number=.,Type=String,Description="List of original Hotspot IDs">
+##INFO=<ID=OPOS,Number=.,Type=Integer,Description="List of original allele positions">
+##INFO=<ID=OREF,Number=.,Type=String,Description="List of original reference bases">
+##INFO=<ID=OALT,Number=.,Type=String,Description="List of original variant bases">
+##INFO=<ID=OMAPALT,Number=.,Type=String,Description="Maps OID,OPOS,OREF,OALT entries to specific ALT alleles">
+##INFO=<ID=UFR,Number=.,Type=String,Description="List of ALT alleles with Unexpected Filter thresholds">
+##INFO=<ID=SUBSET,Number=A,Type=String,Description="1-based index in ALT list of genotyped allele(s) that are a strict superset">
+##INFO=<ID=HS_ONLY,Number=1,Type=Integer,Description="Corresponding value from target file meta information">
+##deamination_metric=0.171338
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	Sample 6
+NC_037640_1	4846491	.	AATATACTATA	AATATA	642.145	PASS	AF=1;AO=56;DP=87;FAO=87;FDP=87;FDVR=10;FR=.;FRO=0;FSAF=5;FSAR=82;FSRF=0;FSRR=0;FWDB=0.0216907;FXX=0;HRUN=1;HS_ONLY=0;LEN=5;MISC=HEALED;MLLD=239.708;OALT=-;OID=.;OMAPALT=AATATA;OPOS=4846493;OREF=TATAC;PB=0.5;PBP=1;PPD=5;QD=29.5239;RBI=0.0378942;REFB=0;REVB=0.0310723;RO=0;SAF=4;SAR=52;SPD=0;SRF=0;SRR=0;SSEN=0;SSEP=0;SSSB=0;STB=0.5;STBP=1;TYPE=del;VARB=0.000275267	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	1/1:75:87:87:0:0:56:87:1:52:4:0:0:82:5:0:0
+NC_037640_1	4846557	.	A	G	682.921	PASS	AF=1;AO=91;DP=92;FAO=92;FDP=92;FDVR=10;FR=.;FRO=0;FSAF=1;FSAR=91;FSRF=0;FSRR=0;FWDB=0.0315643;FXX=0;HRUN=3;HS_ONLY=0;LEN=1;MLLD=466.765;OALT=G;OID=.;OMAPALT=G;OPOS=4846557;OREF=A;PB=0.5;PBP=1;PPD=0;QD=29.6922;RBI=0.0322864;REFB=0;REVB=0.00679022;RO=0;SAF=1;SAR=90;SPD=0;SRF=0;SRR=0;SSEN=0;SSEP=0;SSSB=3.62582e-08;STB=0.5;STBP=1;TYPE=snp;VARB=8.69544e-06	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	1/1:79:92:92:0:0:91:92:1:90:1:0:0:91:1:0:0
+NC_037642_1	8096163	.	A	G	54.1402	PASS	AF=0.321918;AO=37;DP=131;FAO=47;FDP=146;FDVR=10;FR=.;FRO=99;FSAF=21;FSAR=26;FSRF=66;FSRR=33;FWDB=0.0119471;FXX=0.0394737;HRUN=5;HS_ONLY=0;LEN=1;MLLD=58.8981;OALT=G;OID=.;OMAPALT=G;OPOS=8096163;OREF=A;PB=0.5;PBP=1;PPD=0;QD=1.48329;RBI=0.0633719;REFB=-0.0658497;REVB=-0.0622356;RO=70;SAF=13;SAR=24;SPD=0;SRF=41;SRR=29;SSEN=0;SSEP=0;SSSB=-0.265221;STB=0.646042;STBP=0.026;TYPE=snp;VARB=0.0689572	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	0/1:54:131:146:70:99:37:47:0.321918:24:13:41:29:26:21:66:33
+NC_037645_1	5058452	.	A	AAGAGACG	2841.11	PASS	AF=0.992366;AO=1228;DP=1256;FAO=390;FDP=393;FDVR=10;FR=.;FRO=3;FSAF=131;FSAR=259;FSRF=2;FSRR=1;FWDB=0.0498779;FXX=0.0175;HRUN=2;HS_ONLY=0;LEN=7;MLLD=396.376;OALT=AGAGACG;OID=.;OMAPALT=AAGAGACG;OPOS=5058453;OREF=-;PB=0.5;PBP=1;PPD=0;QD=28.9172;RBI=0.0595164;REFB=-0.0895107;REVB=0.0324716;RO=2;SAF=402;SAR=826;SPD=0;SRF=1;SRR=1;SSEN=0;SSEP=0;SSSB=-0.000609142;STB=0.502824;STBP=0.258;TYPE=ins;VARB=0.000584627	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	1/1:288:1256:393:2:3:1228:390:0.992366:826:402:1:1:259:131:2:1
+NC_037646_1	11606398	.	C	CTATCCGA	2687.68	PASS	AF=0.972431;AO=440;DP=456;FAO=388;FDP=399;FDVR=10;FR=.;FRO=11;FSAF=381;FSAR=7;FSRF=9;FSRR=2;FWDB=0.0405779;FXX=0.0025;HRUN=1;HS_ONLY=0;LEN=7;MLLD=339.064;OALT=TATCCGA;OID=.;OMAPALT=CTATCCGA;OPOS=11606399;OREF=-;PB=0.5;PBP=1;PPD=0;QD=26.9442;RBI=0.0407747;REFB=-0.0745744;REVB=0.0040017;RO=9;SAF=434;SAR=6;SPD=0;SRF=9;SRR=0;SSEN=0;SSEP=0;SSSB=-0.00979437;STB=0.556743;STBP=0.006;TYPE=ins;VARB=0.00167849	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	1/1:206:456:399:9:11:440:388:0.972431:6:434:9:0:7:381:9:2
+NC_037646_1	11606414	.	A	AGAA	2088.53	PASS	AF=0.965;AO=451;DP=478;FAO=386;FDP=400;FDVR=-1;FR=.;FRO=14;FSAF=356;FSAR=30;FSRF=11;FSRR=3;FWDB=0.146054;FXX=0;HRUN=0;HS_ONLY=0;LEN=3;MLLD=95.3616;OALT=GAA;OID=.;OMAPALT=AGAA;OPOS=11606415;OREF=-;PB=0.5;PBP=1;PPD=0;QD=20.8853;RBI=0.153574;REFB=-0.140126;REVB=0.047468;RO=23;SAF=417;SAR=34;SPD=0;SRF=19;SRR=4;SSEN=0;SSEP=0;SSSB=0.0317059;STB=0.516213;STBP=0.047;TYPE=ins;VARB=0.0170238	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	1/1:312:478:400:23:14:451:386:0.965:34:417:19:4:30:356:11:3
+NC_037646_1	11606417	.	G	A	2982.21	PASS	AF=1;AO=477;DP=478;FAO=400;FDP=400;FDVR=5;FR=.;FRO=0;FSAF=367;FSAR=33;FSRF=0;FSRR=0;FWDB=0.00210014;FXX=0;HRUN=1;HS_ONLY=0;LEN=1;MLLD=83.0977;OALT=A;OID=.;OMAPALT=A;OPOS=11606417;OREF=G;PB=0.5;PBP=1;PPD=0;QD=29.8221;RBI=0.0732904;REFB=0;REVB=0.0732603;RO=0;SAF=437;SAR=40;SPD=0;SRF=0;SRR=0;SSEN=0;SSEP=0;SSSB=4.87502e-08;STB=0.5;STBP=1;TYPE=snp;VARB=0.000105957	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	1/1:345:478:400:0:0:477:400:1:40:437:0:0:33:367:0:0
+NC_037646_1	11606421	.	C	T	2982.18	PASS	AF=1;AO=482;DP=484;FAO=400;FDP=400;FDVR=10;FR=.;FRO=0;FSAF=363;FSAR=37;FSRF=0;FSRR=0;FWDB=0.0202398;FXX=0;HRUN=1;HS_ONLY=0;LEN=1;MLLD=135.421;OALT=T;OID=.;OMAPALT=T;OPOS=11606421;OREF=C;PB=0.5;PBP=1;PPD=0;QD=29.8218;RBI=0.086491;REFB=0;REVB=0.0840895;RO=0;SAF=436;SAR=46;SPD=0;SRF=0;SRR=0;SSEN=0;SSEP=0;SSSB=0;STB=0.5;STBP=1;TYPE=snp;VARB=7.84137e-05	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	1/1:345:484:400:0:0:482:400:1:46:436:0:0:37:363:0:0
+NC_037646_1	11606466	.	C	T	2982.21	PASS	AF=1;AO=508;DP=510;FAO=400;FDP=400;FDVR=5;FR=.;FRO=0;FSAF=344;FSAR=56;FSRF=0;FSRR=0;FWDB=0.0121602;FXX=0;HRUN=1;HS_ONLY=0;LEN=1;MLLD=398.28;OALT=T;OID=.;OMAPALT=T;OPOS=11606466;OREF=C;PB=0.5;PBP=1;PPD=0;QD=29.8221;RBI=0.0264211;REFB=0;REVB=0.0234565;RO=1;SAF=434;SAR=74;SPD=0;SRF=0;SRR=1;SSEN=0;SSEP=0;SSSB=0.00640771;STB=0.5;STBP=1;TYPE=snp;VARB=3.78939e-06	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	1/1:345:510:400:1:0:508:400:1:74:434:0:1:56:344:0:0
+NC_037646_1	11606556	.	A	G	2934.81	PASS	AF=0.997487;AO=640;DP=642;FAO=397;FDP=398;FDVR=10;FR=.;FRO=1;FSAF=226;FSAR=171;FSRF=1;FSRR=0;FWDB=-0.0208419;FXX=0.005;HRUN=1;HS_ONLY=0;LEN=1;MLLD=252.592;OALT=G;OID=.;OMAPALT=G;OPOS=11606556;OREF=A;PB=0.5;PBP=1;PPD=0;QD=29.4956;RBI=0.0244916;REFB=-0.0415386;REVB=0.0128628;RO=1;SAF=379;SAR=261;SPD=0;SRF=1;SRR=0;SSEN=0;SSEP=0;SSSB=-0.00125858;STB=0.501104;STBP=0.519;TYPE=snp;VARB=5.09194e-05	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	1/1:323:642:398:1:1:640:397:0.997487:261:379:1:0:171:226:1:0
+NC_037646_1	11607041	.	A	G	745.372	PASS	AF=0.965812;AO=106;DP=118;FAO=113;FDP=117;FDVR=5;FR=.;FRO=4;FSAF=99;FSAR=14;FSRF=1;FSRR=3;FWDB=0.00940784;FXX=0.00847458;HRUN=1;HS_ONLY=0;LEN=1;MLLD=60.7741;OALT=G;OID=.;OMAPALT=G;OPOS=11607041;OREF=A;PB=0.5;PBP=1;PPD=0;QD=25.4828;RBI=0.126971;REFB=-0.132582;REVB=0.126622;RO=2;SAF=94;SAR=12;SPD=0;SRF=0;SRR=2;SSEN=0;SSEP=0;SSSB=0.072771;STB=0.545888;STBP=0.006;TYPE=snp;VARB=0.0149795	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	1/1:52:118:117:2:4:106:113:0.965812:12:94:0:2:14:99:1:3
+NC_037646_1	11607054	.	G	A	850.211	PASS	AF=1;AO=111;DP=119;FAO=115;FDP=115;FDVR=5;FR=.;FRO=0;FSAF=100;FSAR=15;FSRF=0;FSRR=0;FWDB=0.0171027;FXX=0.0336134;HRUN=1;HS_ONLY=0;LEN=1;MLLD=300.745;OALT=A;OID=.;OMAPALT=A;OPOS=11607054;OREF=G;PB=0.5;PBP=1;PPD=0;QD=29.5726;RBI=0.131406;REFB=0;REVB=0.130289;RO=0;SAF=100;SAR=11;SPD=0;SRF=0;SRR=0;SSEN=0;SSEP=0;SSSB=0;STB=0.5;STBP=1;TYPE=snp;VARB=0.000111807	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	1/1:100:119:115:0:0:111:115:1:11:100:0:0:15:100:0:0
+NC_037646_1	11607608	.	G	A	469.951	PASS	AF=0.4975;AO=454;DP=941;FAO=199;FDP=400;FDVR=10;FR=.;FRO=201;FSAF=103;FSAR=96;FSRF=89;FSRR=112;FWDB=0.0359126;FXX=0;HRUN=1;HS_ONLY=0;LEN=1;MLLD=175.2;OALT=A;OID=.;OMAPALT=A;OPOS=11607608;OREF=G;PB=0.5;PBP=1;PPD=0;QD=4.69951;RBI=0.0363801;REFB=-0.0040686;REVB=0.0058131;RO=452;SAF=212;SAR=242;SPD=0;SRF=210;SRR=242;SSEN=0;SSEP=0;SSSB=0.00216389;STB=0.537531;STBP=0.13;TYPE=snp;VARB=0.00458338	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	0/1:466:941:400:452:201:454:199:0.4975:242:212:210:242:96:103:89:112
+NC_037646_1	11608035	.	A	AGGGAATCGCATTCGTCGAAGCGA	215.039	PASS	AF=0.38539;AO=300;DP=763;FAO=153;FDP=397;FDVR=10;FR=.;FRO=244;FSAF=108;FSAR=45;FSRF=133;FSRR=111;FWDB=-0.00833081;FXX=0.0075;HRUN=0;HS_ONLY=0;LEN=23;MLLD=372.672;OALT=GGGAATCGCATTCGTCGAAGCGA;OID=.;OMAPALT=AGGGAATCGCATTCGTCGAAGCGA;OPOS=11608036;OREF=-;PB=0.5;PBP=1;PPD=0;QD=2.16664;RBI=0.0161204;REFB=-0.0143765;REVB=-0.0138009;RO=453;SAF=214;SAR=86;SPD=0;SRF=237;SRR=216;SSEN=0;SSEP=0;SSSB=0.222595;STB=0.60837;STBP=0;TYPE=ins;VARB=0.0197431	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	0/1:215:763:397:453:244:300:153:0.38539:86:214:237:216:45:108:133:111
+NC_037646_1	11608045	.	C	CGA	466.385	PASS	AF=0.498741;AO=376;DP=768;FAO=198;FDP=397;FDVR=10;FR=.;FRO=199;FSAF=106;FSAR=92;FSRF=117;FSRR=82;FWDB=-0.0222876;FXX=0.0075;HRUN=1;HS_ONLY=0;LEN=2;MLLD=306.854;OALT=GA;OID=.;OMAPALT=CGA;OPOS=11608046;OREF=-;PB=0.5;PBP=1;PPD=0;QD=4.6991;RBI=0.0233216;REFB=-0.0155225;REVB=0.00686734;RO=385;SAF=221;SAR=155;SPD=0;SRF=231;SRR=154;SSEN=0;SSEP=0;SSSB=-0.0117014;STB=0.526589;STBP=0.291;TYPE=ins;VARB=0.023644	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	0/1:465:768:397:385:199:376:198:0.498741:155:221:231:154:92:106:117:82
+NC_037646_1	11608873	.	GTAA	G	551.609	PASS	AF=0.530151;AO=662;DP=1279;FAO=211;FDP=398;FDVR=10;FR=.;FRO=187;FSAF=137;FSAR=74;FSRF=127;FSRR=60;FWDB=-0.00926882;FXX=0.005;HRUN=1;HS_ONLY=0;LEN=3;MLLD=372.568;OALT=-;OID=.;OMAPALT=G;OPOS=11608874;OREF=TAA;PB=0.5;PBP=1;PPD=0;QD=5.54381;RBI=0.020272;REFB=-0.0205566;REVB=-0.0180289;RO=602;SAF=411;SAR=251;SPD=0;SRF=387;SRR=215;SSEN=0;SSEP=0;SSSB=-0.0205859;STB=0.515542;STBP=0.532;TYPE=del;VARB=0.0177286	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	0/1:395:1279:398:602:187:662:211:0.530151:251:411:387:215:74:137:127:60
+NC_037646_1	11610002	.	G	T	615.362	PASS	AF=0.556391;AO=277;DP=497;FAO=222;FDP=399;FDVR=5;FR=.;FRO=177;FSAF=137;FSAR=85;FSRF=100;FSRR=77;FWDB=0.0324037;FXX=0.0025;HRUN=2;HS_ONLY=0;LEN=1;MLLD=61.5906;OALT=T;OID=.;OMAPALT=T;OPOS=11610002;OREF=G;PB=0.5;PBP=1;PPD=0;QD=6.16904;RBI=0.0873208;REFB=-0.0581394;REVB=0.0810859;RO=215;SAF=166;SAR=111;SPD=0;SRF=126;SRR=89;SSEN=0;SSEP=0;SSSB=0.0110804;STB=0.524195;STBP=0.278;TYPE=snp;VARB=0.0469827	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	0/1:333:497:399:215:177:277:222:0.556391:111:166:126:89:85:137:100:77
+NC_037646_1	11610059	.	CGGAGGCGGT	C	2854.85	PASS	AF=0.992405;AO=464;DP=474;FAO=392;FDP=395;FDVR=10;FR=.;FRO=3;FSAF=210;FSAR=182;FSRF=1;FSRR=2;FWDB=0.0377946;FXX=0.0125;HRUN=2;HS_ONLY=0;LEN=9;MLLD=343.244;OALT=-;OID=.;OMAPALT=C;OPOS=11610060;OREF=GGAGGCGGT;PB=0.5;PBP=1;PPD=0;QD=28.9099;RBI=0.0549258;REFB=-0.054569;REVB=0.0398549;RO=0;SAF=253;SAR=211;SPD=0;SRF=0;SRR=0;SSEN=0;SSEP=0;SSSB=6.38435e-08;STB=0.501545;STBP=0.464;TYPE=del;VARB=0.00032435	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	1/1:290:474:395:0:3:464:392:0.992405:211:253:0:0:182:210:1:2
+NC_037646_1	11610077	.	T	TTCC	2586.77	PASS	AF=0.969231;AO=444;DP=481;FAO=378;FDP=390;FDVR=10;FR=.;FRO=12;FSAF=204;FSAR=174;FSRF=7;FSRR=5;FWDB=0.0592673;FXX=0.025;HRUN=2;HS_ONLY=0;LEN=3;MLLD=188.352;OALT=TCC;OID=.;OMAPALT=TTCC;OPOS=11610078;OREF=-;PB=0.5;PBP=1;PPD=0;QD=26.531;RBI=0.0611416;REFB=-0.0492353;REVB=0.0150227;RO=12;SAF=238;SAR=206;SPD=0;SRF=8;SRR=4;SSEN=0;SSEP=0;SSSB=-0.00659476;STB=0.501352;STBP=0.782;TYPE=ins;VARB=0.00150041	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	1/1:188:481:390:12:12:444:378:0.969231:206:238:8:4:174:204:7:5
+NC_037646_1	11611145	.	C	T	2892.27	PASS	AF=0.9925;AO=930;DP=937;FAO=397;FDP=400;FDVR=5;FR=.;FRO=3;FSAF=232;FSAR=165;FSRF=3;FSRR=0;FWDB=0.0417766;FXX=0;HRUN=2;HS_ONLY=0;LEN=1;MLLD=59.7167;OALT=T;OID=.;OMAPALT=T;OPOS=11611145;OREF=C;PB=0.5;PBP=1;PPD=0;QD=28.9227;RBI=0.0977091;REFB=-0.0792469;REVB=-0.0883277;RO=4;SAF=574;SAR=356;SPD=0;SRF=3;SRR=1;SSEN=0;SSEP=0;SSSB=-0.00115039;STB=0.503212;STBP=0.147;TYPE=snp;VARB=0.000770335	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	1/1:294:937:400:4:3:930:397:0.9925:356:574:3:1:165:232:3:0
+NC_037646_1	11611148	.	G	C	2919.67	PASS	AF=0.995;AO=935;DP=938;FAO=398;FDP=400;FDVR=5;FR=.;FRO=2;FSAF=233;FSAR=165;FSRF=2;FSRR=0;FWDB=0.0270344;FXX=0;HRUN=2;HS_ONLY=0;LEN=1;MLLD=63.2714;OALT=C;OID=.;OMAPALT=C;OPOS=11611148;OREF=G;PB=0.5;PBP=1;PPD=0;QD=29.1967;RBI=0.0279119;REFB=0.00867689;REVB=-0.00694367;RO=1;SAF=578;SAR=357;SPD=0;SRF=1;SRR=0;SSEN=0;SSEP=0;SSSB=-0.000825953;STB=0.502137;STBP=0.243;TYPE=snp;VARB=-4.4122e-05	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	1/1:309:938:400:1:2:935:398:0.995:357:578:1:0:165:233:2:0
+NC_037646_1	11611322	.	C	A	2941.39	PASS	AF=0.997494;AO=1000;DP=1004;FAO=398;FDP=399;FDVR=5;FR=.;FRO=1;FSAF=195;FSAR=203;FSRF=1;FSRR=0;FWDB=0.0774419;FXX=0.0025;HRUN=2;HS_ONLY=0;LEN=1;MLLD=96.9407;OALT=A;OID=.;OMAPALT=A;OPOS=11611322;OREF=C;PB=0.5;PBP=1;PPD=0;QD=29.4876;RBI=0.0774515;REFB=-0.0874348;REVB=0.00121913;RO=1;SAF=486;SAR=514;SPD=0;SRF=1;SRR=0;SSEN=0;SSEP=0;SSSB=-0.000982225;STB=0.501279;STBP=0.302;TYPE=snp;VARB=0.000220988	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	1/1:324:1004:399:1:1:1000:398:0.997494:514:486:1:0:203:195:1:0
+NC_037646_1	11611874	.	G	T	344.449	PASS	AF=0.488525;AO=146;DP=302;FAO=149;FDP=305;FDVR=10;FR=.;FRO=156;FSAF=16;FSAR=133;FSRF=26;FSRR=130;FWDB=-0.00447179;FXX=0.00326797;HRUN=2;HS_ONLY=0;LEN=1;MLLD=112.155;OALT=T;OID=.;OMAPALT=T;OPOS=11611874;OREF=G;PB=0.5;PBP=1;PPD=0;QD=4.51736;RBI=0.0505611;REFB=-0.0249842;REVB=0.0503629;RO=147;SAF=15;SAR=131;SPD=0;SRF=25;SRR=122;SSEN=0;SSEP=0;SSSB=-0.144331;STB=0.570339;STBP=0.113;TYPE=snp;VARB=0.0305485	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	0/1:344:302:305:147:156:146:149:0.488525:131:15:25:122:133:16:26:130
+NC_037648_1	11987839	.	G	A	293.026	PASS	AF=0.425;AO=203;DP=534;FAO=170;FDP=400;FDVR=5;FR=.;FRO=230;FSAF=67;FSAR=103;FSRF=78;FSRR=152;FWDB=-0.0547145;FXX=0;HRUN=2;HS_ONLY=0;LEN=1;MLLD=80.1775;OALT=A;OID=.;OMAPALT=A;OPOS=11987839;OREF=G;PB=0.5;PBP=1;PPD=0;QD=2.93026;RBI=0.0573344;REFB=-0.0130861;REVB=0.0171335;RO=293;SAF=81;SAR=122;SPD=0;SRF=105;SRR=188;SSEN=0;SSEP=0;SSSB=0.045421;STB=0.533569;STBP=0.273;TYPE=snp;VARB=0.019349	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	0/1:293:534:400:293:230:203:170:0.425:122:81:105:188:103:67:78:152
+NC_037652_1	1936393	.	CATATATATATATATATATATATATATATAT	C,CAT	2880.71	PASS	AF=0.531088,0.468912;AO=403,379;DP=821;FAO=205,181;FDP=386;FDVR=10,10;FR=.,.;FRO=0;FSAF=145,130;FSAR=60,51;FSRF=0;FSRR=0;FWDB=0.0471087,0.0502758;FXX=0.035;HRUN=1,1;HS_ONLY=0;LEN=30,28;MLLD=249.624,236.385;OALT=-,-;OID=.,.;OMAPALT=C,CAT;OPOS=1936394,1936394;OREF=ATATATATATATATATATATATATATATAT,ATATATATATATATATATATATATATAT;PB=0.5,0.5;PBP=1,1;PPD=0,0;QD=29.852;RBI=0.0527603,0.0574983;REFB=0,0;REVB=0.0237575,0.0278999;RO=0;SAF=283,272;SAR=120,107;SPD=0,2;SRF=0;SRR=0;SSEN=0,0;SSEP=0,0;SSSB=5.01417e-08,0;STB=0.5,0.5;STBP=1,1;TYPE=del,del;VARB=0.00825233,0.0086333	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	1/2:381:821:386:0:0:403,379:205,181:0.531088,0.468912:120,107:283,272:0:0:60,51:145,130:0:0
+NC_037652_1	1936450	.	G	A	2911.89	PASS	AF=0.994987;AO=1183;DP=1197;FAO=397;FDP=399;FDVR=5;FR=.;FRO=2;FSAF=191;FSAR=206;FSRF=1;FSRR=1;FWDB=0.00256442;FXX=0.0025;HRUN=2;HS_ONLY=0;LEN=1;MLLD=60.7522;OALT=A;OID=.;OMAPALT=A;OPOS=1936450;OREF=G;PB=0.5;PBP=1;PPD=0;QD=29.1919;RBI=0.0199582;REFB=-0.0152232;REVB=0.0197928;RO=5;SAF=567;SAR=616;SPD=0;SRF=4;SRR=1;SSEN=0;SSEP=0;SSSB=-0.00258415;STB=0.500095;STBP=0.853;TYPE=snp;VARB=0.00141703	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	1/1:308:1197:399:5:2:1183:397:0.994987:616:567:4:1:206:191:1:1
+NC_037652_1	1943804	.	G	T	1903.19	PASS	AF=0.996885;AO=318;DP=321;FAO=320;FDP=321;FDVR=-1;FR=.;FRO=1;FSAF=128;FSAR=192;FSRF=0;FSRR=1;FWDB=0.0291238;FXX=0;HRUN=1;HS_ONLY=0;LEN=1;MLLD=334.931;OALT=T;OID=.;OMAPALT=T;OPOS=1943804;OREF=G;PB=0.5;PBP=1;PPD=0;QD=23.7158;RBI=0.0340217;REFB=-0.11172;REVB=0.0175863;RO=1;SAF=128;SAR=190;SPD=0;SRF=0;SRR=1;SSEN=0;SSEP=0;SSSB=0.00250414;STB=0.501299;STBP=0.509;TYPE=snp;VARB=4.35877e-05	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	1/1:381:321:321:1:1:318:320:0.996885:190:128:0:1:192:128:0:1
+NC_037652_1	7010840	.	TTGT	TTGCTGC	2596.15	PASS	AF=1;AO=1080;DP=1226;FAO=348;FDP=348;FDVR=10;FR=.;FRO=0;FSAF=158;FSAR=190;FSRF=0;FSRR=0;FWDB=0.00504979;FXX=0.13;HRUN=0;HS_ONLY=0;LEN=6;MLLD=320.556;OALT=CTGC;OID=.;OMAPALT=TTGCTGC;OPOS=7010843;OREF=T;PB=0.5;PBP=1;PPD=0;QD=29.8408;RBI=0.00571192;REFB=0;REVB=0.00266939;RO=1;SAF=490;SAR=590;SPD=0;SRF=0;SRR=1;SSEN=0;SSEP=0;SSSB=0.000809286;STB=0.5;STBP=1;TYPE=complex;VARB=1.50783e-06	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	1/1:300:1226:348:1:0:1080:348:1:590:490:0:1:190:158:0:0
+NC_037652_1	7010852	.	C	T	2865.3	PASS	AF=0.99;AO=1193;DP=1227;FAO=396;FDP=400;FDVR=10;FR=.;FRO=4;FSAF=180;FSAR=216;FSRF=1;FSRR=3;FWDB=0.0149447;FXX=0;HRUN=1;HS_ONLY=0;LEN=1;MLLD=215.04;OALT=T;OID=.;OMAPALT=T;OPOS=7010852;OREF=C;PB=0.5;PBP=1;PPD=0;QD=28.653;RBI=0.0152534;REFB=-0.0147206;REVB=0.0030533;RO=8;SAF=537;SAR=656;SPD=0;SRF=6;SRR=2;SSEN=0;SSEP=0;SSSB=-0.00385438;STB=0.502063;STBP=0.383;TYPE=snp;VARB=0.000144448	GT:GQ:DP:FDP:RO:FRO:AO:FAO:AF:SAR:SAF:SRF:SRR:FSAR:FSAF:FSRF:FSRR	1/1:281:1227:400:8:4:1193:396:0.99:656:537:6:2:216:180:1:3
